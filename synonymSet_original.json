@@ -1,0 +1,7795 @@
+{
+    "PHP": [
+        "php",
+        "php.",
+        "lập trình php",
+        "php ,",
+        "core php",
+        "php5",
+        "web php",
+        "php core",
+        "code php",
+        "web php.",
+        "viết các script cài đặt",
+        "php 7.1.10",
+        "php /",
+        "php task",
+        "php (",
+        "php &",
+        "php7",
+        "php html",
+        "php 8",
+        "lập trình php.",
+        "type hinting",
+        "php zend",
+        "php )",
+        "nhúng php"
+    ],
+    "C++": [
+        "c #",
+        "c +",
+        "c ,",
+        "c # ,",
+        "/ c",
+        "c # )",
+        ", c",
+        "c++",
+        ", c #",
+        "c # /",
+        "c # chạy",
+        "với c #",
+        "c # core",
+        "truy vấn sql c / c (",
+        ": c #",
+        "c ++",
+        "( c #"
+    ],
+    "HTML": [
+        "html",
+        "html.",
+        "html ,",
+        ", html",
+        "html4",
+        "hmtl",
+        "html3",
+        "html 4.01",
+        "html,",
+        "website html",
+        "using html",
+        "trình bày rõ ràng",
+        "html template",
+        "net,html,css",
+        "xuất html",
+        "html .net"
+    ],
+    "Java": [
+        "java",
+        "java.",
+        "java ,",
+        "java3",
+        ", java",
+        "java )",
+        "java structure",
+        "no java"
+    ],
+    "CSS": [
+        "css",
+        "css3",
+        "css.",
+        "css ,",
+        "css 3",
+        "html / css",
+        "html css",
+        "html / css.",
+        "css. dụng",
+        "viết html / css",
+        "pure css",
+        "css cơ bản",
+        "css2",
+        "viết css",
+        "w3css",
+        "css. 5",
+        ", css.",
+        "css /",
+        ", css",
+        "css / html"
+    ],
+    "MySQL": [
+        "mysql",
+        "my sql",
+        "mysql server",
+        "my sql.",
+        "mysql.",
+        "database mysql",
+        "wordpress my sql",
+        "my sql server",
+        "msql server",
+        "mysql 5.5",
+        ", mysql",
+        "posgresql",
+        "oracle mysql",
+        "msql server 2005",
+        "server mysql",
+        "oracle dev",
+        "msql server 2008",
+        "mysql microsoft",
+        "my sql 4.2",
+        "quản trị csdl oracle",
+        "mysql và",
+        "mysql db",
+        "sql server mysql",
+        "rdbms : mysql",
+        "msql server 2012",
+        "mysqls",
+        "hệ quản trị csdl mysql",
+        "mysqldump",
+        "xtrabackup",
+        "mysql enterprise backup",
+        "mysql others",
+        "db mysql",
+        "posgresql server",
+        "mysql , (",
+        "oracle db. mysql",
+        "asp sql",
+        "mysql server.",
+        "tuning sql",
+        "my server",
+        "sql server my",
+        "oracle ebs backup",
+        "cluster mysql",
+        "aix oracle ebs",
+        "mysql code front-end",
+        "mysql oracle",
+        "mysql web server",
+        "mysql website",
+        "mysql 5.1.2",
+        "mysql tools",
+        "mysql opensource",
+        "mysql dbms."
+    ],
+    "Microsoft SQL Server": [
+        "sql server",
+        "ms sql server",
+        "ms sql",
+        "mssql",
+        "sql server 2008",
+        "sql server 2005",
+        "microsoft sql server",
+        "sql server 2012",
+        "mssql server",
+        "sql server 2014",
+        "microsoft sql",
+        "ms sql 2008",
+        "sql server 2000",
+        "ms sql server 2000",
+        "sql 2000",
+        "ms sql.",
+        "ms sql server 2008",
+        "ms sql server 2012",
+        "mssql.",
+        "ms sql server 2017",
+        "sql server 2016",
+        "sql server.",
+        "sql 2005",
+        "ms sql server 2016",
+        "ms sql server 2005",
+        "ms sql 2005",
+        "mssql 2008",
+        "sql server 2017",
+        "microsoft sql server 2008",
+        "mssql server 2008",
+        "sql server database",
+        "sql - server",
+        "sql server 2008 r2",
+        "microsoft server 2005",
+        "ms sql 2014",
+        "microsoft sql 2005",
+        "sql server visio",
+        "ms sql server 2000 ,",
+        "mssql server 2005",
+        "sql server 2008,2012",
+        "ms. sql2005",
+        ", ms sql",
+        "ms sql server 2008r2",
+        "database sql server",
+        "sql server 2005 .",
+        "ms sql server 2014",
+        "mssql server 2000",
+        "microsoft sql 2010",
+        "sql server window",
+        "hệ quản trị sql server",
+        "ms sql server 2015",
+        "database sql server 2008",
+        "sql2005 .",
+        "ms sql server 2012,2008",
+        "sql server 2008r2",
+        "2014 server",
+        "ms sql 2000",
+        "sql network",
+        "ms. sql",
+        "microsoft sql.",
+        "ms sql 2012",
+        "quản trị database sql",
+        "microsoft sql server 2005",
+        "ms sql server 2012 r2",
+        "microsoft sql server 2000"
+    ],
+    "JavaScript": [
+        "javascript",
+        "java script",
+        "javascripts",
+        "javascript ,",
+        "quản lý lỗi",
+        "jquery ide",
+        "làm việc với typescript",
+        "javascript.",
+        "javascript cơ bản",
+        "core javascript",
+        "jquery client",
+        "join js",
+        "javascript database",
+        "web api java javascript",
+        "chuỗi json",
+        ", javascripts"
+    ],
+    "C": [
+        "c",
+        "c / c",
+        "c / c +",
+        "c / c , c #"
+    ],
+    "Tiếng Anh": [
+        "tiếng anh",
+        "anh văn",
+        "tiếng anh giao tiếp",
+        "giao tiếp tiếng anh",
+        "tiếng anh xã hội",
+        "tiếng anh cơ bản",
+        "dịch tài liệu tiếng anh",
+        "tiếng anh giao tiếp cơ bản",
+        "anh ngữ",
+        "tiếng anh cơ sở",
+        "tiêng anh",
+        "ngoại ngữ tiếng anh",
+        "b tiếng anh",
+        "giao tiếp tiếng anh cơ bản",
+        "tiếng anh c",
+        "ngôn ngữ tiếng anh",
+        "tiếng anh a",
+        "tiếng nhật tiếng anh",
+        "hiểu tài liệu tiếng anh",
+        "tiếng anh bằng b ;",
+        "tiếng anh kỹ thuật"
+    ],
+    "JQuery": [
+        "jquery",
+        "jquery ajax",
+        "jquery.",
+        "javascript-jquery",
+        "javascript / jquery",
+        "jquery ,",
+        "jquerys",
+        "jquery library",
+        "javascript jquery",
+        "ajax-jquery",
+        "plugin jquery",
+        "code javascript jquery",
+        "jquery 2",
+        "jquery-ajax",
+        "jquery html",
+        "ajax jquery",
+        "javascript,jquery.",
+        "visual studio jquery",
+        "jquery framework",
+        "jquery plugin",
+        ", jquery",
+        "jquery plugins"
+    ],
+    "Microsoft Excel": [
+        "excel",
+        "microsoft excel",
+        "ms excel",
+        "vba excel",
+        "excel ,",
+        "microsoft office excel",
+        "excel online",
+        "microsoft office expert excel",
+        "excel /",
+        "excel word",
+        "windows ms excel",
+        "excel c #",
+        "code vba ( macro excel",
+        "ms. excel",
+        "excel 2016",
+        "excel window",
+        "file excel",
+        "ios excel",
+        "ms. excel 3d",
+        "upload file csv",
+        "excel website",
+        "ms excel 2016"
+    ],
+    "Oracle": [
+        "oracle",
+        "oracle.",
+        "oracle ,"
+    ],
+    "Android": [
+        "android",
+        "adroid",
+        "androi",
+        "app androi"
+    ],
+    "ASP.NET": [
+        "asp. net",
+        "asp .net",
+        "asp. net.",
+        "aspx",
+        "asp net",
+        "asp dot net",
+        "c # asp. net",
+        "asp. net web api",
+        "listview",
+        "asp. net 2.0",
+        "aspx .net.",
+        "web asp. net",
+        "asp / net",
+        "oop mvc",
+        "win forms asp",
+        "asp. net 4.5",
+        "java asp",
+        ".net asp",
+        "developer asp. net",
+        ".net api",
+        "lập trình asp. net",
+        "asp. net 3.5",
+        "asp. net ( c #",
+        "mvc ide",
+        "asp. net routing",
+        "sql server asp. net",
+        "c # asp .net",
+        "asp. net ,",
+        "aspx .net",
+        "asp. net api.",
+        "net api",
+        ".net web services",
+        "spring .net",
+        "asp .net 2.0",
+        "asp với",
+        "asp. net 4.0",
+        "asp .net api",
+        "asp. net web api."
+    ],
+    "SQL": [
+        "sql",
+        "sql.",
+        "sql 2008",
+        "sql database",
+        "truy vấn sql",
+        "sql2005",
+        "sql language",
+        "sql2008",
+        "database ms sql",
+        "ms sql server mysql",
+        "ms sql server oracle",
+        "không sql",
+        "sql data source",
+        "database sql.",
+        "quản trị máy chủ sql.",
+        "xml sql",
+        "basic sql",
+        "sql data types and operations",
+        "sql language elements",
+        "tự viết sql",
+        "ms sql server oracle my",
+        "và sql.",
+        "my sql framework",
+        "sql assembly",
+        "sql2014",
+        "sql 2012",
+        "data sql",
+        "sql. database",
+        "sql cơ bản",
+        "sql management 2008",
+        "my sql ms access"
+    ],
+    ".net": [
+        ".net",
+        ".net.",
+        "dotnet2005",
+        "net report",
+        "net ("
+    ],
+    "Word": [
+        "word",
+        "word ,"
+    ],
+    "Adobe Photoshop": [
+        "photoshop",
+        "adobe photoshop",
+        "photoshop cs6",
+        "photoshop.",
+        "photoshop cs5",
+        "photoshop ,",
+        "photoshop cc 2018",
+        "chỉnh sửa ảnh",
+        "photoshop cs4",
+        "photo shop",
+        "photoshop 3d",
+        "design photoshop",
+        "power point photoshop",
+        "tiếng nhật photoshop",
+        "photoshops",
+        "ps cs6",
+        "adobe photoshop cc 2015",
+        "photoshop cc",
+        "adobe photoshop cs5"
+    ],
+    "Bootstrapping (statistics)": [
+        "bootstrap",
+        "bootstrap.",
+        "bootstrap template",
+        "bootstrap 12",
+        "bootstrap )"
+    ],
+    "WordPress": [
+        "wordpress",
+        "cms wordpress",
+        "website wordpress",
+        "framework wordpress",
+        "wordpress.",
+        "theme wordpress",
+        "wordpress framework",
+        "quản trị wordpress",
+        "wordpress html",
+        "wordpress cms",
+        "thiết kế website wordpress",
+        "responsive admin theme",
+        "wordpress. dụng",
+        "wordpress theme",
+        "lập trình wordpress"
+    ],
+    "Làm việc theo nhóm": [
+        "làm việc nhóm",
+        "làm việc theo nhóm",
+        "theo nhóm",
+        "làm việc *",
+        "làm việc",
+        "làm việc nhóm tốt",
+        "làm việc trong nhóm",
+        "làm nhóm",
+        "làm việc * tốt",
+        "làm việc teamwork",
+        "làm việc * , theo nhóm",
+        "hoặc theo nhóm",
+        "làm việc đội nhóm",
+        "làm việc với các nhóm",
+        "làm việc phòng , nhóm",
+        "làm việc theo đội nhóm",
+        "làm việc nhóm , .",
+        "làm việc tập thể",
+        "làm việc tích cực",
+        "làm việc * hoặc theo nhóm",
+        "kĩ năng làm việc",
+        "lầm việc theo nhóm",
+        "teamwork tốt",
+        "thực hiện các công việc khác theo yêu cầu",
+        "làm việc hiệu quả",
+        "làm việc theo team",
+        "làm trưởng nhóm",
+        "làm việc tốt theo nhóm"
+    ],
+    "Giao tiếp": [
+        "giao tiếp",
+        "anh văn giao tiếp",
+        "giao tiếp bằng tiếng anh",
+        "anh giao tiếp cơ bản",
+        "văn giao tiếp",
+        "tin học giao tiếp",
+        "nghe nói giao tiếp cơ bản",
+        "giao tiếp trực tiếp",
+        "giao tiếp cơ bản",
+        "giao tiêp"
+    ],
+    "Model–view–controller": [
+        "mvc",
+        "mvc.",
+        "mvc pattern",
+        "mvc model",
+        "spring controller",
+        "mvc 3 / 4",
+        "java web mvc",
+        "spring web mvc",
+        ", mvc.",
+        "c # mvc."
+    ],
+    "Laravel": [
+        "laravel",
+        "laravel framework",
+        "framework laravel",
+        "laravel 5",
+        "php laravel",
+        "laravel restful api",
+        "laravel 5.0",
+        "php - laravel",
+        "laravel 5.6.16",
+        "laravel5",
+        "framework laravel 5",
+        "laravel passport",
+        "laravel 5.6",
+        "laravel 5.2",
+        "laravel dusk",
+        "laravel 5.5",
+        "framework laravel .",
+        "framework php ( laravel"
+    ],
+    "AFC Ajax": [
+        "ajax",
+        "ajax.",
+        "table ajax"
+    ],
+    "HTML5": [
+        "html5",
+        "html 5",
+        "html5 ,",
+        "html5 css3",
+        "core html",
+        "html5 / css3",
+        "html5 + css3",
+        "html 5.0"
+    ],
+    "Linux": [
+        "linux",
+        "linux server",
+        "os linux",
+        "server linux",
+        "linux os",
+        "g on linux",
+        "cấu hình linux server",
+        "c / c++ linux / unix",
+        "hệ thống linux",
+        "linux basic",
+        "quản trị hệ thống server linux",
+        "hệ thống máy chủ linux"
+    ],
+    "Microsoft PowerPoint": [
+        "power point",
+        "powerpoint",
+        "microsoft powerpoint",
+        "ms powerpoint",
+        "ms power point",
+        "excel powerpoint",
+        "autolayout",
+        "ppt",
+        "word excel powerpoint",
+        "m. powerpoint",
+        "power , point",
+        "ms. power point",
+        "powerpoints",
+        "powerpoint access",
+        "access powerpoint",
+        "microsoft office power point",
+        "powerpoint ,",
+        "ms power point internet",
+        "microsoft power point",
+        "power point word"
+    ],
+    "Microsoft Visual Studio": [
+        "visual studio",
+        "visual studio 2010",
+        "microsoft visual studio",
+        "visual studio 2015",
+        "visual studio 2008",
+        "visual studio 2012",
+        "visual studio 2013",
+        "visual studio 2005",
+        "visual studio 2017",
+        "microsoft visual studio 2010",
+        "ms visual studio",
+        "visual studio2010",
+        "microsoft visual studio .net",
+        "visual studio 4",
+        "server visual studio 2005",
+        "visual studio .net",
+        "win server visual studio 2008",
+        "microsoft visual studio 2005",
+        "visual studio 2019",
+        "visual base",
+        "microsoft visual studio 2008",
+        "visual studio2012",
+        "asp .net boilerplate",
+        "vs6",
+        "vs. net",
+        "visual studio analysis",
+        "vs2008",
+        "vs2010",
+        "oracle db visual source safe",
+        "m visual 2008",
+        "win2k3 server visual studio 2005",
+        "ms visual studio 2008"
+    ],
+    "Python": [
+        "python",
+        "phython",
+        "pythọn"
+    ],
+    "Git": [
+        "git",
+        "git.",
+        "git linux",
+        "c git",
+        "git build",
+        "git command",
+        "git ,",
+        "eclipse git"
+    ],
+    "Node.js": [
+        "nodejs",
+        "node js",
+        "node .js",
+        "nodejs express",
+        "nodejs.",
+        "express nodejs",
+        "node js.",
+        "server nodejs",
+        "nodejs express framework",
+        "back end ( nodejs",
+        "back end ( nodejs )",
+        "pro node .js",
+        "nodejs+",
+        "dns js"
+    ],
+    "Ios": [
+        "ios",
+        "main ios"
+    ],
+    "JS": [
+        "js",
+        "js.",
+        "js ("
+    ],
+    "Ngày Độc lập Hoa Kỳ": [
+        "làm việc độc lập",
+        "làm độc lập"
+    ],
+    "MongoDB": [
+        "mongodb",
+        "mongo db",
+        "db visualizer",
+        "db server",
+        "oracle mongodb",
+        "db mongo",
+        "db visualize",
+        "mongodb cluster"
+    ],
+    "Visual Basic .NET": [
+        "vb. net",
+        "vb .net",
+        "visual basic .net",
+        "vb. net.",
+        "vb. net 3.5",
+        "vb , .net",
+        "vb net",
+        "net vb.",
+        "developer vb",
+        "vb. net 2012",
+        "visual dot net",
+        ".net vb.",
+        "vb classic",
+        ".net vb. net .net"
+    ],
+    "Microsoft Word": [
+        "microsoft word",
+        "ms word",
+        "winword",
+        "ms. word",
+        "msword",
+        "office word",
+        "winwords"
+    ],
+    "Microsoft Windows": [
+        "windows",
+        "microsoft windows",
+        "microsoft window",
+        "windows application",
+        "ms window",
+        "quản trị hệ thống windows",
+        "windows c ,",
+        "ms wsus 3.0,3.1",
+        "ms windows",
+        "windọws",
+        "hệ điều hành windows",
+        "windows os",
+        "os window",
+        "máy scan",
+        "cài scan"
+    ],
+    "Windows Forms": [
+        "winform",
+        "windows form",
+        "window form",
+        "c # winform",
+        "winform c #",
+        "windows forms",
+        "net winform",
+        "winforms",
+        ".net winform",
+        "winform. net",
+        "win form",
+        "winform wpf",
+        "winform application 4.5",
+        "windows winform",
+        "winform application",
+        "window form c #",
+        "winforms application",
+        "win - form",
+        "windows form application",
+        "winform.",
+        "windowsforms",
+        "c # windows form",
+        "win forms"
+    ],
+    "XML": [
+        "xml",
+        "xml.",
+        "xml ,",
+        "xml comment"
+    ],
+    "JSP": [
+        "jsp",
+        "jsp.",
+        "jsp ,"
+    ],
+    "Thuyết trình": [
+        "thuyết trình",
+        "thuyết trình *",
+        "công cụ thuyết trình",
+        "viết bài thuyết trình"
+    ],
+    "Văn phòng": [
+        "tin học văn phòng",
+        "vi tính văn phòng",
+        "máy tính văn phòng",
+        "văn phòng",
+        "tin văn phòng",
+        "chứng chỉ tin học văn phòng",
+        "ứng dụng tin học văn phòng"
+    ],
+    "React (JavaScript library)": [
+        "reactjs",
+        "react js",
+        "react hook",
+        "framework react",
+        "javascript reactjs",
+        "react-router",
+        "design react",
+        "reactjs - code",
+        "react .js",
+        "git reactjs",
+        "reactjs api",
+        "react context",
+        "require js",
+        "react hooks"
+    ],
+    "SVN": [
+        "svn",
+        "svn.",
+        "svn ,"
+    ],
+    "Redmine": [
+        "redmine",
+        "svn redmine"
+    ],
+    "AngularJS": [
+        "angularjs",
+        "angular js",
+        "angularjs 1x",
+        "angularjs 1",
+        "java+angular",
+        "angularjs build",
+        "web sử dụng mongodb",
+        "angular js 2.0",
+        "code angularjs",
+        "css angularjs",
+        "angular .js ,",
+        "jquery and angularjs",
+        "angularjs ,"
+    ],
+    "JSON": [
+        "json",
+        "json.",
+        "parse json",
+        "dữ liệu json",
+        "json binary file"
+    ],
+    "CodeIgniter": [
+        "codeigniter",
+        "framework codeigniter",
+        "codeigniter framework",
+        "code-ignitor",
+        "code codeigniter web framework",
+        "codeignitor",
+        "codeignitor framework",
+        "codeigniter 3",
+        "codeigniter3",
+        "mô hình hmvc.",
+        "php codeigniter",
+        "codeigniter 2.1.3"
+    ],
+    "The Linq": [
+        "linq",
+        "linq.",
+        "linq ,",
+        ", linq",
+        "linq part"
+    ],
+    "Search engine optimization": [
+        "seo",
+        "seo website",
+        "seo web",
+        "seo top google",
+        "search engine optimization",
+        "seo off page",
+        "content seo"
+    ],
+    "Android Studio": [
+        "android studio",
+        "androidstudio",
+        "android studio 1.4",
+        "android studio 2.2",
+        "android ide",
+        "android studio 3.5",
+        "lập trình android android studio",
+        "android studio game",
+        "studio android"
+    ],
+    "Lập trình hướng đối tượng": [
+        "lập trình hướng đối tượng",
+        "hướng đối tượng",
+        "thiết kế hướng đối tượng",
+        "lập trình oop",
+        "lập trình xml",
+        "lập trình giao tiếp",
+        "hướng đối oop",
+        "lập trình hướng đối tượng java",
+        "lập trình hướng đối tượng với",
+        "tài liệu lập trình bằng tiếng anh",
+        "lập trình hướng",
+        "lập trình mô phỏng",
+        "tư duy oop",
+        "lập trình windows",
+        "kỹ năng lập trình hướng đối tượng",
+        "hệ thống oop",
+        "lập trình giao diện",
+        "lập trình đồng hồ",
+        "đọc hiểu tài liệu về uml"
+    ],
+    "Java (programming language)": [
+        "java core",
+        "java android",
+        "android java",
+        "core java",
+        "java in android",
+        "java essential",
+        "java object"
+    ],
+    "Joomla": [
+        "joomla",
+        "cms joomla",
+        "joomla cms",
+        "frontend : template",
+        "joomla cms.",
+        "joomla .",
+        "joomla 1.5",
+        "joomla 2.5",
+        "template joomla"
+    ],
+    "AutoCAD": [
+        "autocad",
+        "auto cad",
+        "autocad 2d",
+        "civil 3d",
+        "auto cad.",
+        "auto cad 2d",
+        "autocad 2d & 3d"
+    ],
+    "SQLite": [
+        "sqlite",
+        "sql lite",
+        "sqlite database",
+        "sqllite",
+        "sqlite .",
+        "my sqlite",
+        "java sqlite"
+    ],
+    "ASP": [
+        "asp",
+        "asp ,"
+    ],
+    "Phân tích SWOT": [
+        "phân tích",
+        "phân tích giá trị biên",
+        "phân tích lỗi",
+        "phân tích vấn",
+        "phân tích tốt",
+        "phân tích các vấn đề mới nhanh",
+        "tìm ra giải pháp",
+        "phân tích cơ cấu",
+        "tìm hiểu phân tích yêu cầu",
+        "phân tích các chỉ số kinh doanh"
+    ],
+    "Apache": [
+        "apache",
+        "apche"
+    ],
+    "Microsoft Visio": [
+        "visio",
+        "microsoft visio",
+        "ms visio",
+        "outlook visio",
+        "office , outlook , visio",
+        "visio studio"
+    ],
+    "Kế hoạch": [
+        "lập kế hoạch",
+        "lên kế hoạch",
+        "kế hoạch",
+        "xây dựng kế hoạch",
+        "lập kế hoạch triển khai",
+        "tự lập kế hoạch",
+        "theo dõi kế hoạch",
+        "làm việc theo kế hoạch",
+        "lập kể hoạch",
+        "lập kế hoạch làm việc",
+        "lên kế hoặc công việc",
+        "lập kế hoặc",
+        "lập kế hoạch công việc",
+        "kiểm soát kế hoạch",
+        "quản trị kế hoạch"
+    ],
+    "List of tools for static code analysis": [
+        "sqlserver",
+        "code tool",
+        "sqlserver ,"
+    ],
+    "VB": [
+        "vb",
+        "vb."
+    ],
+    "PostgreSQL": [
+        "postgresql",
+        "postgres",
+        "postgressql",
+        "postgre sql",
+        "postgre",
+        "pọstgrêsql",
+        "postgress",
+        "postgresql.",
+        "postgresql server",
+        "postgresql source",
+        "job sql server",
+        "pgadmin",
+        "postgres sql",
+        "xây dựng và chỉnh sửa các module",
+        "database postgresql",
+        "server postgre 9.2",
+        "postgresql 8"
+    ],
+    "Jakarta Servlet": [
+        "servlet",
+        "java servlet",
+        "servlets",
+        "servlet / jsp"
+    ],
+    "English": [
+        "english",
+        ": english"
+    ],
+    "Microsoft Office": [
+        "microsoft office",
+        "ms office",
+        "photoshop outlook",
+        "powerpoint photoshop cs6",
+        "ms. office",
+        "excel photoshop",
+        "ms office tool",
+        "xamarin mobile javascript",
+        "sử dụng được microsoft office",
+        "microsoft office suite",
+        "excel đọc"
+    ],
+    "Comparison of JavaScript charting libraries": [
+        "devexpress",
+        "framework devexpress",
+        "devexpress mvc",
+        "dhtmlx",
+        "syncfusion",
+        "devextreme",
+        "ui devexpress",
+        "devexpress 13.1.1",
+        "devexpress 2017",
+        "devexpress 10",
+        "devexpress framework"
+    ],
+    "Windows Server": [
+        "windows server",
+        "window server",
+        "microsoft windows server",
+        "server windows",
+        "window 2000 server",
+        "window , server , linux"
+    ],
+    "NET": [
+        "net",
+        ". net",
+        ".net,"
+    ],
+    "React Native": [
+        "react native",
+        "reactnative",
+        "react - native",
+        "react-native"
+    ],
+    "Entity Framework": [
+        "entity framework",
+        "entityframework",
+        "entity frameworks",
+        "csdl access",
+        "entity framework 6",
+        "entity framework 5",
+        "entity framework code first",
+        "csdl sql",
+        "csdl sql server",
+        "entity framework6",
+        "entity framework database first",
+        "visual studio 2010 csdl",
+        "mvc entity framework",
+        "linq to entity",
+        "entity framework 6.1",
+        "entity framework 4.0",
+        "csdl microsoft sql server",
+        "ado. entity framework",
+        "entity framework model first",
+        "entity framework - linq",
+        "entity framework core"
+    ],
+    "Ubuntu": [
+        "ubuntu",
+        "ubuntu server",
+        "unbuntu",
+        "linux / ubuntu",
+        "ubùntù",
+        "ubuntu desktop",
+        "centos window server",
+        "linux ( ubuntu",
+        "ubuntu 16"
+    ],
+    "Crystal Reports": [
+        "crystal report",
+        "crystal reports",
+        "crystalreport",
+        "crystal report 2011",
+        "crystal report 2016",
+        "sap crystal report",
+        "crystal report 9.0",
+        "crystal report 2005",
+        "crystal reports 10",
+        "crystal report 2008"
+    ],
+    "Redis": [
+        "redis",
+        "redis cache",
+        "hub redis",
+        "redis server"
+    ],
+    "Will Turner": [
+        "boostrap",
+        "boostrap."
+    ],
+    "Unified Modeling Language": [
+        "uml",
+        "uml.",
+        "unified modeling language",
+        "uml c",
+        "unified modeling language ( uml )"
+    ],
+    "ASP.NET MVC": [
+        "asp. net mvc",
+        "mvc5",
+        "asp .net mvc",
+        ".net mvc",
+        "mvc 5",
+        "asp. net mvc5",
+        "asp. net mvc 4",
+        "mvc 4",
+        "asp. net mvc 5",
+        "mvc framework",
+        "net mvc",
+        "asp. net webform",
+        "asp. net mvc.",
+        "mvc. net",
+        ".net mvc 5",
+        "asp mvc",
+        "asp. net mvc4",
+        "asp. net mvc 3",
+        "c # mvc5",
+        "core mvc",
+        "mvc core",
+        "asp .net webform",
+        "asp .net mvc5",
+        "mvc 4,5",
+        "asp. mvc",
+        "mvc .net",
+        "net asp. net",
+        "asp .net mvc 5",
+        "assembly asp .net",
+        "asp .net mvc 4",
+        "asp mvc5",
+        "asp .net mvc.",
+        "asp. net mvc core 2",
+        "asp net mvc 2",
+        "web mvc5",
+        "mvc code",
+        "mvc. api",
+        "net mvc5",
+        "mvc component framework",
+        "asp. net with mvc",
+        ".net asp mvc",
+        "mvc vb. net",
+        ".net webform",
+        ".net mvc5",
+        "asp net mvc",
+        "asp .net mvc4",
+        "web mvc",
+        "asp webform application",
+        "asp. net mvc3"
+    ],
+    "Tiếng Nhật": [
+        "tiếng nhật",
+        "giao tiếp tiếng nhật",
+        "tiếng nhật tiếng",
+        "tiếng nhật giao tiếp"
+    ],
+    "NetBeans": [
+        "netbeans",
+        "netbean",
+        "net beans",
+        "net bean",
+        "netbeans ide",
+        "netbeans ide 8.0",
+        "netbean 7.3",
+        "tomcat 8 ide",
+        "netbean7",
+        "netbeans ide 11.3",
+        "tools netbean",
+        "sql server netbean",
+        "git công cụ code ( ide",
+        "css3 oracle",
+        "netbean 6.9",
+        "netbean ide",
+        "mysql 5.0 ide",
+        "ide netbean",
+        "netbean 7.0",
+        "netbean 8.2"
+    ],
+    "Domain Name System": [
+        "dns",
+        ", dns",
+        "dns ,"
+    ],
+    "Scrum (software development)": [
+        "scrum",
+        "scrum master",
+        "agile - scrum",
+        "scrum framework",
+        "scrum guide"
+    ],
+    "Visual Basic": [
+        "visual basic",
+        "vb6",
+        "visualbasic",
+        "vb 6.0",
+        "visual basic 6.0",
+        "ms vb6",
+        "visual basic database",
+        "vb6 0",
+        "usercontrol",
+        "microsoft visual basic 6"
+    ],
+    "Agile software development": [
+        "agile",
+        "agile scrum",
+        "agile / scrum",
+        "agile - waterfall",
+        "mastering agile project management",
+        "agile-scrum"
+    ],
+    "Vue.js": [
+        "vuejs",
+        "vue js",
+        "vue .js",
+        "git vuejs",
+        "framework vuejs",
+        "vuejs framework",
+        "vuejs ( spa",
+        "vue js."
+    ],
+    "Web service": [
+        "webservice",
+        "web service",
+        "web services",
+        "webservices",
+        "webservice c",
+        "java webservice",
+        "webservice java developer",
+        "xml web service",
+        "webservice ,",
+        "webservice html",
+        "xml web services",
+        "test web service",
+        "aws webservice",
+        "webservices oracle",
+        "web service spring"
+    ],
+    "Spring Framework": [
+        "spring boot",
+        "spring mvc",
+        "java spring",
+        "spring framework",
+        "java spring mvc",
+        "java spring boot",
+        "spring jpa",
+        "spring 4",
+        "framework spring",
+        "spring jdbc",
+        "framework spring boot",
+        "spring mvc.",
+        "spring core",
+        "spring boot framework",
+        "spring mvc framework",
+        "ibatis 13",
+        "jpa framework",
+        "java spring framework",
+        "spring data",
+        "programming framework",
+        "java framework",
+        "ejb framework",
+        "spring boot jpa",
+        "java mvc",
+        "mvc spring"
+    ],
+    "GitHub": [
+        "github",
+        "git hub",
+        "git basic",
+        "github .",
+        "swift3 git",
+        "ubuntu git"
+    ],
+    "Quản lý": [
+        "quản lý",
+        "quản lý công việc",
+        "quản lý giao tiếp",
+        "quản lý sản xuất",
+        "quản lý sáng tạo",
+        "quản lý hợp đồng",
+        "quản lý hệ thống",
+        "quản lý trang thiết bị",
+        "quản lý tiến độ công việc",
+        "quản lý stress",
+        "kỹ năng quản lý doanh nghiệp",
+        "quản lý nhân lực",
+        "quản lý phân công công việc",
+        "quản lý văn bản",
+        "quản lý doanh nghiệp",
+        "quản lý nhóm tốt",
+        "quản lý bộ phận",
+        "chức năng quản lý tin",
+        "tổ chức quản lý thời gian",
+        "quản lý quy trình",
+        "quản lý phân quyền",
+        "quản lý tốt",
+        "khả năng quản lý",
+        "quản lý các thiết bị",
+        "khả năng giao tiếp tốt",
+        "quản lý các thành viên",
+        "quản lý phòng",
+        "quản lý thành viên",
+        "lập và quản lý chi phí"
+    ],
+    "Dynamic Host Configuration Protocol": [
+        "dhcp",
+        "dhcp server",
+        "relay agent"
+    ],
+    "SAP": [
+        "sap",
+        "sap b1",
+        "sap a1",
+        "sap.",
+        "sap s",
+        "hệ thống sap",
+        "sap 2000",
+        "sap ,",
+        "sap - ecc6",
+        "sap retail",
+        "sap data service"
+    ],
+    "Swift": [
+        "swift",
+        "swift."
+    ],
+    "Oracle Database": [
+        "oracle database",
+        "database oracle",
+        "oracle db",
+        "oracle 11g",
+        "oracle 11",
+        "oracle database 11g",
+        "oracle 9i",
+        "oracle 11gr2",
+        "oracle 8i",
+        "oracle12c",
+        "oracle11g",
+        "oracle c",
+        "db oracle 11g",
+        "oracle 6",
+        "oracle database 12c",
+        "oracle 10i",
+        "oracle9i",
+        "oracle 9i , 8i",
+        "oracle 7.3",
+        "database oracle11g",
+        "oracle db 10g",
+        "11gr2"
+    ],
+    "Form (HTML)": [
+        "webform",
+        "web form",
+        "webforms",
+        "c # , webform"
+    ],
+    "Internet Information Services": [
+        "iis",
+        "ms iis",
+        "microsoft iis",
+        "server iis server",
+        "iis network",
+        "iis 5.0",
+        "internet information server",
+        "microsoft iis.",
+        "microsoft internet information server",
+        "iis ,",
+        "web iis",
+        "ms iis apache",
+        "iis7",
+        "server iis",
+        "iis 7.5"
+    ],
+    "Adobe Dreamweaver": [
+        "dreamweaver",
+        "adobe dreamweaver",
+        "dreamweaver cs4",
+        "dreamweaver 8.0",
+        "adobe dreamweaver cs6",
+        "macromedia dreamweaver",
+        "dreamweaver cc",
+        "dreamweaver cs6",
+        "adobe dreamviewer",
+        "chuyển psd sang html theo chuẩn w3c"
+    ],
+    "PL": [
+        "pl",
+        "pl."
+    ],
+    "Magento": [
+        "magento",
+        "magento platform",
+        "magento 2",
+        "cms magento",
+        "magento framework",
+        "magento 2.0",
+        "magento2",
+        "magento1",
+        "magento 1",
+        "magento 1 2"
+    ],
+    "CentOS": [
+        "centos",
+        "centos 7",
+        "centos 6.5",
+        "centos7",
+        "centos 6",
+        "cent os",
+        "centos 6.8",
+        "centos.",
+        "centos 6.5,7",
+        "cài đặt centos",
+        "linux centos",
+        "centos6",
+        "os centos",
+        "centos os",
+        "centos 5x"
+    ],
+    "Kiểm thử phần mềm": [
+        "kiểm thử phần mềm",
+        "kiểm thử hộp đen",
+        "kiểm thử",
+        "kỹ thuật kiểm thử",
+        "quy trình kiểm thử",
+        "kiểm thử hiệu năng",
+        "test hộp đen",
+        "kiểm thử black box testing",
+        "thiết kế các test case",
+        "đảm bảo chất lượng phần mềm",
+        "kỹ thuật test hộp đen",
+        "tự viết phần mềm test",
+        "kiểm thử chương trình",
+        "các phương pháp kiểm thử",
+        "kiểm thử chức năng",
+        "chiến lược và kỹ thuật test phần mềm",
+        "xây dựng ứng dụng thử nghiệm",
+        "giai đoạn kiểm thử phần mềm",
+        "thực hiện kiểm thử",
+        "kỹ thuật kiểm thử phần mềm",
+        "kiểm soát lỗi tác nghiệp",
+        "khắc phục sự cố phần mềm",
+        "kiểm thử ứng dụng",
+        "kiểm thử api",
+        "kiểm thử hộp trắng",
+        "kiểm thử hộp xám",
+        "kiểm thử phi chức năng",
+        "phương pháp kiểm thử",
+        "chiến lược kiểm thử",
+        "kỹ thuật kiểm thử hộp đen",
+        "test hệ thống phần mềm",
+        "uat sản phẩm",
+        "test phần mềm",
+        "lập kế hoạch kiểm thử",
+        "it phần mềm phần cứng"
+    ],
+    "Quản lý thời gian": [
+        "quản lý thời gian",
+        "quản lý tốt thời gian",
+        "sử dụng công cụ quản lý lỗi",
+        "quản lý tasks",
+        "quản lý thời gian công việc"
+    ],
+    "Web API": [
+        "web api",
+        "webapi",
+        "web api.",
+        "web api 2",
+        "viết api restful",
+        "soap api",
+        "soap. api",
+        "viết api",
+        "viết api cho web"
+    ],
+    "Database": [
+        "database",
+        "sql navigator",
+        "dbms",
+        "database first",
+        "database management system",
+        ".net database",
+        "database systems",
+        "sql navigator pro",
+        "dbms.",
+        "c # database",
+        "database link",
+        "database system",
+        "data base",
+        "databases",
+        "db management"
+    ],
+    "Swing (Java)": [
+        "java swing",
+        "swing component"
+    ],
+    "Grumman F-14 Tomcat": [
+        "tomcat",
+        "tomcat v8"
+    ],
+    "API": [
+        "api",
+        "api.",
+        "call api",
+        "java directx",
+        "library api",
+        "context api",
+        "api twitter",
+        "apis",
+        "pdf api",
+        "api service"
+    ],
+    "VMware": [
+        "vmware",
+        "ảo hóa vmware",
+        "vmware srm",
+        "redis desktop manager",
+        "vmware vcenter converter standalone",
+        "vmware data center virtualization",
+        "vmware 6.5",
+        "vmware vcenter 6.7",
+        "deploy vcenter"
+    ],
+    "ADO.NET": [
+        "ado. net",
+        "ado. net.",
+        "ado .net"
+    ],
+    "Internet": [
+        "internet",
+        "phác thạo giao diện",
+        "duyệt internet",
+        "sử dụng internet",
+        "mạng internet",
+        "thành thạo internet",
+        "xử lý các sự cố về internet",
+        "chuyển đổi ipv4 sáng ipv6"
+    ],
+    "Firebase": [
+        "firebase",
+        "google firebase",
+        "firebase database",
+        "firebase ,",
+        "firebase map api.",
+        "firebase realtime database",
+        "google firebase authentication",
+        "firebase storage",
+        "knowledge firebase"
+    ],
+    "Lan": [
+        "lan",
+        "lan."
+    ],
+    "Cisco Systems": [
+        "cisco",
+        "cisco routers",
+        "thiết bị của cisco",
+        "cisco )",
+        "router and firewall cisco",
+        "cisco :",
+        "hp cisco"
+    ],
+    "Window": [
+        "window",
+        "window testing"
+    ],
+    "Artificial intelligence": [
+        "ai",
+        "artificial intelligence ( ai"
+    ],
+    "Thiết kế": [
+        "thiết kế",
+        "phân tích thiết kế hệ thống",
+        "thiết kế hệ thống",
+        "phân tích thiết kế",
+        "lập kế hoạch test",
+        "thiết kế website bằng",
+        "thiết kế kết cấu",
+        "thiết kế hệ thống lớn",
+        "thiết kế và lập trình",
+        "thiết kế các sản phẩm 2d",
+        "phân tích thiết kế h thống",
+        "thiết kế các tài liệu",
+        "phân tích tài liệu thiết kế",
+        "thiết kế giao diện mẫu",
+        "phân tích , thiết kế hệ thống",
+        "thiết kế kiến trúc",
+        "thẩm mỹ thiết kế tốt",
+        "thiết kế các hệ thống",
+        "phân tích thiết kế hướng chức năng",
+        "thiết kế thi công",
+        "phân tích và thiết kế",
+        "thiết kế tài liệu",
+        "thiết kế ,",
+        "viết các tài liệu thiết kế"
+    ],
+    "Panama Papers": [
+        "sql sever",
+        "sql sever 2008",
+        "sql sever 2012",
+        "sql sever reporting service",
+        "sql sever 2012 express",
+        "sql sever 2014",
+        "my sql sever"
+    ],
+    "Java Web Start": [
+        "java web",
+        "java networking",
+        "java web application",
+        "web java"
+    ],
+    "Virtual private network": [
+        "vpn",
+        "vpn server",
+        "vpn site to site",
+        "vpn client"
+    ],
+    "Đàm phán": [
+        "đàm phán",
+        "đàm phán hợp tác",
+        "đàm phán ký kết hợp đồng",
+        "đàm phán với khách hàng",
+        "đàm phán hợp đồng",
+        "đàm phán thuyết phục",
+        "kỹ năng đàm phán"
+    ],
+    "Front end and back end": [
+        "front end",
+        "back end",
+        "front - end",
+        "front-end",
+        "front end.",
+        "back - end",
+        "backend : php",
+        "frontend : html , css",
+        "front- end",
+        "java back - end",
+        "back-end",
+        "backend front end"
+    ],
+    "MCSA": [
+        "mcsa",
+        "mcsa."
+    ],
+    "Jakarta EE": [
+        "j2ee",
+        "java j2ee",
+        "javaee",
+        "java ee",
+        "weblogic serve",
+        "java ( j2se , j2ee )",
+        "java enterprise"
+    ],
+    "OpenCV": [
+        "opencv",
+        "open cv",
+        "opencv java"
+    ],
+    "SharePoint": [
+        "sharepoint",
+        "share point",
+        "ms sharepoint",
+        "sharepoint 2010",
+        "sharepoint 2016",
+        "sharepoint server",
+        "sharepoint portal",
+        "sharepoint portal 2010",
+        "sharepoint portal 2013",
+        "sharepoint online",
+        "sharepoint server 2007",
+        "sharepoint 2013",
+        "sharepoint server 2010",
+        "sharepoint 2012",
+        "sharepoint server 2013",
+        "microsoft sharepoint"
+    ],
+    "Laminas": [
+        "zend framework",
+        "zend framework 2",
+        "zendframework",
+        "zend-framework",
+        "framework zend",
+        "zend i framework",
+        "zend framework 1"
+    ],
+    "CCNA": [
+        "ccna",
+        "cisco certified network associate",
+        "ccna cisco",
+        "cisco certified networking associate ( ccna )",
+        "ccna certification"
+    ],
+    "Apache JMeter": [
+        "jmeter",
+        "tool jmeter",
+        "java jmeter",
+        "plugin & report service"
+    ],
+    "Responsive web design": [
+        "responsive",
+        "responsive web design",
+        "css responsive",
+        "responsive web",
+        "responsive css",
+        "web responsive.",
+        "mobile design",
+        "org responsive",
+        "less responsive",
+        "less web responsive"
+    ],
+    "PSD": [
+        "psd",
+        "psd."
+    ],
+    "Quy trình phát triển phần mềm": [
+        "phát triển phần mềm",
+        "quy trình phát triển phần mềm",
+        "quy trình làm phần mềm",
+        "quy trình agile",
+        "quy trình phát triển",
+        "hỗ trợ triển khai phần mềm",
+        "quy trình đảm bảo chất lượng phần mềm",
+        "phát triển một phần mềm",
+        "triển khai phần mềm nhân sự",
+        "triển khai theo quy trình",
+        "nắm quy trình phần mềm",
+        "tư vấn triển khai phần mềm",
+        "triển khai quy trình",
+        "quy trình phát triển một dự án",
+        "các mô hình phát triển phần mềm",
+        "quá trình phát triển phần mềm",
+        "chu trình phần mềm",
+        "quy trình áp dụng phát triển phần mềm"
+    ],
+    "IBM": [
+        "ibm",
+        "ibm.",
+        "máy chủ của ibm",
+        "máy photo",
+        "ibm digital business automation"
+    ],
+    "Framework": [
+        "framework",
+        "frameworks",
+        "frame work"
+    ],
+    "CakePHP": [
+        "cakephp",
+        "framework cakephp",
+        "cake php",
+        "cakephp framework",
+        "mvc php",
+        "php mvc",
+        "cakephp2",
+        "query builder",
+        "framework cake php"
+    ],
+    "Sublime Text": [
+        "sublime text",
+        "sublime text 3",
+        "sublimetext",
+        "sublime text 2",
+        "python 3 sublimetext",
+        "sublime text3"
+    ],
+    "Microsoft": [
+        "microsoft",
+        "mircosoft sql server"
+    ],
+    "ABAP": [
+        "abap",
+        "sap abap.",
+        "sap abap",
+        "sap r3 abap",
+        "abap list",
+        "abap development",
+        "abap sap"
+    ],
+    "The Postman": [
+        "postman",
+        "postman."
+    ],
+    "Facebook": [
+        "facebook",
+        "facebook ads",
+        "quảng cáo facebook",
+        "banner quảng cáo",
+        "facebook ads cơ bản"
+    ],
+    "IBM Db2 Family": [
+        "db2",
+        "ibm db2",
+        "query db",
+        "purescale",
+        "db2 hadr",
+        "ibm pure"
+    ],
+    "Trello": [
+        "trello",
+        "trello main developer"
+    ],
+    "Sass": [
+        "sass",
+        "sass."
+    ],
+    "Microsoft Access": [
+        "ms access",
+        "microsoft access",
+        "microsoft office access",
+        "cơ sở dữ liệu ms access",
+        "access 2003"
+    ],
+    "WAN": [
+        "wan",
+        "wan."
+    ],
+    "Lãnh đạo": [
+        "lãnh đạo",
+        "quản lý , lãnh đạo nhóm",
+        "lãnh đạo nhóm"
+    ],
+    "MATLAB": [
+        "matlab",
+        "matlab."
+    ],
+    "Giao tiếp phi ngôn ngữ": [
+        "giao tiếp tốt",
+        "tiếng hoa giao tiếp"
+    ],
+    "Yii": [
+        "yii",
+        "yii2",
+        "yii framework",
+        "yiiframework",
+        "yii2 framework",
+        "yiiframework 2",
+        "framework yii",
+        "php yii 2",
+        "yii frameworks",
+        "php yii2"
+    ],
+    "Trình duyệt web": [
+        "lập trình web",
+        "lập trình web bằng",
+        "lập trình trang web",
+        "truy xuất"
+    ],
+    "Customer relationship management": [
+        "crm",
+        "manage customers",
+        "crm dynamic",
+        "crm ,",
+        "crm.",
+        "app crm."
+    ],
+    "TypeScript": [
+        "typescript",
+        "type script",
+        "es lint",
+        "typescript es6"
+    ],
+    "TOEIC": [
+        "toeic",
+        "toeic 500",
+        "tiếng anh toeic",
+        "toeic 600",
+        "toeic 395",
+        "khả năng giao tiếp",
+        "toeic 700",
+        "english equal toeic 5.5",
+        "chứng chỉ tiếng anh"
+    ],
+    "Cơ sở dữ liệu": [
+        "cơ sở dữ liệu",
+        "thiết kế cơ sở dữ liệu",
+        "hệ quản trị cơ sở dữ liệu",
+        "truy vấn csdl",
+        "kiểm thử hệ thống dữ liệu",
+        "thiết kế dữ liệu",
+        "cơ sở dữ liệu oracle",
+        "quản lý database",
+        "hệ quản trị csdl",
+        "phân tích dữ liệu quản trị",
+        "phát triển cơ sở dữ liệu",
+        "thuật toán phân lớp dữ liệu",
+        "quản trị hệ thống email",
+        "phân tích , thiết kế hệ thống và cơ sở dữ liệu",
+        "tối ưu hóa cơ sở dữ liệu",
+        "xử lý khôi phục dữ liệu",
+        "phân tích cơ sở dữ liệu",
+        "quản trị hệ thống ảo hóa",
+        "quản trị hệ thống cơ sở dữ liệu",
+        "sql giao tiếp",
+        "truy vấn cơ sở dữ liệu",
+        "đồng bộ dữ liệu",
+        "quản trị tập trung dữ liệu",
+        "lấy dữ liệu",
+        "truy vấn dữ liệu",
+        "quản trị csdl",
+        "lập trình cơ sở dữ liệu",
+        "bảo mật dữ liệu",
+        "kiểm thử tải dữ liệu",
+        "quản lý cơ sở dữ liệu công ty",
+        "cơ sở dữ liệu giải thuật",
+        "thiết kế cơ sở",
+        "ngôn ngữ truy vấn cơ sở dữ liệu",
+        "hệ thống cơ sở dữ liệu lớn",
+        "tích hợp các dữ liệu",
+        "cơ sở dữ liệu oracle database",
+        "quản trị cơ sở dữ liệu",
+        "xử lý dữ liệu hệ thống",
+        "chuyển đổi dữ liệu"
+    ],
+    "GitLab": [
+        "gitlab",
+        "git lab",
+        "gitlab."
+    ],
+    "Representational state transfer": [
+        "restful",
+        "restful api",
+        "rest api",
+        "api restful",
+        "restful api.",
+        "rest client",
+        "restfulapi",
+        "web api restful",
+        "service restful",
+        "restful api crud",
+        "restful service",
+        "spring restful",
+        "restful api extension",
+        "restful web service",
+        "restful service api.",
+        "rest api."
+    ],
+    "XAMPP": [
+        "xampp",
+        "xamp",
+        "xampp.",
+        "xampp server",
+        "xampp 1.8"
+    ],
+    "Unix": [
+        "unix",
+        "linux unix",
+        "bảo mật hệ thống unix"
+    ],
+    "Mạng máy tính": [
+        "mạng máy tính",
+        "hệ thống mạng",
+        "cổng trunk",
+        "hệ thống mạng wan",
+        "điện tử viễn thông ccna",
+        "hệ thống mạng server",
+        "mạng server",
+        "kết nối csdl",
+        "backup dữ liệu",
+        "hệ thống mạng máy tính",
+        "quản trị mạng workgroup"
+    ],
+    "Kotlin (programming language)": [
+        "kotlin",
+        "android kotlin"
+    ],
+    "Jakarta Enterprise Beans": [
+        "ejb",
+        "ejb 3.0",
+        "java xml bean",
+        "ejb servlet"
+    ],
+    "Router (computing)": [
+        "router",
+        "router cisco",
+        "p4 router",
+        "router switch",
+        "setup router",
+        "router *",
+        "cisco router"
+    ],
+    "Switch": [
+        "switch",
+        "switches"
+    ],
+    "MariaDB": [
+        "mariadb",
+        "maria db",
+        "mariadb 10",
+        "maxscale"
+    ],
+    "Test": [
+        "test",
+        "testing",
+        "test."
+    ],
+    "Internet of things": [
+        "iot",
+        "internet of things"
+    ],
+    "WCF": [
+        "wcf",
+        "wcf.",
+        ", wcf"
+    ],
+    "Odoo": [
+        "odoo",
+        "openerp",
+        "python odoo",
+        "odoo erp",
+        "erp odoo",
+        "odọọ"
+    ],
+    "File server": [
+        "file server",
+        "fileserver",
+        "files server",
+        "tape server",
+        "storage server"
+    ],
+    "TFS": [
+        "tfs",
+        "tfs."
+    ],
+    "Message transfer agent": [
+        "mail server",
+        "mail exchange server",
+        "mailserver",
+        "email server",
+        "exchange mail"
+    ],
+    "Máy tính": [
+        "máy tính",
+        "vi tính",
+        "vi tính chuyên nghiệp",
+        "sử dụng máy tính",
+        "lắp ráp máy tính",
+        "lỗi liên quan đến máy tính",
+        "hệ thống điều khiển các máy chủ",
+        "làm việc tốt với máy tính",
+        "máy sinh hóa",
+        "hệ thống ad",
+        "kỹ năng máy tính",
+        "vấn đề máy in",
+        "xử lý máy in"
+    ],
+    "PL/SQL": [
+        "pl / sql",
+        "oracle sql",
+        "oracle pl",
+        "plsql",
+        "sql oracle",
+        "pl sql",
+        "sql server oracle",
+        "pres pl",
+        "oracle pl / sql",
+        "pl / sql.",
+        "pl / sql oracle",
+        "sql advance 1 / 2",
+        "pl sql.",
+        "oracle sql server"
+    ],
+    "List of compositions by Johann Sebastian Bach": [
+        "anh",
+        "t. anh"
+    ],
+    "Google": [
+        "google",
+        "kiểm tra api note",
+        "google recognizer",
+        "chạy quảng cáo google",
+        "sử dụng file blade",
+        "quảng cáo google adwords"
+    ],
+    "OpenCart": [
+        "opencart",
+        "open cart"
+    ],
+    "Giám sát": [
+        "giám sát",
+        "giám sát hoạt động hàng ngày"
+    ],
+    "Apache Struts 2": [
+        "struts2",
+        "struts 2",
+        "framework struts",
+        "framework struts2",
+        "coding java strut2",
+        "struts frameworks",
+        "struts 1.0 framework",
+        "strut2",
+        "mvc hibernate struts2",
+        "framework struts 1"
+    ],
+    "Tư duy phản biện": [
+        "tư duy logic",
+        "phản biện",
+        "tư duy và phân tích vấn đề",
+        "tư vấn trình bày",
+        "tư duy phân tích",
+        "tư duy toán học"
+    ],
+    ".NET Core": [
+        "dotnet",
+        ".net core",
+        "net core",
+        "dot net core",
+        "core framework",
+        ".net core framework"
+    ],
+    "Bitbucket": [
+        "bitbucket",
+        "git ( bitbucket"
+    ],
+    "Cài đặt": [
+        "cài đặt",
+        "cài đặt máy tính",
+        "cài đặt hệ điều hành",
+        "cài đặt windows",
+        "cài đặt các phần mềm",
+        "cài đặt máy chủ",
+        "cài đặt các máy chủ"
+    ],
+    "Quản trị mạng": [
+        "quản trị mạng",
+        "kỹ sư mạng",
+        "quản trị mạng ccna"
+    ],
+    "Google Analytics": [
+        "google analytics",
+        "google analytic",
+        "google web master tool",
+        "phân tích google analytics"
+    ],
+    "Tổ chức": [
+        "tổ chức",
+        "tổ chức sắp xếp công việc",
+        "tổ chức công việc",
+        "giao việc",
+        "tổ chức phân công",
+        "tổ chức xây dựng",
+        "tổ chức công việc khoa học",
+        "tổ chức vận hành",
+        "tổ chức sản xuất",
+        "tổ chức các hoạt động",
+        "tổ chức sắp xếp"
+    ],
+    "Phần cứng": [
+        "phần cứng",
+        "phần cứng máy tính",
+        "cấu hình phần cứng",
+        "làm việc phần cứng",
+        "lập trình phần cứng",
+        "phần cứng của máy tính",
+        "các phần tính toán nhiệt",
+        "kỹ thuật phần cứng"
+    ],
+    "Axure RP": [
+        "axure",
+        "axure pro",
+        "axure rp",
+        "axure rp9",
+        "axure tool"
+    ],
+    "Unit testing": [
+        "unit test",
+        "unit testing",
+        "xây dựng unit test",
+        "test add bug",
+        "kiểm thử đơn vị",
+        "test unit"
+    ],
+    "NoSQL": [
+        "nosql",
+        "no sql",
+        "sql map",
+        "cache no sql",
+        "sql general"
+    ],
+    "Phần mềm": [
+        "quy trình kiểm thử phần mềm",
+        "phần mềm",
+        "quy trình sản xuất phần mềm",
+        "phần mềm chỉnh sửa ảnh",
+        "phân tích thiết kế phần mềm",
+        "phần mềm tin học",
+        "phần mềm thiết kế",
+        "phần mềm tổng hợp quyết toán",
+        "phần mềm quản lý tài sản",
+        "máy tính phần mềm văn phòng",
+        "lập trình các phần mềm",
+        "sửa chữa các phần mềm",
+        "quản lý lắp ráp cài đặt",
+        "chuyên viên ứng dụng phần mềm",
+        "phần mềm email",
+        "phần mềm nhân sự",
+        "hướng dẫn sử dụng phần mềm",
+        "sử dụng phần mềm r",
+        "phần mềm máy tính",
+        "thành thạo microsoft word",
+        "sử dụng phần mềm quản lý",
+        "phần mềm nghiệp vụ",
+        "phần mềm biên tập video",
+        "lập trình phần mềm quản lý",
+        "sử dụng thành thạo phần mềm quản trị doanh nghiệp và phần mềm",
+        "cài đặt vận hành các phần mềm quản lý bán hàng",
+        "phần mềm hỗ trợ pc",
+        "hỗ trợ phần mềm",
+        "các phần mềm văn phòng",
+        "thuyết trình phần mềm",
+        "nghiệp vụ phần mềm",
+        "phần mềm oracle",
+        "xử lý sử cố các phần mềm",
+        "hỗ trợ sửa lỗi phần mềm",
+        "xây dựng phần mềm quản lý"
+    ],
+    "Waterfall": [
+        "waterfall",
+        "water fall",
+        "waterfall ,"
+    ],
+    "Microsoft Project": [
+        "ms project",
+        "microsoft project",
+        "msproject",
+        "theo dõi tiến độ",
+        "microsoft project manager"
+    ],
+    ".NET Framework": [
+        ".net framework",
+        "net framework",
+        "lập trình .net",
+        "net technology",
+        "location framework",
+        "microsoft .net",
+        "dot .net",
+        "ngôn ngữ vb. net",
+        "linq window",
+        "lập trình web asp. net",
+        "ms entity framework",
+        ". net framework",
+        "dot. net",
+        ".net microsoft",
+        ".net 2010"
+    ],
+    "Network": [
+        "network",
+        "networking",
+        "networks"
+    ],
+    "Nghiên cứu": [
+        "nghiên cứu",
+        "tự nghiên cứu",
+        "nghiên cứu tài liệu",
+        "nghiên cứu tài liệu tiếng anh",
+        "nghiên cứu các công nghệ",
+        "nghiên cứu phát triển sản phẩm",
+        "kỹ năng tự nghiên cứu",
+        "nghiên cứu các tài liệu",
+        "chịu áp lực nghiên cứu",
+        "nghiên cứu chế tạo",
+        "trình bày đề tài nghiên cứu",
+        "nghiên cứu thông tin đa dạng",
+        "nghiên cứu và áp dụng các công nghệ",
+        "nghiên cứu ra các giải pháp"
+    ],
+    "Sass (stylesheet language)": [
+        "scss",
+        "scss3",
+        "sass github",
+        "css j s php"
+    ],
+    "VBA": [
+        "vba",
+        "vba."
+    ],
+    "File Transfer Protocol": [
+        "ftp",
+        "ftp server",
+        "ftp service"
+    ],
+    "Visual Paradigm": [
+        "visual paradigm",
+        "visual paradigm for uml",
+        "visualparadigm"
+    ],
+    "Elasticsearch": [
+        "elasticsearch",
+        "elastic search",
+        "logstash",
+        "log kibana",
+        "logstash elasticsearch - kibana"
+    ],
+    "Notepad++": [
+        "notepad",
+        "notepad +"
+    ],
+    "Quản lý dự án": [
+        "quản lý dự án",
+        "quản lý đội nhóm",
+        "quản lí",
+        "quản trị dự án",
+        "quản trị các dự án phần mềm",
+        "hoạch định dự án",
+        "quản trị dự án phần mềm",
+        "quản lí công việc",
+        "nghiệp vụ của dự án",
+        "quản lý dư án",
+        "phương thức * án",
+        "quản lý theo dõi",
+        "quản lý các dự án",
+        "quản lí được quy trình sản xuất",
+        "quản lý vận đơn",
+        "quản lí nhóm",
+        "điều phối dự án",
+        "thầu dự án",
+        "đánh giá khả thi dự án",
+        "báo cáo tiến độ dự án",
+        "quản lí vật tư",
+        "kế hoạch dự án",
+        "quy trình phân tích nghiệp vụ , quản lý dự án"
+    ],
+    "Oracle SQL Developer": [
+        "sql developer",
+        "oracle developer",
+        "plsql developer",
+        "oracle sql developer",
+        "oracle developer tool",
+        "oracle pl sql developer",
+        "plsql oracle",
+        "oracle 12.0",
+        "oracle my sql",
+        "oracle plsql",
+        "oracle developer sql"
+    ],
+    "International Organization for Standardization": [
+        "iso",
+        "iso 2007"
+    ],
+    "Oracle Applications": [
+        "oracle ebs",
+        "oracle ebs r12",
+        "oracle r12",
+        "oracle ebusiness suite",
+        "oracle financials",
+        "oracle application report",
+        "oracle e",
+        "oracle ebs r. 11"
+    ],
+    "Tập đoàn Công nghiệp – Viễn thông Quân đội": [
+        "triển khai",
+        "thương lượng",
+        "tiếp thu nhanh",
+        "ứng dụng cntt",
+        "thiết kế banner",
+        "triển khai dự án cntt",
+        "quản trị hệ thống cloud",
+        "website tuyển dụng trực tuyến",
+        "hệ iot",
+        "giải quyết công việc nhanh",
+        "làm việc đọc lập",
+        "cntt phần cứng",
+        "kiểm thử website",
+        "thiết kế cho các hệ thống cntt",
+        "xử lý các sự cố về camera"
+    ],
+    "Lực": [
+        "làm việc dưới áp lực",
+        "chịu áp lực công việc",
+        "làm việc dưới áp lực cao",
+        "chịu được áp lực cao",
+        "làm việc trong môi trường áp lực cao",
+        "chịu được áp lực công việc cao",
+        "chịu áp lực cao",
+        "chịu được áp lực công việc",
+        "làm việc với áp lực",
+        "làm việc với áp lực cao",
+        "tương tác",
+        "chịu áp lực công việc cao",
+        "làm việc dưới môi trường áp lực cao",
+        "làm việc được với môi trường áp lực",
+        "chịu áp lực tốt",
+        "làm việc với môi trường áp lực cao",
+        "làm việc dưới mọi áp lực",
+        "làm việc áp lực"
+    ],
+    "Objective-C": [
+        "objective c",
+        "object c",
+        "objective - c",
+        "objective c git",
+        "c objective",
+        "obj c",
+        "objective-c",
+        "objectivec",
+        "objective c."
+    ],
+    "Pascal": [
+        "pascal",
+        ", pascal"
+    ],
+    "Xây dựng": [
+        "xây dựng",
+        "thi công xây dựng cơ bản",
+        "xấy dựng"
+    ],
+    "UI": [
+        "ui",
+        "material ui"
+    ],
+    "Visual Studio Code": [
+        "visual studio code",
+        "vscode",
+        "visual code",
+        "c # visualstudio"
+    ],
+    "Transact-SQL": [
+        "t-sql",
+        "t - sql",
+        "tsql",
+        "t - sql.",
+        "t sql"
+    ],
+    "Tổng công ty Viễn thông Viettel": [
+        "chăm sóc khách hàng",
+        "dịch vụ vas"
+    ],
+    "Retrofitting": [
+        "retrofit",
+        "retrofit 2.0"
+    ],
+    "SOAP": [
+        "soap",
+        "soap ws"
+    ],
+    "Windows Server 2008": [
+        "windows server 2008",
+        "server 2008",
+        "window server 2008",
+        "windows 2008",
+        "microsoft windows server 2008",
+        "win server 2008",
+        "windows server 2008,2012",
+        "windows server 2003,2008,2012",
+        "microsoft server 2008"
+    ],
+    "Amazon Web Services": [
+        "aws",
+        "amazon web services",
+        "aws.",
+        "aws service",
+        "amazon cloud",
+        "amazon web service",
+        "simple workflow",
+        "cloud amazon"
+    ],
+    "DNN (software)": [
+        "dotnetnuke",
+        "dotnetnuke 2.1",
+        "dotnetnuke 2.1 open source"
+    ],
+    "Model–view–viewmodel": [
+        "mvvm",
+        "mvvm.",
+        "mvvm pattern",
+        "reactjs. net",
+        "mvvm silverlight"
+    ],
+    "Mobile": [
+        "mobile",
+        "mobiles"
+    ],
+    "Stored procedure": [
+        "store procedure",
+        "stored procedure",
+        "store procedures",
+        "sql stored procedures",
+        "stored procedured",
+        "sql stored procedure"
+    ],
+    "Email": [
+        "email",
+        "email service",
+        "e mail"
+    ],
+    "Chương trình soạn thảo văn bản": [
+        "soạn thảo văn bản",
+        "biên soạn văn bản"
+    ],
+    "YouTube": [
+        "thực hiện test",
+        "thiết kế test case",
+        "test hiệu năng",
+        "youtube",
+        "công cụ test",
+        "báo cáo test",
+        "nhận xét",
+        "test giao diện",
+        "xây dựng hệ thống streaming video",
+        "fix các lỗi cơ bản",
+        "kỹ năng quản lý pti",
+        "quảng cáo online expert",
+        "thiết bị phân kênh",
+        "test api cơ bản",
+        "báo cáo tình trạng test",
+        "tạo test plan",
+        "tạo test case",
+        "quản lý kênh youtube",
+        "kỹ năng viết content",
+        "tin học vp",
+        "thử nghiệm code push",
+        "kĩ thuật test",
+        "xây dựng hệ thống streaming",
+        "ghép video",
+        "test ứng dụng web"
+    ],
+    "Java Database Connectivity": [
+        "jdbc",
+        "database javabean",
+        "java database",
+        "jdbc ,",
+        "jdbc.",
+        "s2jdbc"
+    ],
+    "Tin học": [
+        "tin học",
+        "tin học cơ bản",
+        "tiếng anh tin học",
+        "trình độ tin học"
+    ],
+    "Teamwork": [
+        "teamwork",
+        "team work"
+    ],
+    "Internet protocol suite": [
+        "tcp / ip",
+        "tcp / ip."
+    ],
+    "Arduino": [
+        "arduino",
+        "lập trình arduino"
+    ],
+    "Tiếng Việt": [
+        "tiếng việt",
+        "tiếng việt tiếng anh",
+        "việt tiếng anh",
+        "dạy kèm văn phòng"
+    ],
+    "PfSense": [
+        "pfsense",
+        "cấu hình load balancing",
+        "firewall pfsense"
+    ],
+    "Red Hat": [
+        "redhat",
+        "jboss",
+        "red hat",
+        "redhat jboss fuse"
+    ],
+    "Design pattern": [
+        "design pattern",
+        "web service design patterns"
+    ],
+    "PhpMyAdmin": [
+        "phpmyadmin",
+        "php my",
+        "admin website",
+        "phpmysql"
+    ],
+    "BI": [
+        "bi",
+        "bi."
+    ],
+    "Windows XP": [
+        "windows xp",
+        "winxp",
+        "xp",
+        "window xp",
+        "microsoft windowsxp sp3",
+        "windows xp ,",
+        "micrsoft team",
+        "window xp / 7",
+        "điều hành xp",
+        "microsoft windows xp",
+        "ms windows xp"
+    ],
+    "JPA": [
+        "jpa",
+        "jpa."
+    ],
+    "ECMAScript": [
+        "es6",
+        "javascript es6",
+        "ecmascript 2015",
+        "es7"
+    ],
+    "Web server": [
+        "web server",
+        "webserver",
+        "web servers"
+    ],
+    "Windows 7": [
+        "windows 7",
+        "window 7",
+        "ms windows 7",
+        "win7",
+        "windows 7 ,",
+        "cài windows"
+    ],
+    "CorelDRAW": [
+        "corel draw",
+        "coreldraw",
+        "corel draw , corel studio , photoshop",
+        "corel html"
+    ],
+    "V-Model": [
+        "v model",
+        "vmodel"
+    ],
+    "Zimbra": [
+        "zimbra",
+        "mail zimbra",
+        "email zimbra",
+        "mail server zimbra",
+        "zimbra other"
+    ],
+    "Thymeleaf": [
+        "thymeleaf",
+        "thymeleaf template"
+    ],
+    "Tư duy sáng tạo": [
+        "sáng tạo",
+        "tư duy sáng tạo",
+        "tư duy sang tạo",
+        "khả năng tư duy"
+    ],
+    "Windows Server 2003": [
+        "windows server 2003",
+        "windows 2003",
+        "window server 2003",
+        "win2k3",
+        "ms window server 2003",
+        "windows server 2003 / windows xp / 7 / 8 / 10"
+    ],
+    "Voice over IP": [
+        "voip",
+        "voice ip"
+    ],
+    "Tối ưu hóa công cụ tìm kiếm": [
+        "tìm kiếm",
+        "tìm kiếm khách hàng",
+        "tối ưu hóa website",
+        "tối ưu hệ thống",
+        "tìm kiếm công việc",
+        "tối ưu hóa",
+        "tối ưu code",
+        "tìm kiếm lỗi",
+        "công cụ tìm kiếm",
+        "tối ưu hóa cơ sở",
+        "giao diện website",
+        "các công cụ hỗ trợ seo",
+        "tối ưu hóa sản phẩm",
+        "kỹ thuật seo",
+        "tối ưu các chiến dịch",
+        "công cụ tìm kiếm thông tin",
+        "tìm",
+        "phân loại backlink chất lượng",
+        "website chuẩn seo.",
+        "kỹ năng seo.",
+        "tối ưu hóa dữ liệu",
+        "làm seo",
+        "tối ưu hoá ứng dụng",
+        "thực hiện seo"
+    ],
+    "Kỹ năng mềm": [
+        "kỹ năng giao tiếp",
+        "kỹ năng thuyết trình",
+        "kỹ năng quản lý",
+        "kỹ năng mềm",
+        "kỹ năng làm việc nhóm",
+        "kỹ năng quản lý thời gian",
+        "kĩ năng giao giao tiếp",
+        "khả năng mềm",
+        "kỹ năng làm nhóm",
+        "giải quyết tình huống",
+        "kĩ năng nhóm",
+        "đạo đức nghề nghiệp",
+        "làm việc kỹ năng nhóm"
+    ],
+    "Data warehouse": [
+        "data warehouse",
+        "datawarehouse",
+        "datawarehouse ,",
+        "oracle data warehouse"
+    ],
+    "Windows Server 2012": [
+        "windows server 2012",
+        "server 2012",
+        "window server 2012",
+        "windows 2012 server",
+        "window 2012",
+        "cấu hình windows server",
+        "đặc điểm của nhiều loại server",
+        "quản lý server"
+    ],
+    "Website": [
+        "website",
+        "lập trình website",
+        "xây dựng website",
+        "xây dựng trang web",
+        "phát triển website",
+        "làm website",
+        "code website",
+        "lập trình web application bằng",
+        "lập trình website php.",
+        "xây dựng trang website"
+    ],
+    "Object-oriented programming": [
+        "oop.",
+        "object oriented programming",
+        "object - oriented programming",
+        "oop ,",
+        "object orientated programming",
+        "object oriented programming ( oop )",
+        "java oop",
+        "object oriented programming c",
+        "java oop spring",
+        "oop php"
+    ],
+    "Kỹ năng phân tích": [
+        "phân tích vấn đề",
+        "phân tích chức năng",
+        "tự tin giải quyết vấn đề"
+    ],
+    "Tableau": [
+        "tableau",
+        "tableu"
+    ],
+    "Bootstrap (front-end framework)": [
+        "bootstrap 4",
+        "bootstrap 3",
+        "bootstrap4",
+        "bootstrap3",
+        "bootstrap framework",
+        "react navigation",
+        "css bootstrap",
+        "bootstrap library",
+        "bootstrap 4 ,",
+        "bootstrap css",
+        "bootstrap table plugin",
+        "bootstrap platforms : windows",
+        "react bootstrap",
+        "framework bootstrap 5",
+        "bootstrap template .",
+        "twitter bootstrap",
+        "html css-bootstrap",
+        "bootstrap jquery",
+        "html bootstrap",
+        "jquery bootstrap",
+        "bootstrap 3 / 4 ,",
+        "css3 , bootstrap",
+        "framework bootstrap"
+    ],
+    "Trường Cao đẳng Thực hành FPT": [
+        "xử lý tình huống",
+        "lập trình android",
+        "cắt giao diện",
+        "giao tiếp , thuyết trình",
+        "kỹ năng tổ chức",
+        "quản trị dự án cntt",
+        "lập trình android cơ bản",
+        "android cơ bản",
+        "giao tiếp thuyết trình"
+    ],
+    "IBM Rational Rose XDE": [
+        "rational rose",
+        "ibm rational rose",
+        "uml rational rose",
+        "rational rose 7"
+    ],
+    "Bán hàng": [
+        "bán hàng",
+        "hỗ trợ cho công tác bán hàng",
+        "đào tạo telesales",
+        "tư vấn bán hàng",
+        "kỹ năng bán hàng",
+        "phân tích nghiệp vụ bán hàng",
+        "bán hàng chuyên nghiệp"
+    ],
+    "Big data": [
+        "bigdata",
+        "big data"
+    ],
+    "Blockchain": [
+        "blockchain",
+        "mô hình repository",
+        "công nghệ blockchain"
+    ],
+    "Apache Hadoop": [
+        "hadoop",
+        "hdfs",
+        "apache common",
+        "hadoop ecosystem"
+    ],
+    "Oracle Forms": [
+        "oracle form",
+        "sql navigator for oracle",
+        "oracle forms & reports",
+        "oracle forms",
+        "sql navigator 7.0"
+    ],
+    "VMware ESXi": [
+        "vmware esxi",
+        "sizing vmware vsphere",
+        "esxi",
+        "esx",
+        "esxi client",
+        "esxi host",
+        "esxi 5,6 6,9",
+        "esxi 5.0 6.7 (",
+        "cluster esxi",
+        "os vmware esxi 6.0",
+        "vmware esxi 5.5",
+        "cài đặt vmware esxi",
+        "esx system",
+        "vmware esxi 5.0",
+        "vmware esxi server",
+        "esxi 5.5",
+        "esxi 6.0",
+        "esxi 6.5"
+    ],
+    "Tiếng Pháp": [
+        "tiếng pháp",
+        "tiếng nhật french"
+    ],
+    "Ruby on Rails": [
+        "ruby on rails",
+        "framework ruby",
+        "ruby & rails",
+        "framework ruby on rails"
+    ],
+    "Công nghệ thông tin": [
+        "công nghệ thông tin",
+        "tiếp thu các công nghệ mới",
+        "công nghệ thồng tin",
+        "công nghê thông tin"
+    ],
+    "Phim tài liệu": [
+        "viết tài liệu",
+        "trình bày tài liệu",
+        "viết tài liệu hướng dẫn sử dụng",
+        "viết tài liệu hướng dẫn",
+        "viết tài liệu tốt"
+    ],
+    "MacOS": [
+        "macos",
+        "mac os",
+        "mac os.",
+        "max os"
+    ],
+    "Liferay": [
+        "liferay",
+        "liferay portal",
+        "liferay portal server"
+    ],
+    "Google Ads": [
+        "google ads",
+        "google adwords",
+        "adwords",
+        "adword",
+        "google adword",
+        "google keyword planner",
+        "google keyword tool",
+        "google display network",
+        "ads platform",
+        "face ads",
+        "remarketing google",
+        "google mobile ads"
+    ],
+    "PhpStorm": [
+        "phpstorm",
+        "php storm 5.0",
+        "php storm"
+    ],
+    "PRTG Network Monitor": [
+        "prtg",
+        "prtg."
+    ],
+    "Machine learning": [
+        "machine learning",
+        "machine learning big",
+        "learning n3"
+    ],
+    "Hosting": [
+        "hosting",
+        "phần mềm cpanel"
+    ],
+    "Hệ thống thông tin quản lý": [
+        "quản trị hệ thống",
+        "quản lý hệ thống mạng",
+        "quản lý thông tin khách hàng",
+        "quản trị hệ thống giám sát",
+        "cấu hình quản trị hệ thống",
+        "hệ thống thông tin quản lý",
+        "quản lý hệ thống hồ sơ",
+        "phân tích nghiệp vụ hệ thống",
+        "quản trị hệ thống cấu trúc",
+        "các hệ thống báo cáo"
+    ],
+    "Cocos (Keeling) Islands": [
+        "cocos2dx",
+        "cocos 2dx",
+        "cocos"
+    ],
+    "DrayTek": [
+        "draytek",
+        "draytek 2925",
+        "draytek 3900"
+    ],
+    "Xcode": [
+        "xcode",
+        "ios xcode",
+        "xcode objective",
+        "xcode8"
+    ],
+    "Enterprise resource planning": [
+        "erp.",
+        "erp profit",
+        "erp system",
+        "erp / crm",
+        "erp consultant",
+        "business planning & consolidation"
+    ],
+    "Active Directory": [
+        "active directory",
+        "active directory ,",
+        "azure active directory",
+        "windows server 2012r2 active directory certificate services",
+        "active directory domain services"
+    ],
+    "Design": [
+        "design",
+        "designing"
+    ],
+    "Đào tạo": [
+        "đào tạo",
+        "khả năng đào tạo"
+    ],
+    "Tâm lý học": [
+        "tìm hiểu",
+        "tâm lý khách hàng",
+        "đọc và hiểu các tài liệu chuyên ngành",
+        "nắm bắt tâm lý khách hàng"
+    ],
+    "Marketing": [
+        "marketing",
+        "marketing truyền thống",
+        "remarketing",
+        "phương pháp marketing",
+        "triển khai kế hoạch marketing",
+        "tiếp thị",
+        "p-marketing",
+        "sale & marketing"
+    ],
+    "Thiết kế web": [
+        "thiết kế website",
+        "thiết kế web",
+        "thiết kế giao diện web",
+        "thiết kế website asp .net",
+        "thiết kế giao diện trang web",
+        "công nghệ zend",
+        "thiết kế giao diện website",
+        "thiết kế website mới"
+    ],
+    "IntelliJ IDEA": [
+        "intellij",
+        "intellij idea",
+        "git và ide",
+        "world sql svn"
+    ],
+    "ArcGIS": [
+        "arcgis",
+        "arcgis 10",
+        "arcgis engine",
+        "arcgis desktop"
+    ],
+    "C-Net": [
+        "c # .net",
+        "c # ( .net )"
+    ],
+    "Virtual LAN": [
+        "vlan",
+        "cổng vlan",
+        "vlans"
+    ],
+    "SRS": [
+        "srs",
+        "srs."
+    ],
+    "VCenter": [
+        "vcenter",
+        "vcenter 5.5",
+        "vcenter 6.0",
+        "vcenter 6.5"
+    ],
+    "Angular (web framework)": [
+        "angular 2",
+        "angular 4",
+        "angular 6",
+        "angular2",
+        "angular 5",
+        "angular material",
+        "angular 7",
+        "angular 8",
+        "angular4",
+        "rxjs",
+        "angular8",
+        "angular framework",
+        "angular6",
+        "core angular",
+        "node js angular",
+        "web frontend",
+        "ngrx",
+        "typescript framework",
+        "angular5",
+        "angular 1 & 4",
+        "angular 4.0",
+        "angular 4 ,",
+        "angular7",
+        "angular 2x , 4x"
+    ],
+    "Oracle Enterprise Resource Planning Cloud": [
+        "oracle erp",
+        "erp oracle",
+        "erp - oracle"
+    ],
+    "Google Chrome": [
+        "quy trình test",
+        "chrome",
+        "lập trình web service",
+        "chrome extension",
+        "giai đon kiểm thử",
+        "quy trình phát triển web",
+        "tạo plugin native"
+    ],
+    "Shopify": [
+        "shopify",
+        "partner shopify"
+    ],
+    "Apache Tomcat": [
+        "apache tomcat",
+        "tomcat server",
+        "tomcat 8",
+        "tomcat 6.0",
+        "server tomcat",
+        "tomcat 7",
+        "server apache tomcat",
+        "tomcat 8x",
+        "tomcat 6",
+        "apache tomcat 9",
+        "apache tomcat server"
+    ],
+    "Memcached": [
+        "memcached",
+        "memcache"
+    ],
+    "Adobe Premiere Pro": [
+        "adobe premiere",
+        "adobe premiere pro",
+        "adobe premier",
+        "adobe premier pro",
+        "premiere cc2015"
+    ],
+    "MAVEN": [
+        "maven",
+        "mavên"
+    ],
+    "Đọc": [
+        "đọc",
+        "đọc hiểu",
+        "đọc / viết"
+    ],
+    "Software bug": [
+        "log bug",
+        "fix bug",
+        "test bugs"
+    ],
+    "Telerik": [
+        "telerik",
+        "kendo ui",
+        "kendoui",
+        "kendo mvc",
+        "telerik component",
+        "telerik ui",
+        "telerik control"
+    ],
+    "Drupal": [
+        "drupal",
+        "xtemplate",
+        "drupal 8",
+        "drupal 7",
+        "cms drupal",
+        "bootstrap 4 theme sql server",
+        "training symfony",
+        "drupal module",
+        "cms drupal 8"
+    ],
+    "API testing": [
+        "test api",
+        "api testing"
+    ],
+    "Language Integrated Query": [
+        "linq to sql",
+        "linq to sql."
+    ],
+    "GMX Mail": [
+        "mail exchange",
+        "mail exchange 2010"
+    ],
+    "Áp lực": [
+        "chịu được áp lực",
+        "chịu áp lực"
+    ],
+    "Java Platform, Micro Edition": [
+        "j2me",
+        "java j2me",
+        "java phone"
+    ],
+    "Tiếng Trung Quốc": [
+        "tiếng trung",
+        "tiếng trung quốc",
+        "đọc hiểu tài liệu tiếng anh",
+        "tiếng anh trung cấp",
+        "tiếng hoa",
+        "tiếng anh : trung cấp",
+        "tiếng trung v"
+    ],
+    "HP": [
+        "hp",
+        "hp.",
+        "p hp"
+    ],
+    "Android software development": [
+        "android sdk",
+        "android native",
+        "android sdk.",
+        "android ndk",
+        "android tester"
+    ],
+    "IBM WebSphere": [
+        "ibm websphere",
+        "websphere",
+        "ibm websphere portal"
+    ],
+    "UX": [
+        "ux",
+        "ux."
+    ],
+    "Flutter (software)": [
+        "flutter",
+        "framework flutter"
+    ],
+    "PLC": [
+        "plc",
+        "plc."
+    ],
+    "CI": [
+        "ci",
+        "ci framework",
+        "frameworks ci",
+        "ci.",
+        "framework ci"
+    ],
+    "Express.js": [
+        "expressjs",
+        "express .js",
+        "express js",
+        "express js.",
+        "express framework"
+    ],
+    "Phân tích yêu cầu": [
+        "phân tích yêu cầu",
+        "đặc tả yêu cầu",
+        "phân tích yêu cầu người dùng",
+        "làm rõ yêu cầu nghiệp vụ",
+        "làm tài liệu phân tích yêu cầu",
+        "phân tích yêu cầu đặc tả",
+        "linh hoạt theo yêu cầu",
+        "phân tích yêu cầu phần mềm"
+    ],
+    "Xamarin": [
+        "xamarin",
+        "robo3t app",
+        "xamarin forms",
+        "android xamarin"
+    ],
+    "Photodex": [
+        "proshow producer",
+        "proshow",
+        "proshow gold"
+    ],
+    "Oracle RAC": [
+        "oracle 12c",
+        "oracle rac",
+        "oracle 10g rac",
+        "real application cluster",
+        "9i / 10g rac",
+        "oracle cluster"
+    ],
+    "Acceptance testing": [
+        "acceptance test",
+        "acceptance testing"
+    ],
+    "System testing": [
+        "system test",
+        "system testing"
+    ],
+    "Fortinet": [
+        "fortinet",
+        "fortigate",
+        "fortinet gate",
+        "firewall fortigate 100d",
+        "firewall fortigate",
+        "fortigate 100d",
+        "fortinet firewall"
+    ],
+    "Hệ điều hành": [
+        "hệ điều hành",
+        "điều hành",
+        "điều hành cao cấp",
+        "điều hành cuộc hợp",
+        "điều hành nhóm",
+        "vận hành các hệ thống",
+        "điều hành sử dụng",
+        "làm việc với hệ điều hành windows server"
+    ],
+    "Java version history": [
+        "j2se",
+        "java se",
+        "java 6",
+        "java 8",
+        "java 7",
+        "java1",
+        "java2",
+        "java4",
+        "java jdk",
+        "java 1.8",
+        "jdk 8x",
+        "java j2se",
+        "java 10",
+        "chrome , jdk 10 = > jdk 11"
+    ],
+    "ASP.NET Core": [
+        "asp .net core",
+        "asp. net core",
+        "asp .net core web",
+        "asp. net core 2.1",
+        "asp .net core 2.1"
+    ],
+    "Oracle 10g": [
+        "oracle 10g",
+        "oracle 10"
+    ],
+    "JQuery Mobile": [
+        "jquery mobile",
+        "jquery mobile my"
+    ],
+    "Tite (huấn luyện viên)": [
+        "huấn luyện",
+        "huấn luyện ,"
+    ],
+    "Tư duy": [
+        "tư duy",
+        "tư duy lập trình",
+        "tư duy tích cực",
+        "tư duy hệ thống logic",
+        "tư duy làm việc",
+        "tư duy hiệu quả"
+    ],
+    "Adobe Illustrator": [
+        "adobe illustrator",
+        "illustrator design",
+        "adobe illustrator internet",
+        "illustrator photoshop",
+        "adobe illustrator cs5"
+    ],
+    "Triển khai phần mềm": [
+        "triển khai hệ thống",
+        "triển khai phần mềm",
+        "triễn khai phần mềm",
+        "triển khai cài đặt"
+    ],
+    "Microservices": [
+        "microservice",
+        "microservices",
+        "spring cloud",
+        "wcf test client",
+        "kiến trúc microservices",
+        "triển khai độc lập",
+        "thiết kế microservice"
+    ],
+    "Mockup": [
+        "mockup",
+        "mock up"
+    ],
+    "Proxy server": [
+        "proxy",
+        "web proxy",
+        "caching proxy",
+        "setup web server"
+    ],
+    "Adobe InDesign": [
+        "indesign",
+        "adobe indesign"
+    ],
+    "Kế toán": [
+        "lập báo cáo",
+        "kế toán tài chính",
+        "kế toán",
+        "hệ thống tài chính kế toán",
+        "nghiệp vụ kế toán hành chính",
+        "nguyên lý kế toán",
+        "kế toán kho",
+        "tài chính kế toán",
+        "kế toán giá thành",
+        "kế toán erp"
+    ],
+    "Mạng cục bộ": [
+        "mạng lan",
+        "triển khai hệ thống mạng lan"
+    ],
+    "Microsoft Power BI": [
+        "power bi",
+        "powerbi",
+        "power bi reports",
+        "microsoft power bi.",
+        "power query",
+        "power bi."
+    ],
+    "Bảng tuần hoàn": [
+        "bảng quyết định",
+        "biểu đồ lớp"
+    ],
+    "Adobe After Effects": [
+        "adobe after effect",
+        "after effect",
+        "adobe after"
+    ],
+    "Qt (software)": [
+        "qt framework",
+        "qt creater",
+        "c / qt"
+    ],
+    "RAID": [
+        "raid",
+        "hệ thống raid",
+        "tạo raid"
+    ],
+    "Socket.IO": [
+        "socket .io",
+        "socket io",
+        "socketio"
+    ],
+    "Oracle BI Publisher": [
+        "bi publisher",
+        "oracle bi publisher",
+        "oracle report builder",
+        "oracle bi",
+        "xml publisher",
+        "bi xml publisher",
+        "bi publisher oracle"
+    ],
+    "Đánh giá": [
+        "đánh giá",
+        "đánh giá kết quả công việc",
+        "đánh giá vấn đề"
+    ],
+    "Transport Layer Security": [
+        "ssl",
+        "ssl."
+    ],
+    "Firefox": [
+        "firefox",
+        ", firefox"
+    ],
+    "Report": [
+        "report",
+        "reports"
+    ],
+    "Test case": [
+        "test case",
+        "testcase",
+        "test cases"
+    ],
+    "Chó nghiệp vụ": [
+        "phân tích nghiệp vụ",
+        "khảo sát nghiệp vụ"
+    ],
+    "Wi-Fi": [
+        "wifi",
+        "modem wifi",
+        "hệ thống wifi",
+        "wifi internet",
+        "wan , lan , wifi"
+    ],
+    "Hệ thống thông tin": [
+        "phân tích và thiết kế hệ thống",
+        "cấu hình hệ thống mạng",
+        "phát triển hệ thống website",
+        "nắm bắt thông tin",
+        "phân tích hệ thống thông tin",
+        "cấu hình cho hệ thống",
+        "hệ thống thông tin",
+        "hỗ trợ các hệ thống ứng dụng",
+        "cung cấp hệ thống",
+        "hệ thống mạng nội bộ",
+        "quản trị hệ thống thông tin"
+    ],
+    "Thiết kế đồ họa": [
+        "thiết kế đồ họa",
+        "thiết kế hình ảnh",
+        "thiết kế đồ hoạ",
+        "thiết kế các sơ đồ",
+        "thiết kế logo"
+    ],
+    "BPM": [
+        "bpm",
+        "bpm."
+    ],
+    "Wikipedia": [
+        "viết test case",
+        "viết user case",
+        "đọc nhanh tài liệu",
+        "tạo thư viện class",
+        "sử dụng"
+    ],
+    "PostScript fonts": [
+        "font end",
+        "font - end",
+        "font-end"
+    ],
+    "Ứng dụng web": [
+        "xây dựng ứng dụng",
+        "viết ứng dụng",
+        "ứng dụng web",
+        "đánh giá an toàn thông tin ứng dụng web"
+    ],
+    "Oracle WebLogic Server": [
+        "weblogic",
+        "oracle weblogic",
+        "weblogic portal",
+        "oracle weblogic server",
+        "weblogic server"
+    ],
+    "MVC": [
+        "mô hình mvc",
+        "mô hình mvc.",
+        "mvc. các"
+    ],
+    "Tòa nhà Quốc hội Việt Nam": [
+        "lắp đặt",
+        "xây dựng các qui trình quản lý"
+    ],
+    "Integration testing": [
+        "integration test",
+        "integration testing"
+    ],
+    "Lightweight Directory Access Protocol": [
+        "ldap",
+        "ldap server",
+        "ldaps"
+    ],
+    "Oracle Solaris": [
+        "solaris",
+        "sun solaris",
+        "oracle source",
+        "oracle 9x",
+        "solaris 9",
+        "solaris 10",
+        "oracle solaris",
+        "sun solaris server"
+    ],
+    "POS": [
+        "pos",
+        "pos."
+    ],
+    "List of unit testing frameworks": [
+        "netframework",
+        "netframework vb. net",
+        ".netframework",
+        "netframework 2.0",
+        "netcore 3.1",
+        "java oop unit test",
+        "sql server netcore"
+    ],
+    "C-sharp": [
+        "c sharp",
+        "csharp"
+    ],
+    "SolidWorks": [
+        "solidworks",
+        "solidwork"
+    ],
+    "Figma (software)": [
+        "figma",
+        "figma balsamiq"
+    ],
+    "Burlesque (soundtrack)": [
+        "strust",
+        "strust1",
+        "strust2",
+        "strust 2"
+    ],
+    "Domain controller": [
+        "domain controller",
+        "microsoft domain controller"
+    ],
+    "DMS": [
+        "dms",
+        "dms system",
+        "dms."
+    ],
+    "Web application": [
+        "web application",
+        "web applications",
+        "web app",
+        "web base",
+        "hybrid app"
+    ],
+    "IOS": [
+        "ios.",
+        "lập trình ios",
+        "native ios"
+    ],
+    "Học": [
+        "học hỏi",
+        "học"
+    ],
+    "IP": [
+        "ip",
+        "ip."
+    ],
+    "Adobe Lightroom": [
+        "lightroom",
+        "photoshop database"
+    ],
+    "Windows 2000": [
+        "win server",
+        "windows 2000",
+        "điều hành datacenter",
+        "windows server 2000",
+        "ms windows 2000",
+        "windows 2000 server",
+        "window 2000"
+    ],
+    "Ext JS": [
+        "extjs",
+        "ext .net",
+        "sencha extjs",
+        "ext js",
+        "ext js framework",
+        "sencha js",
+        "extjs framework",
+        "ext",
+        "ext .js",
+        "ext component"
+    ],
+    "PowerBuilder": [
+        "restclient",
+        "powerbuilder",
+        "restclient tool",
+        "power builder"
+    ],
+    "Hypertext Transfer Protocol": [
+        "http",
+        "http ,",
+        "http / s",
+        "xử lý yêu cầu"
+    ],
+    "VisualSVN": [
+        "visual svn",
+        "visual svn."
+    ],
+    "Unity (game engine)": [
+        "unity 3d",
+        "unity3d",
+        "unity engine",
+        "game unity",
+        "unity game",
+        "unity google map",
+        "unity ."
+    ],
+    "Open API": [
+        "facebook api",
+        "api facebook",
+        "api develop facebook"
+    ],
+    "OpenStack": [
+        "openstack",
+        "sahara open stack"
+    ],
+    "Adobe Creative Suite": [
+        "cs6",
+        "cs5",
+        "ms access photoshop",
+        "adobe flash cs6",
+        "cs3",
+        "adobe cs5",
+        "adobe creative suite"
+    ],
+    "Apache Cordova": [
+        "phonegap",
+        "apache cordova"
+    ],
+    "ZK (framework)": [
+        "zk framework",
+        "framework zk",
+        "zk chart",
+        "zuml.",
+        "zuml. html",
+        "java zk"
+    ],
+    "Quản trị nhân sự": [
+        "quản lý nhân sự",
+        "quản trị nhân sự",
+        "quản lý các sự cố",
+        "quản lý nhân viên",
+        "công tác quản lý nhân sự",
+        "nghiệp vụ quản ý nhân sự",
+        "quản lý nguồn nhân lực",
+        "quản trị mạng cơ bản",
+        "quản trị nhân sự , phát triển nhân sự",
+        "nghiệp vụ về thủ tục nhân sự"
+    ],
+    "Digital marketing": [
+        "digital marketing",
+        "digital marketing ,",
+        "marketing digital",
+        "e-marketing"
+    ],
+    "Windows Phone": [
+        "windows phone",
+        "window phone",
+        "windowsphone",
+        "winphone",
+        "windows phone bằng"
+    ],
+    "Extensible Application Markup Language": [
+        "xaml",
+        "xaml."
+    ],
+    "Windows 8": [
+        "windows 8",
+        "window 8",
+        "ms windows 8"
+    ],
+    "Perl": [
+        "perl",
+        "java * perl"
+    ],
+    "Jakarta Server Pages": [
+        "jsp servlet",
+        "java jsp",
+        "jsp / servlet",
+        "servlet / jsp php",
+        "java v jsp",
+        "jsp struts1",
+        "servlet jsp"
+    ],
+    "It": [
+        "it",
+        "it."
+    ],
+    "JBuilder": [
+        "jbuilder",
+        "oracle jbuilder 2005",
+        "jbuilder2008",
+        "oracle jbuilder",
+        "jbuilder2006"
+    ],
+    "Service": [
+        "service",
+        "services"
+    ],
+    "Software performance testing": [
+        "performance testing",
+        "test performance"
+    ],
+    "Script": [
+        "script",
+        "scripting",
+        "scripts"
+    ],
+    "Knockout (web framework)": [
+        "knockoutjs",
+        "knockout js"
+    ],
+    "Microsoft Visual C++": [
+        "visual c",
+        "visual 2017 c #",
+        "visual c #",
+        "microsoft visual c",
+        "microsoft c #",
+        "visual 2013 c #"
+    ],
+    "Oracle Business Intelligence Suite Enterprise Edition": [
+        "obiee",
+        "oracle obiee",
+        "tableau bi",
+        "oracle business intelligence suite enterprise edition",
+        "oracle business intelligence",
+        "intelligence suite enterprise edition"
+    ],
+    "CPanel": [
+        "cpanel",
+        "whm",
+        "cpanel whm",
+        "cpanel hosting",
+        "control panel cpanel whm"
+    ],
+    "Thuật toán": [
+        "thuật toán",
+        "giải thuật",
+        "thiết kế thuật toán",
+        "thuật toán lập trình",
+        "sử lý thuật toán"
+    ],
+    ".NET Framework version history": [
+        ".net 4.0",
+        ".net framework 3.5",
+        "net 4.5",
+        ".net 4.5",
+        ".net framework 5.1",
+        ".net framework 4.5",
+        ".net framework 2.0",
+        "net 4.0",
+        "net framework 4.5",
+        "net framework 3.5",
+        ".net 3.5",
+        "c # .net 1.1",
+        "c # .net 2.0",
+        "framework 4.0",
+        "net framework 4.5.2",
+        "net framework 4.0",
+        ".net api 2.0",
+        ".net framework 1.1",
+        ".net 1.1",
+        "net 3.5 ,",
+        ".net framework 3.0",
+        ".net framework 4 x",
+        "c # .net 4.5",
+        "framework 4",
+        "metro framework",
+        "net 3.5"
+    ],
+    "Scriptcase": [
+        "ms sqlserver",
+        "web form ms sqlserver",
+        "jquery webservice"
+    ],
+    "Debugging": [
+        "debug",
+        "debugging code"
+    ],
+    "Dev-C++": [
+        "devc",
+        "dev c",
+        "hỗ trợ với dev",
+        "dev - c"
+    ],
+    "Thương mại điện tử": [
+        "thương mại điện tử",
+        "mô hình thương mại điện tử",
+        "kinh doanh tmđt."
+    ],
+    "Apache Struts 1": [
+        "struts1",
+        "struts framework",
+        "struts 1",
+        "struts 1 x",
+        "strut1"
+    ],
+    "JUnit": [
+        "junit",
+        "unit test java"
+    ],
+    "Animation": [
+        "animation",
+        "animate"
+    ],
+    "QML": [
+        "qml",
+        "qml framework"
+    ],
+    "Load balancing (computing)": [
+        "load balancing",
+        "load balancer",
+        "load balance"
+    ],
+    "Hyper-V": [
+        "hyper v",
+        "microsoft hyper v",
+        "hyperv"
+    ],
+    "Navicat": [
+        "navicat",
+        "sql navicat"
+    ],
+    "Test automation": [
+        "automation test",
+        "automation testing",
+        "test automation",
+        "tool automation testing"
+    ],
+    "ZK-383": [
+        "zk",
+        "zk."
+    ],
+    "Oracle Application Development Framework": [
+        "oracle adf",
+        "oracle adf.",
+        "adf oracle framework"
+    ],
+    "SketchUp": [
+        "sketchup",
+        "sketch up"
+    ],
+    "Báo cáo": [
+        "báo cáo",
+        "báo cáo công việc",
+        "tổng hợp , báo cáo",
+        "làm các báo cáo"
+    ],
+    "Oracle Corporation": [
+        "oracle server",
+        "server oracle",
+        "sử dụng oracle",
+        "ọraclê",
+        "phát triển sử dụng oracle",
+        "oracle develop",
+        "oracle oracle",
+        "lập trình oracle form",
+        "oracle erp 12.2.5",
+        "oracle số",
+        "oracle security",
+        "oracle development",
+        "oracle peoplesoft experience"
+    ],
+    "OpenVPN": [
+        "openvpn",
+        "open vpn"
+    ],
+    "Microsoft Forefront Threat Management Gateway": [
+        "isa security",
+        "tmg 2010",
+        "isa 2006",
+        "isa server",
+        "web gateway security",
+        "firewall isa",
+        "isa 2006 proxy server",
+        "microsoft internet security and acceleration",
+        "isa2006",
+        "forefront integrated security"
+    ],
+    "Microsoft Visual SourceSafe": [
+        "source safe",
+        "visual source safe",
+        "visual sourcesafe",
+        "microsoft sourcesafe",
+        "ms source safe",
+        "ms visual source safe",
+        "visual sourcesafe 2005"
+    ],
+    "Tales of Maj'Eyal": [
+        "netcore",
+        ".netcore"
+    ],
+    "Packet Tracer": [
+        "packet tracer",
+        "phần mềm cisco packet tracer",
+        "cisco packet tracer",
+        "cisco packet"
+    ],
+    "Windows service": [
+        "windows service",
+        "window service",
+        "window services",
+        "windows service c #",
+        "windows services"
+    ],
+    "Camtasia": [
+        "camtasia",
+        "camtasia studio",
+        "camtasia 2018",
+        "camtasia studio 9"
+    ],
+    "Bash (Unix shell)": [
+        "bash shell",
+        "git bash",
+        "bash script linux",
+        "script bash shell",
+        "bash script shell"
+    ],
+    "Comparison of web frameworks": [
+        "php framework",
+        "zendframework 1.8",
+        "entity framework css3",
+        "framework php"
+    ],
+    "Hệ quản trị nội dung": [
+        "quản trị website",
+        "viết content",
+        "quản lý team",
+        "quản lý source code",
+        "quản trị web",
+        "quản l hệ thống",
+        "quản trị server",
+        "quản trị hệ thống server",
+        "phát triển nội dung",
+        "quản lí source",
+        "phát triển hệ thống quản trị",
+        "quản trị hệ thống phần mềm",
+        "quản trị cơ bản",
+        "quản trị các hệ thống",
+        "xây dựng hệ thống quản trị",
+        "quản trị các hệ thống website",
+        "quản lý hệ thống server",
+        "xây dựng hệ thống server",
+        "xây dựng một hệ thống",
+        "phát triển hệ thống quản lý"
+    ],
+    "JQuery UI": [
+        "jquery ui",
+        "jqueryui",
+        "jquery ui.",
+        "datepicker"
+    ],
+    "Studio Signpost": [
+        "visua studio",
+        "visua studio 2014"
+    ],
+    "Bộ ứng dụng văn phòng": [
+        "phần mềm văn phòng",
+        "ứng dụng văn phòng"
+    ],
+    "WooCommerce": [
+        "woocommerce",
+        "wordpress woocommerce"
+    ],
+    "OpenGL": [
+        "opengl",
+        "open gl"
+    ],
+    "Verilog": [
+        "verilog",
+        "c / c verilog"
+    ],
+    "Tài chính": [
+        "tài chính",
+        "hệ thông tài chính"
+    ],
+    "Keyword research": [
+        "ahrefs",
+        "ahref",
+        "keyword tool planner"
+    ],
+    "Google APIs": [
+        "google api",
+        "google api.",
+        "api google",
+        "google apis",
+        "google api & development"
+    ],
+    "Ionic (mobile app framework)": [
+        "ionic framework",
+        "ionic 2",
+        "ionic react",
+        "hybrid mobile app"
+    ],
+    "International English Language Testing System": [
+        "ielts",
+        "ielts 5.5",
+        "ielts : 5.5 / 9.0",
+        "7.0 ielts",
+        "ielts 4.5",
+        "ielts 5.0",
+        "ielts 6.5"
+    ],
+    "PrimeFaces": [
+        "primefaces",
+        "primeface",
+        "jsf primefaces",
+        "prime faces"
+    ],
+    "List of SAP products": [
+        "sap bi",
+        "bi sap",
+        "sap bi web intelligence"
+    ],
+    "Backup": [
+        "backup",
+        "backup data"
+    ],
+    "Giao diện lập trình ứng dụng": [
+        "lập trình ứng dụng",
+        "tìm hiểu api",
+        "tự lập trình ứng dụng",
+        "ứng dụng lập trình",
+        "lập trình các ứng dụng"
+    ],
+    "Microsoft Outlook": [
+        "ms outlook",
+        "power point-outlook",
+        "ms. outlook",
+        "lập trình microsoft sharepoint 2010",
+        "outlook microsoft",
+        "microsoft outlook"
+    ],
+    "Django (web framework)": [
+        "django framework",
+        "django full stack",
+        "python django",
+        "web django",
+        "django python"
+    ],
+    "Capability Maturity Model Integration": [
+        "cmmi",
+        "cmmi 3",
+        "cmmi level 3"
+    ],
+    "JasperReports": [
+        "jasper report",
+        "tibco jaspersoft studio",
+        "jaspersoft server",
+        "jaspersoft studio"
+    ],
+    "DFS": [
+        "dfs",
+        "dfs."
+    ],
+    "E-commerce": [
+        "ecommerce",
+        "e-commerce",
+        "ecommerce web",
+        "e commerce"
+    ],
+    "Postfix (software)": [
+        "postfix",
+        "mail server postfix"
+    ],
+    "SoapUI": [
+        "soapui",
+        "soap ui"
+    ],
+    "Google Search Console": [
+        "google webmaster tools",
+        "google webmaster tool",
+        "google webmaster",
+        "google search console",
+        "google webmasters tool",
+        "google api console",
+        "search console",
+        "search các thông tin",
+        "google console"
+    ],
+    "Net-C": [
+        "net ( c # )",
+        "net c #"
+    ],
+    "Chứng khó đọc": [
+        "đọc hiểu tiếng anh",
+        "đọc tiếng anh"
+    ],
+    "Computer-aided design": [
+        "cad",
+        "cad 2d",
+        "cad."
+    ],
+    "PMF": [
+        "pmf",
+        "pmf japanese"
+    ],
+    "PowerDesigner": [
+        "powerdesigner",
+        "winform module",
+        "power designer",
+        "power designer etl"
+    ],
+    "ITIL": [
+        "itil",
+        "itil.",
+        "itil foundation"
+    ],
+    "Hibernate (framework)": [
+        "hibernate framework",
+        "java spring hibernate",
+        "java hibernate",
+        "spring hibernate framework",
+        "spring hibernate",
+        "hibernate eclipse",
+        "hibernate 3",
+        "java core oop"
+    ],
+    "Tổng công ty Viễn thông MobiFone": [
+        "xử lý sự cố",
+        "tổng hợp thông tin",
+        "điều phối công việc",
+        "hoạt động theo nhóm",
+        "cập nhật công nghệ",
+        "hỗ trợ khách hàng dịch vụ website",
+        "triển khai kế hoạch truyền thông",
+        "k năng mềm",
+        "kiểm thử pc",
+        "tổng hợp số liệu",
+        "chủ động trong công việc",
+        "sửa chữa tổng đài",
+        "sửa chữa mạng",
+        "tư vấn với khách hàng",
+        "xử lý tổng đài",
+        "thích ứng công việc tốt",
+        "sửa chữa linh kiện",
+        "vận hành hệ thống dịch vụ công trực tuyến",
+        "triển khai hành động",
+        "triển khai các giải pháp",
+        "đối thoại khách hàng"
+    ],
+    "PrestaShop": [
+        "prestashop",
+        "framework prestashop"
+    ],
+    "Internet Movie Database": [
+        "thiết kế database",
+        "thiết kế database ."
+    ],
+    "Quản trị vận hành": [
+        "vận hành",
+        "quản lý phòng vận hành sản phẩm",
+        "quản trị sản xuất",
+        "quản trị vận hành hệ thống"
+    ],
+    "SAP Business One": [
+        "sap business one",
+        "sap b1 sdk",
+        "erp sap business one"
+    ],
+    "Autodesk 3ds Max": [
+        "3d max",
+        "3dsmax",
+        "3ds max",
+        "3dmax",
+        "studio max"
+    ],
+    "Keil (company)": [
+        "keil c",
+        "keil c ,"
+    ],
+    "Oracle Reports": [
+        "oracle report",
+        "oracle reports",
+        "report 6i"
+    ],
+    "Event Viewer": [
+        "report viewer",
+        "windows event viewer"
+    ],
+    "DirectAdmin": [
+        "directadmin",
+        "cloudlinux directadmin",
+        "direct admin"
+    ],
+    "Bắc Macedonia": [
+        "tư duy tốt",
+        "nắm bắt vấn đề",
+        "cộng tác nhóm",
+        "tư vấn học tập"
+    ],
+    "Oracle Fusion Middleware": [
+        "oracle bpm.",
+        "oracle business activities monitoring",
+        "oracle bam"
+    ],
+    "Symfony": [
+        "symfony",
+        "symfony2",
+        "symfony 1.4",
+        "symfony 2.0"
+    ],
+    "ActionScript": [
+        "actionscript",
+        "action script",
+        "flash action",
+        "action scripts"
+    ],
+    "Pentaho": [
+        "pentaho hitachi",
+        "pentaho",
+        "pentaho report"
+    ],
+    "Bing Webmaster Tools": [
+        "webmaster tool",
+        "webmaster tools"
+    ],
+    "AVR microcontrollers": [
+        "avr",
+        "atmega"
+    ],
+    "Manual testing": [
+        "test manual",
+        "manual test",
+        "manual testing"
+    ],
+    "Marvel vs. Capcom 3: Fate of Two Worlds": [
+        "mvc3",
+        "mvc 3",
+        "mvc3 c"
+    ],
+    "Microsoft 365": [
+        "office 365",
+        "microsoft office 365",
+        "office365"
+    ],
+    "Call centre": [
+        "call center",
+        "callcenter",
+        "cloud call center",
+        "ip callcenter"
+    ],
+    "CPU": [
+        "xử lý",
+        "xử lý lỗi",
+        "xử lý lỗi nhanh",
+        "xử lí",
+        "xử lý các lỗi",
+        "xử lý lỗi phát sinh"
+    ],
+    "Công ty cổ phần ô tô Trường Hải": [
+        "lắp ráp",
+        "lắp ráp gia công"
+    ],
+    "QR code": [
+        "qr code",
+        "qrcode"
+    ],
+    "Kendo": [
+        "kendo",
+        "framework kendo"
+    ],
+    "Economy of Nigeria": [
+        "entity framwork",
+        "net framwork 4.0",
+        "net framwork"
+    ],
+    "Google Drive": [
+        "google drive",
+        "chỉnh sửa giao diện",
+        "gsheet",
+        "vẽ và chỉnh sửa giao diện",
+        "tự tin thuyết trình",
+        "nâng cấp website"
+    ],
+    "Helix ALM": [
+        "testtrack",
+        "test track pro"
+    ],
+    "Bảo mật": [
+        "bảo mật",
+        "bảo mật hệ thống",
+        "xử lý các sự cố",
+        "thiết bị bảo mật",
+        "bảo mật hệ thống mạng",
+        "hệ thống bảo mật",
+        "tiêu chuẩn bảo mật mạng"
+    ],
+    "An toàn thông tin": [
+        "an toàn thông tin",
+        "bảo mật thông tin",
+        "an toàn bảo mật thông tin"
+    ],
+    "Amazon DynamoDB": [
+        "dynamodb",
+        "aws dynamodb"
+    ],
+    "VSS Unity": [
+        "vss",
+        "vss."
+    ],
+    "Client–server model": [
+        "client / server",
+        "client-server",
+        "client server",
+        "server client"
+    ],
+    "Cisco Nexus switches": [
+        "switch cisco",
+        "switch ( cisco",
+        "cisco nexus",
+        "cisco nexus 3000 series"
+    ],
+    "Virus (máy tính)": [
+        "sửa chữa máy tính",
+        "am hiểu phần cứng máy tính",
+        "khắc phục lỗi các phần mềm sử dụng trên máy vi tính",
+        "sửa chữa phần cứng máy tính"
+    ],
+    "Support-vector machine": [
+        "svm",
+        "support vector machine",
+        "kernel svm"
+    ],
+    "Google Tìm kiếm": [
+        "tìm kiếm thông tin",
+        "tìm kiếm trên internet",
+        "tìm kiếm các dự án"
+    ],
+    "Fiber to the x": [
+        "ftth",
+        "modem ftth"
+    ],
+    "Scikit-learn": [
+        "scikit learn",
+        "sklearn",
+        "scikit-learn"
+    ],
+    "Web testing": [
+        "test web",
+        "web testing"
+    ],
+    "Database administrator": [
+        "oracle dba",
+        "dba oracle"
+    ],
+    "User Datagram Protocol": [
+        "udp",
+        "udp."
+    ],
+    "Trang Chính": [
+        "viết bài",
+        "tiếp thu tốt",
+        "đào tạo nhân viên mới",
+        "vi tính văn phong",
+        "chứng chỉ tin học",
+        "quản trị mạng lan",
+        "hướng dẫn nhân sự"
+    ],
+    "Microsoft Exchange Server": [
+        "exchange server",
+        "exchange server 2010",
+        "exchange 2013",
+        "exchange server 2003",
+        "ms exchange 2013",
+        "mail server exchange",
+        "exchange 2007",
+        "ms exchange 2000",
+        "exchange 2003",
+        "exchange 2010",
+        "email exchange 2013",
+        "microsoft exchange"
+    ],
+    "Azure DevOps Server": [
+        "team foundation server",
+        "team foundation server 2010",
+        "azure devops",
+        "team foundation 2012",
+        "team foundation"
+    ],
+    "Application server": [
+        "application server",
+        "web app pool",
+        "appserver",
+        "web application server",
+        "app server"
+    ],
+    "Doanh nghiệp với Khách hàng": [
+        "giao tiếp với khách hàng",
+        "giao tiếp khách hàng"
+    ],
+    "LoadRunner": [
+        "loadrunner",
+        "load runner",
+        "microfocus load runner"
+    ],
+    "Hệ thống nhúng": [
+        "lập trình nhúng",
+        "nhúng",
+        "nghiệp vụ hệ thống",
+        "phân tích thiết kể hệ thống",
+        "triển khai các hệ thống",
+        "quản trị hệ thống network",
+        "học hỏi hệ thống mới",
+        "thiết kế hệ thống mạng",
+        "tiếp cận nhanh các hệ thống",
+        "hệ thống nhúng"
+    ],
+    "TortoiseSVN": [
+        "tortoisesvn",
+        "tortoise svn",
+        "source tortoisesvn",
+        "svn tortoise"
+    ],
+    "SMS": [
+        "sms",
+        "sms message",
+        "sms."
+    ],
+    "List of content management systems": [
+        "cms prestashop",
+        "aem framework",
+        "asp. net webforms"
+    ],
+    "Toán học": [
+        "toán",
+        "toán ,"
+    ],
+    "Đài Tiếng nói Việt Nam": [
+        "nói",
+        "tiếng nhật sơ cấp",
+        "làm hồ sơ thanh quyết toán",
+        "lập tờ trình",
+        "tiếng anh : đạt chứng chỉ b",
+        "nghe nói",
+        "kỷ năng giao tiếp",
+        "quản trị hệ thống tổng đài",
+        "tiếng trung em",
+        "xây dựng hệ thống livestream",
+        "đăng tin trên website",
+        "đọc hiểu tài liệu tiếng anh chuyên ngành"
+    ],
+    "HCL Domino": [
+        "lotus notes",
+        "ibm domino",
+        "lotus domino",
+        "ibm lotus domino"
+    ],
+    "Golden Gate Bridge": [
+        "golden gate",
+        "bridge .net"
+    ],
+    "Jetty (web server)": [
+        "boostrap 4",
+        "boostrap 4 x",
+        "boostrap framework",
+        "boostraps ide"
+    ],
+    "Plesk": [
+        "plesk",
+        "solusvm"
+    ],
+    "Google Maps": [
+        "google map api",
+        "google map",
+        "google maps",
+        "gmap , ...",
+        "bản đồ api google map",
+        "google map service",
+        "google map api.",
+        "gmap api",
+        "google maps api",
+        "gmaps api"
+    ],
+    "SQL Server Reporting Services": [
+        "reporting service",
+        "sql report builder",
+        "sql reporting service",
+        "visual basic sql",
+        "sql server reporting service",
+        "sql server asp",
+        "reporting services"
+    ],
+    "Mô hình OSI": [
+        "mô hình 3 lớp",
+        "mô hình v",
+        "mô hình mạng",
+        "giao thức smpp",
+        "cấu hình hệ thống switch",
+        "mô hình osi",
+        "mô hình"
+    ],
+    "BusinessObjects": [
+        "sap businessobjects",
+        "sap bo",
+        "sap bo 4.0",
+        "sap bo xi 3.1",
+        "sap bo xi"
+    ],
+    "RAML (software)": [
+        "api gateway",
+        "webservice restful api",
+        "webservice restful"
+    ],
+    "Quản trị viên hệ thống": [
+        "quản trị hệ thống mạng",
+        "quản trị hệ thống cntt"
+    ],
+    "GraphQL": [
+        "graphql",
+        "ql server"
+    ],
+    "Jakarta Persistence": [
+        "spring data jpa",
+        "hibernate oracle",
+        "java persistence",
+        "jpa hibernate"
+    ],
+    "JSON-LD": [
+        "api json",
+        "json api"
+    ],
+    "Radio-frequency identification": [
+        "rfid",
+        "rfid.",
+        "rfid reader"
+    ],
+    "TCPDF": [
+        "vtiger",
+        "custom sugarcrm"
+    ],
+    "McAfee": [
+        "mcafee",
+        "ips / ids"
+    ],
+    "LAMP (software bundle)": [
+        "wamp",
+        "php mysql",
+        "php / mysql",
+        "php & mysql",
+        "wamp mysql",
+        "mysql html"
+    ],
+    "Điện thoại": [
+        "điện thoại",
+        "điện thoại cho khách hàng"
+    ],
+    "White-box testing": [
+        "white box testing",
+        "white box"
+    ],
+    "Katalon Studio": [
+        "katalon studio",
+        "katalon",
+        "tool katalon"
+    ],
+    "Chứng khoán": [
+        "chứng khoán",
+        "công cụ chứng khoán"
+    ],
+    "QGIS": [
+        "qgis",
+        "công cụ qgis"
+    ],
+    "FileZilla": [
+        "filezilla",
+        "ftp filezilla"
+    ],
+    "List of TCP and UDP port numbers": [
+        "mssql2k8",
+        "mongod",
+        "openerp v7",
+        "rabbitmq logs",
+        "netbeans ibm websphere 5.2.1",
+        "use restful table of atlassian ui",
+        "tcp / udp.",
+        "gearman svn",
+        "mcafee management for optimized virtual environments antivirus"
+    ],
+    "Jakarta RESTful Web Services": [
+        "restful ws",
+        "java web services",
+        "jax rs"
+    ],
+    "IT service management": [
+        "service desk",
+        "itsm",
+        "itsm."
+    ],
+    "Temenos AG": [
+        "corebank",
+        "corebanking"
+    ],
+    "Game testing": [
+        "test game",
+        "qa & tester"
+    ],
+    "Biển xe cơ giới Việt Nam": [
+        "tiếng anh b1",
+        "tiếng anh b1 thiết kế",
+        "tiếng anh b2",
+        "bằng b2"
+    ],
+    "Selenium (software)": [
+        "selenium ide",
+        "selenium webdriver",
+        "selenium 2",
+        "web selenium",
+        "testing selenium",
+        "webdriver",
+        "selenium ide.",
+        "selenium automation",
+        "selenium rc",
+        "selenium ide ("
+    ],
+    "Apache ActiveMQ": [
+        "activemq",
+        "active mq",
+        "apache activemq"
+    ],
+    "SQL injection": [
+        "sql injection",
+        "sql serve",
+        "sql way",
+        "sql * loader"
+    ],
+    "UiPath": [
+        "uipath",
+        "rpa uipath"
+    ],
+    "Nhập khẩu": [
+        "xuất nhập khẩu",
+        "hòa nhập",
+        "xuất nhập khẩu hàng hóa"
+    ],
+    "MicroStation": [
+        "microstation",
+        "microstation se"
+    ],
+    "STM32": [
+        "stm32",
+        "arduino ide stm",
+        "stm32f103c8t6"
+    ],
+    "Data center": [
+        "data center",
+        "datacenter",
+        "data room system"
+    ],
+    "Khảo cổ học": [
+        "khảo sát",
+        "khảo sát yêu cầu"
+    ],
+    "Open source": [
+        "open source",
+        "opensource"
+    ],
+    "IBM WebSphere Application Server": [
+        "websphere application server",
+        "web sphere application server",
+        "ibm server"
+    ],
+    "Microsoft Dynamics AX": [
+        "microsoft dynamics ax",
+        "microsoft dynamic ax"
+    ],
+    "Cloud computing": [
+        "cloud computing",
+        "sharing cloud",
+        "cloud hosting",
+        "cloud code",
+        "public cloud"
+    ],
+    "APS-95": [
+        "aps. net",
+        "aps .net"
+    ],
+    "Enhanced Fujita scale": [
+        "ef6",
+        "ef4"
+    ],
+    "Mono (software)": [
+        "servicestack framework",
+        "google map api xcode"
+    ],
+    "List of applications using PKCS 11": [
+        "xshell",
+        "xshell5"
+    ],
+    "Kiểm lỗi hệ thống": [
+        "kiểm thử hệ thống",
+        "thiết kế black box testing"
+    ],
+    "Oracle Application Express": [
+        "oracle apex",
+        "oracle starting",
+        "apex oracle",
+        "oracle html",
+        "oracle form builder",
+        "oracle forms builder"
+    ],
+    "Quan hệ tình dục": [
+        "tạo lập quan hệ",
+        "xử lý tình huống giao tiếp",
+        "quan hệ tốt"
+    ],
+    "Hệ thống": [
+        "hệ thống",
+        "cấu hình hệ thống"
+    ],
+    "Comparison of JavaScript-based web frameworks": [
+        "jqgrid",
+        "jquery grid"
+    ],
+    "Phong thủy": [
+        "thuyết trình tốt",
+        "phán đoán lỗi"
+    ],
+    "ASP.NET Web Forms": [
+        "asp web form",
+        "asp. net web forms",
+        "asp. net my"
+    ],
+    "Cuba": [
+        "cách thực hiện test",
+        "lập quan điểm test",
+        "thực hiện test hệ thống"
+    ],
+    "Virtual private server": [
+        "vps server",
+        "cloud vps",
+        "server virtualization",
+        "vps cloud",
+        "cloud server"
+    ],
+    "Social network": [
+        "social network",
+        "social networks"
+    ],
+    "Campus of the University of Notre Dame": [
+        "windown",
+        "windown c",
+        "windown form"
+    ],
+    "XSLT": [
+        "xslt",
+        "xslt."
+    ],
+    "Quản trị kinh doanh": [
+        "quản trị kinh doanh",
+        "quản lý kinh doanh",
+        "kỹ năng quản lý kinh doanh",
+        "đào tạo nhân viên kinh doanh",
+        "hoạch định chiến lược",
+        "quản trị mạng và nhân viên kinh doanh",
+        "kinh tế quản trị kinh doanh"
+    ],
+    "Demographics of Chile": [
+        "toiec",
+        "toiec : 745 / 990",
+        "toiec 450",
+        "toiec 600"
+    ],
+    "C (ngôn ngữ lập trình)": [
+        "lập trình c",
+        "lập trình c #",
+        "ngôn ngữ c",
+        "ngôn ngữ c #",
+        "chứng chỉ tin học trình độ c",
+        "lập trình c / c"
+    ],
+    "Microsoft Certified Professional": [
+        "mcse",
+        "mcsa 2008",
+        "microsoft certified systems administrator",
+        "mcdba",
+        "microsoft certified system administrator",
+        "microsoft certified solutions associate",
+        "microsofts mcsa 2012",
+        "microsoft office specialist",
+        "mcitp",
+        "microsoft mcsa 2012"
+    ],
+    "VMware vSphere": [
+        "vsphere",
+        "vsphere esxi 5.5",
+        "vmware sphere",
+        "vsphere 6.0",
+        "vmware vsphere",
+        "vmware vsphere 6.0",
+        "vsphere hypervisor",
+        "vsphere 5.5"
+    ],
+    "Tài liệu Panama": [
+        "hiểu tài liệu",
+        "viết tài liệu đặc tả",
+        "viết tài liệu chuyên môn",
+        "đánh giá các tài liệu"
+    ],
+    "Kỹ thuật cơ khí": [
+        "cơ khí",
+        "cơ khí cơ bản",
+        "thuyết trình kỹ thuật",
+        "thiết kế cơ khí robot"
+    ],
+    "Master of ceremonies": [
+        "mc",
+        "mcs"
+    ],
+    "Balsamiq": [
+        "balsamiq",
+        "balsamiq mockups",
+        "balsamiq mockup"
+    ],
+    "Python (ngôn ngữ lập trình)": [
+        "lập trình game",
+        "lập trình mạng",
+        "lập trình shell script",
+        "lập trình python",
+        "viết test plan",
+        "lập trình mạng ,"
+    ],
+    "Website wireframe": [
+        "wireframe",
+        "wireframing"
+    ],
+    "Docker (software)": [
+        "docker compose",
+        "docker ·",
+        "dockerfile",
+        "docker network"
+    ],
+    "Pháp": [
+        "lập các test plan",
+        "pháp",
+        "xây dựng báo cáo bi tableau",
+        "cắt giảm lãng phí",
+        "add card mạng"
+    ],
+    "Mô hình thác nước": [
+        "mô hình thác nước",
+        "mô hình agile",
+        "mô hình tdd"
+    ],
+    "Trao đổi chất": [
+        "trao đổi",
+        "trao đổi với dev"
+    ],
+    "Border Gateway Protocol": [
+        "bgp",
+        "bgp ,"
+    ],
+    "Cisco certifications": [
+        "ccna.",
+        "ccna security"
+    ],
+    "Print server": [
+        "print server",
+        "printer server"
+    ],
+    "Học máy": [
+        "học máy",
+        "thuật toán học máy",
+        "máy học"
+    ],
+    "Công nghệ": [
+        "tìm hiểu công nghệ",
+        "sản phẩm công nghệ",
+        "công nghệ",
+        "tìm hiểu các công nghệ mới",
+        "học hỏi các công nghệ mới",
+        "học hỏi công nghệ nhanh"
+    ],
+    "Chất lượng phần mềm": [
+        "triển khai phần mềm erp",
+        "chất lượng phần mềm"
+    ],
+    "Trí tuệ nhân tạo": [
+        "trí tuệ nhân tạo",
+        "tạo"
+    ],
+    "SAP ERP": [
+        "sap ecc",
+        "sap basis",
+        "erp sap",
+        "server erp",
+        "sap ecc."
+    ],
+    "Programmer": [
+        "coder",
+        "application developer"
+    ],
+    "Google Play": [
+        "google play",
+        "google play development"
+    ],
+    "BIRT Project": [
+        "birt report",
+        "eclipse birt",
+        "eclipse report"
+    ],
+    "Kinh Dịch": [
+        "tìm hiểu yêu cầu",
+        "đọc hiểu các tài liệu",
+        "đọc dịch tài liệu tiếng anh",
+        "học hỏi cái mới",
+        "đọc và hiểu tài liệu",
+        "đọc và hiểu các tài liệu",
+        "làm tài liệu thuyết trình"
+    ],
+    "Trên, dưới và linh hoạt": [
+        "linh hoạt",
+        "linh hoạt cao"
+    ],
+    "Quyết định": [
+        "ra quyết định",
+        "quyết định",
+        "giải quyết tốt các vấn đề"
+    ],
+    "Online advertising": [
+        "marketing online",
+        "website marketing"
+    ],
+    "Log4j": [
+        "log4j",
+        "log4net"
+    ],
+    "Group Policy": [
+        "group policy",
+        "group policy management"
+    ],
+    "Kubernetes": [
+        "kubernetes",
+        "docker kubernetes",
+        "k8s"
+    ],
+    "Google Sheets": [
+        "google sheets",
+        "google sheet",
+        "google spreadsheet"
+    ],
+    "BDSM": [
+        "cẩn thận",
+        "chịu khó học hỏi"
+    ],
+    "Độc lập": [
+        "độc lập",
+        "độc lập cao"
+    ],
+    "Outlook Express": [
+        "outlook express",
+        "mail outlook express"
+    ],
+    "DB": [
+        "db",
+        "db network"
+    ],
+    "Software development kit": [
+        "facebook sdk",
+        "triển khai hệ thống sharepoint",
+        "sdk facebook",
+        "làm app store optimization"
+    ],
+    "Đồ họa": [
+        "đồ họa",
+        "kỹ năng đồ họa"
+    ],
+    "Software": [
+        "software",
+        "it software"
+    ],
+    "Pascal (ngôn ngữ lập trình)": [
+        "lập trình mobile",
+        "lập trình viên ios",
+        "ide lập trình",
+        "giảng dạy lập trình"
+    ],
+    "Bug tracking system": [
+        "bugtracker",
+        "bug tracker"
+    ],
+    "VirtualBox": [
+        "virtualbox",
+        "oracle box",
+        "oracle virtualbox"
+    ],
+    "VAS": [
+        "vas",
+        "vas survey"
+    ],
+    "Parsing": [
+        "parse",
+        "parsing data",
+        "html parser"
+    ],
+    "Visual FoxPro": [
+        "visual foxpro",
+        "visual fox",
+        "visual fox pro",
+        "microsoft visual foxpro",
+        "visual foxpro 9.0",
+        "foxpro 6.0"
+    ],
+    "Sun Fire X4500": [
+        "sqlserver 2005",
+        "sqlserver2005"
+    ],
+    "Microsoft InfoPath": [
+        "infopath",
+        "infopath 2007"
+    ],
+    "Adempiere": [
+        "adempiere erp",
+        "adempiere"
+    ],
+    "Vietnamobile": [
+        "thích ứng công việc",
+        "thích ứng với công việc",
+        "triển khai công việc",
+        "tra cứu thông tin",
+        "thích ứng với công việc cao"
+    ],
+    "Oracle Hyperion": [
+        "oracle hyperion",
+        "oracle hyperion planning"
+    ],
+    "Ladies' Code": [
+        "theo dõi bugs",
+        "viết code",
+        "code danh mục"
+    ],
+    "JavaFX": [
+        "javafx",
+        "java form application java web"
+    ],
+    "Gmail": [
+        "gmail",
+        "customize các báo cáo",
+        "quản trị email server"
+    ],
+    "Toad (software)": [
+        "toad for oracle",
+        "toad oracle database"
+    ],
+    "Phalcon (framework)": [
+        "phalcon framework",
+        "php phalcon",
+        "php phalcon framework"
+    ],
+    "IBM InfoSphere DataStage": [
+        "ibm datastage",
+        "ibm infosphere datastage",
+        "infosphere datastage",
+        "ibm infosphere information"
+    ],
+    "OpenWrt": [
+        "openwrt",
+        "cloudtrax"
+    ],
+    "CKEditor": [
+        "ckeditor5",
+        "ckeditor",
+        "ckfinder",
+        "fckeditor"
+    ],
+    "Twitter": [
+        "twitter",
+        "dms lite",
+        "bootstrap wordpress"
+    ],
+    "Bluetooth": [
+        "bluetooth",
+        "ngn stack"
+    ],
+    "VHDL": [
+        "vhdl",
+        ", vhdl",
+        "vhdl ( vivado"
+    ],
+    "TimesTen": [
+        "timesten",
+        "timesten in memory"
+    ],
+    "Adobe XD": [
+        "adobe xd",
+        "adobe experience cc"
+    ],
+    "Cocoa Touch": [
+        "uikit",
+        "mapkit"
+    ],
+    "MyEclipse": [
+        "my eclipse",
+        "myeclipse"
+    ],
+    "Oracle VM Server for x86": [
+        "oracle vm",
+        "oraclevm"
+    ],
+    "QT": [
+        "qt",
+        "qt."
+    ],
+    "Trường Đại học Xây dựng": [
+        "xây dựng triển khai",
+        "xây dựng các giải pháp",
+        "xây dựng nhóm đoàn kết",
+        "xây dựng các hệ thống lớn",
+        "xây dựng một trang web",
+        "xây dựng chính sách quy trình",
+        "xây dựng các hệ thống website",
+        "xây dựng các chức năng",
+        "xây dựng chính sách",
+        "xây dựng quy trình",
+        "xây dựng kế hoạch xuất - nhập",
+        "xây dựng giao diện",
+        "xây dựng và vận hành hệ thống"
+    ],
+    "Fireworks": [
+        "fireworks",
+        "firework cs3",
+        "firework"
+    ],
+    "SAP S/4HANA": [
+        "4hana",
+        "sap 4hana"
+    ],
+    "Transit of Venus": [
+        "eclip",
+        "eclips"
+    ],
+    "SPSS": [
+        "spss",
+        "ibm spss"
+    ],
+    "Systems analysis": [
+        "system analysis",
+        "system analysis and design"
+    ],
+    "Điện toán đám mây": [
+        "điện toán đám mây",
+        "triển khai các dịch vụ mail server",
+        "điện toán đám mây amazon",
+        "điện toán đám mấy",
+        "hệ thống cloud computing",
+        "hệ thống điện toán đám mây",
+        "điện toán đám"
+    ],
+    "Google Cloud Platform": [
+        "google cloud platform",
+        "google cloud",
+        "google cdn.",
+        "google cloud api",
+        "google cloud api."
+    ],
+    "KNN": [
+        "knn",
+        "knn."
+    ],
+    "Android (operating system)": [
+        "android.",
+        "android app",
+        "mobile android app",
+        "smartphone android",
+        "mobile android",
+        "android , window phone",
+        "client android",
+        "android phone",
+        "components android",
+        "app android"
+    ],
+    "StarUML": [
+        "uml star",
+        "staruml"
+    ],
+    "Nhận thức": [
+        "nhận thức",
+        "phán đoán",
+        "nắm vững lập trình hướng đối tượng"
+    ],
+    "Nước đang phát triển": [
+        "phát triển hệ thống",
+        "phát triển các ứng dụng",
+        "phát triển thông tin",
+        "phát triển nhân sự"
+    ],
+    "Banner": [
+        "banner",
+        "banner media",
+        "design banner"
+    ],
+    "Mantis Bug Tracker": [
+        "mantis bug tracker",
+        "mantis bt",
+        "mantis bug tracking"
+    ],
+    "Cache": [
+        "caching",
+        "cache"
+    ],
+    "Transaction": [
+        "transaction",
+        "transactions"
+    ],
+    "Videotelephony": [
+        "video conference",
+        "videoconference"
+    ],
+    "Trình chỉnh sửa đồ họa raster": [
+        "chỉnh sửa hình ảnh",
+        "sử dụng các chương trình đồ họa"
+    ],
+    "Eclipse (software)": [
+        "ide : eclipse",
+        "java eclipse",
+        "eclipse ide",
+        "eclipse cdt",
+        "tools platform",
+        "ide eclipse",
+        ".net eclipse"
+    ],
+    "Optical mark recognition": [
+        "omr code",
+        "omr"
+    ],
+    "Thiết bị ngoại vi": [
+        "cấu hình các thiết bị",
+        "đề xuất thiết bị"
+    ],
+    "Apache Solr": [
+        "solr search",
+        "solr",
+        "apache solr",
+        "solr apache",
+        "search engine solr -elasc"
+    ],
+    "Jakarta Server Faces": [
+        "jsf framework",
+        "java server face",
+        "ajax jsf",
+        "jsf html",
+        "java server faces"
+    ],
+    "Raspberry Pi": [
+        "raspberry pi",
+        "power pi",
+        "raspberry pi3",
+        "máy tính raspberry"
+    ],
+    "Iptables": [
+        "iptables",
+        "iptable",
+        "ip table"
+    ],
+    "Front-end và back-end": [
+        "lập trình front end",
+        "lập trình css front end"
+    ],
+    "MCV": [
+        "mcv",
+        "mcv."
+    ],
+    "Quản trị chiến lược": [
+        "quản lý chiến lược",
+        "quản trị chiến lược",
+        "tầm nhìn chiến lược"
+    ],
+    "Quản lý dự án phần mềm": [
+        "quản lý dự án phần mềm",
+        "quản lí được chất lượng phần mềm",
+        "quy trình của dự án phần mềm"
+    ],
+    "Cypress PSoC": [
+        "psoc",
+        "psoc creator"
+    ],
+    "VDI": [
+        "vdi",
+        "microsoft vdi",
+        "vdi."
+    ],
+    "Record (computer science)": [
+        "structs",
+        "struct"
+    ],
+    "Help desk": [
+        "helpdesk",
+        "it helpdesk"
+    ],
+    "One UI": [
+        "ui / ux",
+        "ux / ui",
+        "ui ux",
+        "thiết kế ui",
+        "ui , ux",
+        "easy ui",
+        "smart ui 2.0"
+    ],
+    "Protocol Buffers": [
+        "protobuf 3.0",
+        "protobuf"
+    ],
+    "Chữ ký số": [
+        "chữ ký số",
+        "mô hình chữ ký số"
+    ],
+    "Kỹ năng xã hội": [
+        "kỹ năng thuyết phục",
+        "lắng nghe tích cực",
+        "kỹ năng giao tiếp tốt"
+    ],
+    "Nhật Bản": [
+        "nhật",
+        "tiếng nhật cơ bản",
+        "xây dựng diễn đn"
+    ],
+    "PyCharm": [
+        "pycharm ide",
+        "pycharm"
+    ],
+    "Cocos2d": [
+        "cocos2d x",
+        "engine cocos2d",
+        "particlesystem"
+    ],
+    "Tự động hóa": [
+        "tự động hóa",
+        "solenoid van khí",
+        "máy móc tự động",
+        "điều khiển tự động hóa"
+    ],
+    "Simatic": [
+        "plc siemens",
+        "plc s7 300",
+        "plc s7 1200"
+    ],
+    "Nhà phát triển web": [
+        "phát triển web",
+        "phát triển máy khách"
+    ],
+    "Quản lý chất lượng": [
+        "quản trị chất lượng",
+        "quản lý chất lượng",
+        "quản lý chất lượng phần mềm",
+        "quản lý chất lượng cho dự án",
+        "quản lý mục tiêu kpi."
+    ],
+    "Đức": [
+        "duy trì",
+        "report từ device"
+    ],
+    "Apache Lucene": [
+        "apache lucene",
+        "solr elasticsearch"
+    ],
+    "Ant": [
+        "ant",
+        "ant design"
+    ],
+    "Plone (software)": [
+        "restapi",
+        "cms plone 2.5.2",
+        "cms plone"
+    ],
+    "VSE (operating system)": [
+        "webshere",
+        "server webshere"
+    ],
+    "Phần mềm hệ thống": [
+        "xây dựng hệ thống phần mềm",
+        "tích hợp api các hệ thống",
+        "phân tích thiết kế hệ thống phần mềm"
+    ],
+    "Web framework": [
+        "javascript framework",
+        "struts 1 javascript",
+        "mvc. javascript",
+        "javascript spring mvc",
+        "development framework",
+        "framework cake",
+        "frameworks zend cakephp",
+        "codeigniter database"
+    ],
+    "Simple Mail Transfer Protocol": [
+        "smtp",
+        "auth router"
+    ],
+    "Giải vô địch bóng đá thế giới": [
+        "triển khai giải pháp",
+        "lên phương án giải quyết",
+        "thuyết trình giải pháp",
+        "đảm bảo các ứng dụng",
+        "làm giải pháp",
+        "phân tích đối thủ",
+        "kỹ thuật ioc dự án",
+        "giải pháp tích hợp",
+        "effect hình ảnh"
+    ],
+    "Lý thuyết điều khiển tự động": [
+        "lập trình vi điều khiển",
+        "quản lý điều khiển vận hành hệ thống"
+    ],
+    "Transformers: War for Cybertron Trilogy": [
+        "subline text",
+        "subline text 3"
+    ],
+    "Hoạch định tài nguyên doanh nghiệp": [
+        "phần mềm erp.",
+        "giải pháp erp",
+        "phân tích triển khai hệ thống erp",
+        "hệ thống erp",
+        "triển khai erp.",
+        "lĩnh vực erp.",
+        "triển khai erp",
+        "máy chủ erp"
+    ],
+    "Mobile app": [
+        "app mobile",
+        "native mobile apps",
+        "native apps"
+    ],
+    "Composer": [
+        "composer",
+        "composer c"
+    ],
+    "Data structure": [
+        "data structure",
+        "data structure algorithm",
+        "data structure and algorithm"
+    ],
+    "Ứng dụng trên thiết bị di động": [
+        "lập trình di động",
+        "lập trình ứng dụng di động",
+        "lập trình mobile app",
+        "sử dụng ứng dụng"
+    ],
+    "Máy ảo": [
+        "ảo hóa",
+        "triển khai hệ thống ảo hoá",
+        "máy ảo"
+    ],
+    "Pomodoro": [
+        "làm việc tập trung",
+        "quản lí thời gian"
+    ],
+    "Zend Engine": [
+        "zend 1",
+        "zend 2"
+    ],
+    "Công nghệ phần mềm": [
+        "công nghệ phần mềm",
+        "cài đặt phần mềm bảo mật",
+        "sản xuất phần mềm",
+        "kỹ thuật phần mềm"
+    ],
+    "Advanced Encryption Standard": [
+        "aes",
+        "aes."
+    ],
+    "Universal Windows Platform": [
+        "universal windows platform",
+        "uwp",
+        "windows platform",
+        "android ios"
+    ],
+    "Kỹ năng sống": [
+        "kỹ năng văn phòng",
+        "kỹ năng vi tính văn phòng",
+        "kỹ năng vi tính",
+        "kĩ năng đọc"
+    ],
+    "Arduino IDE": [
+        "arduino ide",
+        "arduino ide."
+    ],
+    "MDaemon": [
+        "mdaemon",
+        "mail mdaemon server"
+    ],
+    "Long short-term memory": [
+        "lstm",
+        "rnn lstm",
+        "microsoft excel cao"
+    ],
+    "Xử lí dữ liệu": [
+        "xử lý dữ liệu",
+        "xử lý số liệu"
+    ],
+    "Apache HTTP Server": [
+        "apache2",
+        "web server apache",
+        "apache httpd",
+        "apache 2.4",
+        "apache web",
+        "apache server",
+        "apache http",
+        "web apache",
+        "apache web server"
+    ],
+    "HP-UX": [
+        "hpux",
+        "hpux 11"
+    ],
+    "Việt Nam": [
+        "công cụ quản lý lỗi",
+        "phân tích báo cáo lỗi sản phẩm",
+        "truy vấn cơ bản",
+        "anh văn chuyên ngành",
+        "quản lí database",
+        "trung thực",
+        "khắc phục , xử lý các lỗi",
+        "nhập môn tin học",
+        "tối ưu database",
+        "tương tác với đám đông",
+        "vận dụng nhanh kiến thức",
+        "khá tb tiếng trung",
+        "học nhanh",
+        "chủ động tiếp cận",
+        "việt",
+        "cắt ghép giao diện website",
+        "kiểm tra chi tiết công nợ",
+        "đào tạo người dùng",
+        "trình bày các vấn đề",
+        "thành thạo các nghiệp vụ",
+        "cắt ghép ảnh"
+    ],
+    "Thiết bị văn phòng": [
+        "thiết bị văn phòng",
+        "máy văn phòng"
+    ],
+    "Gateway Load Balancing Protocol": [
+        "glbp",
+        "gateway load balancing protocol"
+    ],
+    "List of mail server software": [
+        "mail mdaemon",
+        "mdaemon mail server"
+    ],
+    "Ngân hàng": [
+        "nghiệp vụ ngân hàng",
+        "ngân hàng",
+        "bảo lãnh ngân hàng",
+        "quy trình nghiệp vụ trong ngân hàng",
+        "thủ tục ngân hàng"
+    ],
+    "Presentation": [
+        "presentation",
+        "presentations"
+    ],
+    "One Piece": [
+        "log lỗi",
+        "hình vẽ prototype",
+        "vẽ luồng hoạt động"
+    ],
+    "Apache HBase": [
+        "hbase",
+        "hadoop hbase"
+    ],
+    "Computers and Structures (company)": [
+        "sap2000",
+        "etabs"
+    ],
+    "MySQL Cluster": [
+        "sql cluster",
+        "cluster sql"
+    ],
+    "Backup Exec": [
+        "symantec backup",
+        "backup exec",
+        "backup netbackup"
+    ],
+    "History of Microsoft SQL Server": [
+        "sql tuning",
+        "sql server 2k5",
+        "excel sql server",
+        "sql2000",
+        "sql server 2012 framework",
+        "sql server 2012 , 2014"
+    ],
+    "Windows Server 2008 R2": [
+        "windows server 2008r2",
+        "windows 2008r2",
+        "server 2008 r2"
+    ],
+    "Query": [
+        "query",
+        "j-query"
+    ],
+    "Microsoft Azure": [
+        "microsoft azure",
+        "microsoft azure cloud",
+        "ms azure",
+        "windows azure"
+    ],
+    "Phần mềm ứng dụng": [
+        "sử dụng các phần mềm",
+        "chương trình ứng dụng văn phòng",
+        "ứng dụng anh văn"
+    ],
+    "Adobe Flash": [
+        "macromedia flash",
+        "adobe flash"
+    ],
+    "Infor": [
+        "infor syteline",
+        "infor system syteline",
+        "infor mongoose"
+    ],
+    "SQL Server Management Studio": [
+        "sql server management studio",
+        "microsoft sql server management studio",
+        "server management studio",
+        "visual studio sql server"
+    ],
+    "Oracle Linux": [
+        "oracle linux",
+        "oracle x6"
+    ],
+    "WhatsApp": [
+        "test app",
+        "design app"
+    ],
+    "Kerio Technologies": [
+        "firewall kerio",
+        "kerio"
+    ],
+    "Máy truy tìm dữ liệu": [
+        "tìm hiểu tài liệu",
+        "tìm kiếm tài liệu nước ngoài",
+        "tìm kiếm tài liệu tiếng anh"
+    ],
+    "Tích phân": [
+        "phân tích giá trị",
+        "phân tích kết quả",
+        "phân tích thị trường"
+    ],
+    "Camunda": [
+        "rest client tool",
+        "camunda"
+    ],
+    "Windows 10": [
+        "windows 10",
+        "etc windows",
+        "window 7,8,10",
+        "window 10",
+        "windows 10 ."
+    ],
+    "JDeveloper": [
+        "jdeveloper",
+        "jdeveloper tool"
+    ],
+    "Secure Shell Protocol": [
+        "ssh",
+        "ssh secure shell",
+        "ssh secure client"
+    ],
+    "F Sharp (programming language)": [
+        "asynctask",
+        "asynctasks"
+    ],
+    "Bộ Xây dựng (Việt Nam)": [
+        "xây dựng tài liệu",
+        "xây dựng quy định",
+        "xây dựng quy trình nghiệp vụ",
+        "xây dựng kiến thức xã hội"
+    ],
+    "Extension": [
+        "extensions",
+        "extension"
+    ],
+    "PowerShell": [
+        "gridview",
+        "powershell"
+    ],
+    "Bugzilla": [
+        "bugzilla",
+        "bugzila"
+    ],
+    "Nhà quản trị": [
+        "quản trị hiện đại",
+        "quản trị các thiết bị",
+        "triển khai , quản trị",
+        "quản trị mục tiêu"
+    ],
+    "Báo cáo tài chính": [
+        "phân tích báo cáo",
+        "thiết kế báo cáo"
+    ],
+    "Simple Network Management Protocol": [
+        "snmpv3",
+        "snmp"
+    ],
+    "Graphical Network Simulator-3": [
+        "gns3",
+        "gns3 ,"
+    ],
+    "Amazon Elastic Compute Cloud": [
+        "aws ec2",
+        "amazon ec2",
+        "elastic load balancer"
+    ],
+    "Cách mạng công nghiệp": [
+        "đi dây mạng",
+        "tìm hiểu nghiệp vụ"
+    ],
+    "Java (ngôn ngữ lập trình)": [
+        "ngôn ngữ java",
+        "lập trình java",
+        "java cơ bản",
+        "lập trình web cơ bản",
+        "lập trình đa luồng trên android",
+        "lập trình network",
+        "lập trình oracle",
+        "restful api bằng",
+        "đa luồng với java"
+    ],
+    "Mind map": [
+        "mindmap",
+        "mind map"
+    ],
+    "ASM": [
+        "asm",
+        "asm."
+    ],
+    "Galois/Counter Mode": [
+        "gcm",
+        "gcm."
+    ],
+    "Test of English as a Foreign Language": [
+        "toefl ibt",
+        "toefl",
+        "toefl pbt"
+    ],
+    "Canada": [
+        "dự toán g8",
+        "song ngữ"
+    ],
+    "Bảo hiểm": [
+        "bảo hiểm",
+        "nghiệp vụ bảo hiểm"
+    ],
+    "Khai phá dữ liệu": [
+        "khai phá dữ liệu",
+        "chuẩn bị dữ liệu"
+    ],
+    "Tic-tac-toe": [
+        "toeic 450",
+        "450 toeic",
+        "toeic : 450"
+    ],
+    "Failover": [
+        "failover cluster",
+        "connection failover"
+    ],
+    "Hội chứng sợ nói trước đám đông": [
+        "thuyết trình trước đám đông",
+        "nói trước đám đông"
+    ],
+    "Chiến tranh thế giới thứ hai": [
+        "chiến lược test",
+        "thực hiện test các lỗi"
+    ],
+    "VLAN Trunking Protocol": [
+        "vtp",
+        "vtp server",
+        "vtp client",
+        "vtp domain",
+        "vtp password"
+    ],
+    "Media Source Extensions": [
+        "hmtl5",
+        "hmtl 5"
+    ],
+    "MetaTrader 4": [
+        "mql4",
+        "meta trader",
+        "meta trader 4"
+    ],
+    "Ngôn ngữ lập trình": [
+        "ngôn ngữ lập trình",
+        "lập trình html",
+        "lập trình ,"
+    ],
+    "Object-oriented analysis and design": [
+        "ooad",
+        "object oriented analysis ( ooa )",
+        "object oriented design ( ood )"
+    ],
+    "Oracle Data Guard": [
+        "oracle data guard",
+        "dataguard",
+        "oracle dataguard",
+        "physical standby"
+    ],
+    "SAP R/3": [
+        "sap r / 3",
+        "erp sap b1",
+        "sap ecc 6.0"
+    ],
+    "MS-Net": [
+        "ms. net",
+        "ms .net"
+    ],
+    "Spa": [
+        "spa.",
+        "spa"
+    ],
+    "C Sharp (ngôn ngữ lập trình)": [
+        "lập trình winform",
+        "lập trình backend",
+        "mô hình microservices",
+        "nền tảng c # winform",
+        "ngôn ngữ vb",
+        "viết code game unity"
+    ],
+    "Snort (software)": [
+        "ids / ips",
+        "snort"
+    ],
+    "RTC": [
+        "rtc",
+        "rtc."
+    ],
+    "Kiểm thử tự động": [
+        "kiểm thử tự động",
+        "quy trình kiểm thử tự động",
+        "kiểm thử web"
+    ],
+    "HTTPS": [
+        "https",
+        "http security"
+    ],
+    "Short Message Peer-to-Peer": [
+        "smpp",
+        "smpp ,"
+    ],
+    "KVM switch": [
+        "kvm",
+        "kvm switch"
+    ],
+    "Xen": [
+        "xen",
+        "xen- server",
+        "xenserver"
+    ],
+    "Altium Designer": [
+        "altium designer",
+        "protel"
+    ],
+    "Phát triển sản phẩm mới": [
+        "phát triển sản phẩm",
+        "quy trình phát triển sản phẩm",
+        "phát triển các sản phẩm"
+    ],
+    "ISO/IEC 27001": [
+        "iso 27001",
+        "27001"
+    ],
+    "RADIUS": [
+        "radius",
+        "radius authorize",
+        "r2 cấu hình vận hành thiết bị lưu trữ mạng nas"
+    ],
+    "Windows Firewall": [
+        "firewall internet",
+        "firewall mềm"
+    ],
+    ".NET Remoting": [
+        ".net remoting",
+        "net remoting"
+    ],
+    "Thuật toán sắp xếp": [
+        "sắp xếp thời gian",
+        "sắp sếp thời gian",
+        "tự sắp xếp",
+        "sắp xếp khoa học"
+    ],
+    "Grails (framework)": [
+        "grails framework",
+        "grails3 framework"
+    ],
+    "Data binding": [
+        "data binding",
+        "databinding"
+    ],
+    "Redux (JavaScript library)": [
+        "reactjs redux",
+        "reduxjs",
+        "react redux"
+    ],
+    "Microsoft Analysis Services": [
+        "ms sqlserver 2008",
+        "sqlserver 2008",
+        "sqlserver2008",
+        "sqlserver 2000",
+        "ms sqlserver 2014"
+    ],
+    "Bitcoin": [
+        "bitcoin",
+        "json sever",
+        "đưa ra solution",
+        "giao tip tốt",
+        "xây dựng core thực hiện thanh toán"
+    ],
+    "Zalo": [
+        "hạ tầng mạng",
+        "triển khai dịch vụ"
+    ],
+    "Document type definition": [
+        "dtd",
+        "dtd ,"
+    ],
+    "Google Search": [
+        "google web",
+        "google search"
+    ],
+    "Thống kê": [
+        "thống kê",
+        "xác xuất thống kê"
+    ],
+    "Lenovo": [
+        "lenovo",
+        "server lenovo"
+    ],
+    "Dynamic-link library": [
+        "dll",
+        "dll."
+    ],
+    "Ado": [
+        "ado.",
+        "ado"
+    ],
+    "Seismic retrofit": [
+        "retrofit 2",
+        "retrofit2"
+    ],
+    "Shell script": [
+        "shell scripts",
+        "unix shell script",
+        "shell script"
+    ],
+    "Automation": [
+        "automation",
+        "controler"
+    ],
+    "Alexa Internet": [
+        "alexa",
+        "alexa com"
+    ],
+    "Multitier architecture": [
+        "3 - tier",
+        "three layer",
+        "3 tier",
+        ".net three layer"
+    ],
+    "Windows API": [
+        "winapi",
+        "mfc / winapi linux programming multi threads"
+    ],
+    "OAuth": [
+        "oauth2",
+        "oauth api v2"
+    ],
+    "ArcGIS Server": [
+        "arcgis server",
+        "arcgis server 10.1",
+        "arcgisserver"
+    ],
+    "Microsoft Dynamics": [
+        "microsoft dynamic nav",
+        "dynamic nav erp",
+        "microsoft dynamics"
+    ],
+    "SolarWinds": [
+        "solarwinds",
+        "solarwinds monitor",
+        "ipmonitor"
+    ],
+    "Retail": [
+        "retail",
+        "b2c"
+    ],
+    "2G": [
+        "2g",
+        "triển khai các hệ thống mạng"
+    ],
+    "Blogger (service)": [
+        "blogspot",
+        "technical blogger"
+    ],
+    "T24": [
+        "t24",
+        "t24 ,"
+    ],
+    "Graphical user interface": [
+        "gui",
+        "gui styles"
+    ],
+    "Highcharts": [
+        "highchart",
+        "highcharts"
+    ],
+    "Yêu cầu (kỹ thuật)": [
+        "đọc hiểu requirement",
+        "kỹ thuật test",
+        "tiếp nhận yêu cầu",
+        "đọc hiểu yêu cầu nghiệp vụ",
+        "hiểu yêu cầu nghiệp vụ",
+        "đọc hiểu yêu cầu"
+    ],
+    "Jira (software)": [
+        "jira atlassian",
+        "jira.",
+        "jira tracking",
+        "jira ,",
+        "jira of customer"
+    ],
+    "Scrum (mô hình phát triển phần mềm)": [
+        "quy trình scrum",
+        "mô hình phát triển phần mềm",
+        "phương pháp scrum agile"
+    ],
+    "Git (phần mềm)": [
+        "git cơ bản",
+        "sử dụng git"
+    ],
+    "Singapore": [
+        "phương pháp luận triển khai erp",
+        "đảm bảo nội dung curriculum"
+    ],
+    "Dynamics": [
+        "dynamic",
+        "dynamics"
+    ],
+    "Giải vô địch bóng đá châu Âu 2020": [
+        "giải thích",
+        "xây dựng schedule"
+    ],
+    "5S (phương pháp)": [
+        "thực hiện 5s",
+        "áp dụng vào công việc"
+    ],
+    "An ninh mạng": [
+        "an ninh mạng",
+        "lỗ hổng an ninh phần mềm",
+        "bảo mật an ninh mạng"
+    ],
+    "Dự án Manhattan": [
+        "trình bày dự án",
+        "lấy yêu cầu các dự án phía khách hàng",
+        "quản l dự án"
+    ],
+    "Kiến trúc sư": [
+        "làm kiến trúc sư",
+        "cấu trúc giải thuật"
+    ],
+    "Virtualization": [
+        "virtualization",
+        "virtualize"
+    ],
+    "Oracle Exadata": [
+        "exadata.",
+        "exadata"
+    ],
+    "Thành phố Hồ Chí Minh": [
+        "phân tích hiện trạng",
+        "lái xe đi thị trường",
+        "tự tin trước đám đông",
+        "toán định lượng",
+        "tham gia làm hệ thống",
+        "trình bầy",
+        "tổng quát hoá bằng sơ đồ"
+    ],
+    "Mạng không dây": [
+        "mạng không dây",
+        "dây mạng"
+    ],
+    "Ngoại giao": [
+        "ngoại giao",
+        "giao tiếp đối nội đối ngoại"
+    ],
+    "K-means clustering": [
+        "k means clustering",
+        "kmeans"
+    ],
+    "Apache Flex": [
+        "flex air",
+        "adobe flex"
+    ],
+    "Phạm Nhật Vượng": [
+        "làm vic theo nhóm",
+        "tiếng nhat"
+    ],
+    "List of ARM Cortex-M development tools": [
+        "cmsis.",
+        "embitz for arm"
+    ],
+    "Khai thác mỏ": [
+        "khai thác hạ tầng mạng lưới",
+        "khai thác"
+    ],
+    "Texture": [
+        "textures",
+        "texture"
+    ],
+    "Session Initiation Protocol": [
+        "user session management",
+        "sip protocol",
+        "sip server"
+    ],
+    "Doanh nghiệp": [
+        "luật doanh nghiệp",
+        "xây dựng doanh nghiệp",
+        "thống kê doanh nghiệp",
+        "phân tích nghiệp vụ doanh nghiệp"
+    ],
+    "Trải nghiệm người dùng": [
+        "trải nghiệm người dùng",
+        "xây dựng ux / ui",
+        "thiết kế ui / ux.",
+        "thiết kế ui / ux"
+    ],
+    "Cấu trúc ARM": [
+        "cấu trúc project",
+        "lập trình cho arm"
+    ],
+    "Domain name": [
+        "domain controler",
+        "ip / domain"
+    ],
+    "List of performance analysis tools": [
+        "visual studio firebug",
+        "analysis performance"
+    ],
+    "Wales": [
+        "triển khai hệ thống san",
+        "làm vi c theo nhóm",
+        "nắm bắt công việc",
+        "đọc hiểu bản vẽ cơ khí",
+        "phân hệ ap",
+        "thuyết phục khác hàng"
+    ],
+    "Python (programming language)": [
+        "python design",
+        "python 2.5",
+        "end python"
+    ],
+    "List of ERP software packages": [
+        "iscala",
+        "oracle erp 11i",
+        "syteline"
+    ],
+    "Chrome OS": [
+        "chrome driver",
+        "xử lý sự cố windows os."
+    ],
+    "Booting": [
+        "boostraps",
+        "e2b boot",
+        "bootstrap bootstrap"
+    ],
+    "Hệ thống quản lý kho": [
+        "quản lý hệ thống kết nối",
+        "quản lý kho"
+    ],
+    "SQL Server Integration Services": [
+        "sql server integration services",
+        "sql ms ssis",
+        "sql server data tool"
+    ],
+    "Firebase Cloud Messaging": [
+        "firebase messaging",
+        "firebase cloud messaging",
+        "firebase mobile",
+        "firebase notification"
+    ],
+    "Comparison of issue-tracking systems": [
+        "jira ibm",
+        "mantis , redmine"
+    ],
+    "Tập đoàn Bưu chính Viễn thông Việt Nam": [
+        "hạ tầng viễn thông",
+        "lĩnh vực it",
+        "quản lý bưu tá",
+        "thông tư",
+        "trưởng phòng it."
+    ],
+    "Xử lý nước thải": [
+        "tư vấn xử lý các sự cố",
+        "vận hành máy xử lý nước"
+    ],
+    "Không gian giao tiếp": [
+        "bắt chuyện giao tiếp",
+        "giao tiếp đối thoại",
+        "giao tiếp thuyết phục"
+    ],
+    "Ban kiểm soát (công ty)": [
+        "kiểm soát tiến độ công việc",
+        "kiểm soát công việc",
+        "kiểm soát công tác"
+    ],
+    "Viện Pasteur Thành phố Hồ Chí Minh": [
+        "nắm bắt công nghệ",
+        "quản lý đơn vị"
+    ],
+    "Veeam Backup & Replication": [
+        "server veeam backup",
+        "veeam backup & replication",
+        "vm ware sphere",
+        "veeam backup"
+    ],
+    "Zope": [
+        "zope 2.9.6",
+        "zope"
+    ],
+    "Web template system": [
+        "page template",
+        "laravel echo server",
+        "web template"
+    ],
+    "Hỗ trợ Phát triển Chính thức": [
+        "hỗ trợ trung tâm",
+        "hỗ trợ tư vấn"
+    ],
+    "Wikimedia Foundation": [
+        "hỗ trợ người",
+        "hỗ trợ người dùng",
+        "hỗ trợ tổ chức các sự kiện"
+    ],
+    "Tableau Software": [
+        "tableau server",
+        "tableau products"
+    ],
+    "CocoaPods": [
+        "cocoapods",
+        "cocoapod"
+    ],
+    "Celtics–Lakers rivalry": [
+        "pjax",
+        ", pjax"
+    ],
+    "Mys Shmidta": [
+        "mys l",
+        "mys l."
+    ],
+    "Social media marketing": [
+        "marketing facebook",
+        "re marketing",
+        "premiere digital marketing",
+        "facebook marketing",
+        "marketing pr",
+        "tools marketing"
+    ],
+    "Adobe Fireworks": [
+        "adobe fireworks",
+        "fireworks cs3"
+    ],
+    "Adobe Animate": [
+        "adobe animate",
+        "adobe flash professional",
+        "actionscript macromedia flash"
+    ],
+    "SCCM": [
+        "sccm",
+        "sccm."
+    ],
+    "Network operating system": [
+        "network system",
+        "fto client",
+        "system - network"
+    ],
+    "Transmission Control Protocol": [
+        "tcp /",
+        "tcp client-server",
+        "tcp."
+    ],
+    "PH": [
+        "ph",
+        "ph p"
+    ],
+    "Chữ Quốc ngữ": [
+        "ế n g a n h",
+        "chữ v"
+    ],
+    "Web crawler": [
+        "crawler data",
+        "crawler"
+    ],
+    "Hóa phân tích": [
+        "phân tích tài liệu",
+        "phân tích số liệu"
+    ],
+    "Lập trình viên": [
+        "lập test",
+        "kiến thức lập trình",
+        "tin học lập trình"
+    ],
+    "Toán học rời rạc": [
+        "toán rời rạc",
+        "thuật toán rời rạc"
+    ],
+    "Ç": [
+        "c , c",
+        "c / c #",
+        "c , c #",
+        "c / c++",
+        "microsoft word cao",
+        "c c"
+    ],
+    "LibreOffice": [
+        "libre office",
+        "libreoffice"
+    ],
+    "Web design": [
+        "layout web",
+        "design web with",
+        "design web",
+        "design and develop website"
+    ],
+    "Java code coverage tools": [
+        "cobertura",
+        "java tools"
+    ],
+    "KPI": [
+        "kpi",
+        "kpis"
+    ],
+    "Bash": [
+        "bash",
+        "lập trình bash shell"
+    ],
+    "Platform": [
+        "platform",
+        "platforms"
+    ],
+    "DRS": [
+        "drs",
+        ", drs"
+    ],
+    "Tổ chức phi lợi nhuận": [
+        "tổ chức tốt",
+        "tổ chức công việc hiệu quả"
+    ],
+    "SQL Server Compact": [
+        "t sql windows",
+        "db sql server",
+        "sql compact"
+    ],
+    "List of file formats": [
+        "wondershare factory",
+        "java c # c / c php asp. net jsp xml , json mysql ms sql server",
+        "radiant dicom viewer"
+    ],
+    "FANUC": [
+        "amada citizen cnc",
+        "fanuc grinding"
+    ],
+    "King Arthur": [
+        "lupack - confirm",
+        "lupack"
+    ],
+    "Tranh chấp chủ quyền Biển Đông": [
+        "tranh chấp",
+        "xử lý tranh chấp"
+    ],
+    "Copywriting": [
+        "copywriting",
+        "copywrite"
+    ],
+    "Chuỗi cung ứng": [
+        "quản lý chuỗi cung ứng",
+        "quản trị cung ứng",
+        "nguyên lý chuỗi cung ứng"
+    ],
+    "Bộ định tuyến": [
+        "cấu hình switch và router",
+        "thiết bị định tuyến"
+    ],
+    "Google Workspace": [
+        "mail google app",
+        "google apps",
+        "g suite"
+    ],
+    "Tổng giám đốc điều hành": [
+        "điều hành lớp học",
+        "lãnh đạo điều hành",
+        "lãnh đạo điều hành nhóm"
+    ],
+    "Network monitoring": [
+        "network monitor",
+        "server monitor"
+    ],
+    "Hệ thống ngăn ngừa xâm nhập": [
+        "hệ thống ids",
+        "cấu hình hệ thống firewall"
+    ],
+    "Báo cáo Hạnh phúc thế giới": [
+        "báo cáo các lỗi",
+        "thu xếp báo cáo"
+    ],
+    "Dữ liệu lớn": [
+        "cập nhật dữ liệu cần thiết",
+        "xử lý big data",
+        "phương pháp xử lý dữ liệu",
+        "xử lý dữ liệu lớn",
+        "dữ liệu và giải thuật",
+        "xử lý cập nhật dữ liệu",
+        "phân tích dữ liệu bằng phương pháp trực quan",
+        "tổng hợp thông tin dữ liệu",
+        "phân tích đặc tả dữ liệu",
+        "quản trị dữ liệu",
+        "thực hiện phân tán dữ liệu"
+    ],
+    "Khách hàng": [
+        "dịch vụ chăm sóc khách hàng",
+        "khai khách hàng"
+    ],
+    "Telemarketing": [
+        "telesale",
+        "telemarketing"
+    ],
+    "Tiếp thị liên kết": [
+        "xây dựng niche site",
+        "hỗ trợ marketing online"
+    ],
+    "Liên minh châu Âu": [
+        "phân tích requirement",
+        "tiếng anh french"
+    ],
+    "Daemon (computing)": [
+        "daemon linux",
+        "mail daemon"
+    ],
+    "Validation": [
+        "validation",
+        "validate"
+    ],
+    "Quy trình": [
+        "quy trình",
+        "tư vấn quy trình nghiệp vụ",
+        "hiểu quy trình và nghiệp vụ nhanh",
+        "quy trình nghiệp vụ sản xuất",
+        "quy trình hoạt động"
+    ],
+    "Tín dụng thư": [
+        "quy trình thanh quyết toán",
+        "quy trình vận hành"
+    ],
+    "Unity (user interface)": [
+        "unity ui",
+        "unity 2d"
+    ],
+    "Ajax (programming)": [
+        "ajax / json",
+        "ajax api",
+        "ajax technique"
+    ],
+    "Quản trị tiếp thị": [
+        "quản trị marketing",
+        "quản trị dn"
+    ],
+    "In 3D": [
+        "sửa chữa máy in phun",
+        "thành thạo autocad"
+    ],
+    "Thu thập dữ liệu": [
+        "thu thập dữ liệu",
+        "phân tích luồng dữ liệu"
+    ],
+    "IBM Personal Computer/AT": [
+        "ibm rtc",
+        "ibm rtc."
+    ],
+    "Apache Maven": [
+        "apache maven",
+        "java maven"
+    ],
+    "Thiết kế tương tác": [
+        "thiết kế prototype",
+        "thiết kế tương tác"
+    ],
+    "OpenVZ": [
+        "open vz",
+        "openvz"
+    ],
+    "Play Framework": [
+        "play framework",
+        "java play"
+    ],
+    "Amazon S3": [
+        "s3 amazon service",
+        "s3 ,",
+        "s3 storage",
+        "aws sdk",
+        "server amazon",
+        "aws s3",
+        "amazon s3"
+    ],
+    "Rational Software": [
+        "ibm rational",
+        "ibm rational functional tester"
+    ],
+    "Dark web": [
+        "làm web",
+        "từng phát triển web",
+        "web vệ tinh"
+    ],
+    "Wowza Streaming Engine": [
+        "wowza",
+        "wowza media server"
+    ],
+    "Quảng cáo": [
+        "chạy quảng cáo",
+        "triển khai quảng cáo"
+    ],
+    "Quản lý rủi ro": [
+        "quản lý phòng it.",
+        "dự toán , rủi ro",
+        "quản trị rủi ro",
+        "quản lý rủi ro",
+        "quản lý dự án cntt"
+    ],
+    "Bộ Kế hoạch và Đầu tư (Việt Nam)": [
+        "bồi dưỡng nghiệp vụ đấu thầu",
+        "kết hợp với bộ phận thiết kế"
+    ],
+    "Kế hoạch Marshall": [
+        "lập kế hoạch nhóm",
+        "có kế hoạch",
+        "lên kế hoạch bảo trì",
+        "kỹ năng lập kế hoạch"
+    ],
+    "Truy hồi thông tin": [
+        "thu thập các nguồn thông tin",
+        "thu thập thông tin"
+    ],
+    "Jericho Season 3: Civil War": [
+        "redux-saga",
+        "redux - saga"
+    ],
+    "Gradle": [
+        "gradle deployed",
+        "gradle",
+        "gradlê"
+    ],
+    "Jakarta Persistence Query Language": [
+        "onetomany",
+        "manytoone",
+        "manytomany",
+        "hql"
+    ],
+    "JSON Web Token": [
+        "web token",
+        "json web token"
+    ],
+    "VirtueMart": [
+        "virtuemart",
+        "joomla virtuemart"
+    ],
+    "Trường hợp kiểm thử": [
+        "chạy test case",
+        "plan kiểm thử",
+        "thực thi test case"
+    ],
+    "Phân phối chuẩn": [
+        "chuẩn",
+        "phân tích chuẩn hóa quy trình"
+    ],
+    "Solution stack": [
+        "elk stack web",
+        "angular 2 sql"
+    ],
+    "Reverse proxy": [
+        "reverse proxy",
+        "nginx reverse proxy"
+    ],
+    "Template (tin học)": [
+        "tự tin trong ứng xử",
+        "tạo template"
+    ],
+    "Tổng sản phẩm nội địa": [
+        "khai thác sản phẩm",
+        "triển khai sản phẩm",
+        "tư vấn sản phẩm",
+        "tìm hiểu sản phẩm"
+    ],
+    "Tri thức": [
+        "tự học hỏi",
+        "truyền đạt kiến thức",
+        "tiếp thu kiến thức",
+        "tiếp thu ý kiến thức"
+    ],
+    "Phần mềm thiết kế mạch in": [
+        "phần mềm vẽ mạch altium",
+        "thiết kế linh kiện",
+        "thiết kế mạch điện",
+        "vẽ mạch",
+        "thiết kế mạch",
+        "phần mềm altium",
+        "thiết kế layout",
+        "thiết kế pcb"
+    ],
+    "MPLAB": [
+        "mplabx pic",
+        "mplab"
+    ],
+    "Bố già (phim 2021)": [
+        "học hỏi tiếp thu nhanh",
+        "phân bố công việc"
+    ],
+    "Danh sách chương trình phát sóng của Đài Truyền hình Việt Nam": [
+        "chương trình tin học văn phòng",
+        "kiot việt"
+    ],
+    "Máy đánh bạc": [
+        "đánh máy tốt",
+        "đánh máy trung cấp",
+        "đánh máy nhanh",
+        "đánh máy cao cấp"
+    ],
+    "Juniper Networks": [
+        "juniper ssg5",
+        "jncia",
+        "netscreen juniper firewall",
+        "juniper firewall",
+        "wifi juniper"
+    ],
+    "Đảm bảo chất lượng": [
+        "đảm bảo chất lượng",
+        "đảm bảo sản phẩm"
+    ],
+    "WinCC": [
+        "wincc",
+        "win cc."
+    ],
+    "Sửa đổi lối làm việc": [
+        "làm việc thông minh",
+        "làm việc nghiêm túc"
+    ],
+    "Park Hang-seo": [
+        "chuẩn seo.",
+        "hỗ trợ khách hang",
+        "chuẩn seo"
+    ],
+    "C--": [
+        "c+ +intermediate",
+        "c /"
+    ],
+    "World Wide Web": [
+        "cắt html / css",
+        "l p trình web",
+        "spread web",
+        "hệ thống mạng enterprise"
+    ],
+    "VinaPhone": [
+        "k kết khách hàng",
+        "hiện đại hóa cntt.",
+        "truyền tải"
+    ],
+    "Asus": [
+        "xử lý layout",
+        "asus"
+    ],
+    "Mô hình client-server": [
+        "xử lý server client",
+        "hệ thống server - client",
+        "mô hình client server",
+        "bảo mật web server"
+    ],
+    "Webmail": [
+        "web mail",
+        "webmail"
+    ],
+    "Microsoft Dynamics NAV": [
+        "sql navigator development",
+        "microsoft dynamics navision",
+        "microsoft dynamics nav",
+        "navision",
+        "rdlc",
+        "erp nav",
+        "ibm tool ( rtc )"
+    ],
+    "Microsoft Servers": [
+        "ms server",
+        "microsoft server",
+        "system center",
+        "ms system center"
+    ],
+    "CMC Telecom": [
+        "triển khai cloud vps",
+        "giao dịc vàng"
+    ],
+    "List of Python software": [
+        "python framework",
+        "framework python"
+    ],
+    "Mobile marketing": [
+        "mobile marketing",
+        "sms marketing"
+    ],
+    "Bảng xếp hạng bóng đá nam FIFA": [
+        "sửa dụng procedure",
+        "sửa chữa các thiết bị",
+        "giới thiệu"
+    ],
+    "Ruby (programming language)": [
+        "ruby script",
+        "open ruby"
+    ],
+    "Systems development life cycle": [
+        "detail design",
+        "application life cycle"
+    ],
+    "Japanese-Language Proficiency Test": [
+        "jlpt n2",
+        "jlpt n4"
+    ],
+    "Comparison of Internet forum software": [
+        "simplemachine",
+        "addon xenforo"
+    ],
+    "ESP32": [
+        "esp 32",
+        "esp32"
+    ],
+    "List of Dell PowerEdge Servers": [
+        "server dell",
+        "dell server"
+    ],
+    "List of commercial open-source applications and services": [
+        "liferay portal 6.2",
+        "pentaho git"
+    ],
+    "Object–relational mapping": [
+        "csdl oracle",
+        "oracle csdl"
+    ],
+    "Recurrent neural network": [
+        "recurrent neural network",
+        "rnn"
+    ],
+    "Armbian": [
+        "orangepi",
+        "orange pi zero"
+    ],
+    "Lucidchart": [
+        "lucidchart",
+        "lucid chart"
+    ],
+    "List of airline codes": [
+        "tems discovery",
+        "ghi log",
+        "ibm vxx",
+        "code vision avr",
+        "vca6 dcv",
+        "ms sql aag",
+        "ms sql fci.",
+        "sq se ve 2005"
+    ],
+    "Windows Presentation Foundation": [
+        "wpf.",
+        "xaml ide",
+        "xây dựng ứng dụng winform",
+        "c # wpf",
+        "wpf client",
+        "windows presentation foundation"
+    ],
+    "Regression testing": [
+        "regression test",
+        "testing regression"
+    ],
+    "Phần mềm dạng dịch vụ": [
+        "tư vấn triển khai phần mềm erp.",
+        "làm phần mềm crm",
+        "cntt phần mềm",
+        "cấu hình serve linux"
+    ],
+    "Hợp đồng": [
+        "hợp đồng",
+        "thiết kế mẫu hợp đồng lao động"
+    ],
+    "Thông tin": [
+        "tổng hợp thông tin nhanh",
+        "cung cấp thông tin",
+        "phân tích thông tin"
+    ],
+    "Flesch–Kincaid readability tests": [
+        "test levels",
+        "test level"
+    ],
+    "Cisco Catalyst": [
+        "stackwise",
+        "cisco wireless controllers",
+        "switch core cisco 3850",
+        "core switch cisco",
+        "cisco catalyst 2960"
+    ],
+    "Kiểm soát chất lượng": [
+        "kiểm soát chất lượng",
+        "kiểm soát chất lượng đầu vào và đầu ra",
+        "kiểm thử và đảm bảo chất lượng"
+    ],
+    "SIM (điện thoại)": [
+        "phát triển các module",
+        "thay thế ic",
+        "viết được module",
+        "tích hợp module",
+        "viết và sử dụng"
+    ],
+    "Domain driven design": [
+        "quản trị domain",
+        "quản lý domain"
+    ],
+    "JetBrains": [
+        "webstorm",
+        "resharper"
+    ],
+    "Web developer": [
+        "j developer",
+        "web developer"
+    ],
+    "List of Cisco products": [
+        "cisco prime infrastructure",
+        "switch access cisco sg200",
+        "switch cisco sg300 series"
+    ],
+    "Pháp Luân Công": [
+        "vẽ biện pháp thi công",
+        "biện pháp thi công"
+    ],
+    "Android-x86": [
+        "android architecture component 2018",
+        "android architecture components"
+    ],
+    "Front-end web development": [
+        "web front end",
+        "web front-end"
+    ],
+    "Linux kernel": [
+        "linux 6.0",
+        "linux kernel"
+    ],
+    "Think Visual": [
+        "visual studio blender",
+        "visual bassic"
+    ],
+    "Information security": [
+        "ms sql serer 2000",
+        "sql serer"
+    ],
+    "Hoa Kỳ": [
+        "hệ thống high availability",
+        "sử dụng adobe after effect"
+    ],
+    "DotGNU": [
+        "webservice asp. net",
+        "php webservice"
+    ],
+    "Windows Embedded Industry": [
+        "os embedded products",
+        "microsoft embedded os."
+    ],
+    "Quản lý quan hệ khách hàng": [
+        "quản trị khách hàng",
+        "phục vụ khách hàng",
+        "lập trình crm",
+        "quản lý quan hệ khách hàng",
+        "quản trị hosting",
+        "triển khai đào tạo khách hàng",
+        "hỗ trợ khách hàng xử lý",
+        "hướng dẫn khách hàng sử dụng"
+    ],
+    "Vi xử lý": [
+        "xử lý linh hoạt",
+        "xử lý công việc",
+        "vi xử lý",
+        "xử lý các bài xử lý"
+    ],
+    "Active Server Pages": [
+        "asp. net zero framework",
+        "asp .net zero",
+        "asp classic"
+    ],
+    "Ngôn ngữ": [
+        "ngôn ngữ",
+        "tự học ngôn ngữ"
+    ],
+    "Corel VideoStudio": [
+        "videostudio",
+        "corel videostudio pro x7"
+    ],
+    "Webserver directory index": [
+        "webserver php",
+        "php asp"
+    ],
+    "Mobile app development": [
+        "web mobile , app",
+        "tile jquery",
+        "mobile app development"
+    ],
+    "Hàng tồn kho": [
+        "kiểm soát hàng tồn kho",
+        "quản lý tồn kho",
+        "quản l kho"
+    ],
+    "Penetration test": [
+        "pentest",
+        "pentest web"
+    ],
+    "List of Unix commands": [
+        "linux command",
+        "unix commands"
+    ],
+    "Sophos": [
+        "sophos",
+        "antivirus sophos"
+    ],
+    "Cisco ASA": [
+        "5545 vpn",
+        "firewall cisco",
+        "cisco asa",
+        "ips cisco",
+        "asa cisco",
+        "cisco asa 5500 series",
+        "asa 5500 series",
+        "cisco firewall"
+    ],
+    "CNN": [
+        "cnn",
+        "mạng cnn"
+    ],
+    "Văn hóa Nhật Bản": [
+        "sinh văn bản",
+        "văn hóa nhật"
+    ],
+    "Giao diện người dùng": [
+        "giao diện",
+        "hướng dẫn cùng lúc nhiều người dùng"
+    ],
+    "Web browser": [
+        "web from",
+        "web froms",
+        "web back"
+    ],
+    "TestComplete": [
+        "testcomplete",
+        "test complete 12",
+        "test complete"
+    ],
+    "Lionel Messi": [
+        "mô hình mvp.",
+        "vòng đời của activity",
+        "mô hình mvp"
+    ],
+    "Lightning (cổng kết nối)": [
+        "kết nối",
+        "kết nối thiết bị"
+    ],
+    "Sock": [
+        "sock *",
+        "sock"
+    ],
+    "Kỹ thuật": [
+        "viết tài liệu kỹ thuật",
+        "kỹ thuật"
+    ],
+    "Tuyên ngôn độc lập (Việt Nam Dân chủ Cộng hòa)": [
+        "làm việc và hoạt động độc lập",
+        "tự làm việc độc lập",
+        "làm việc nhóm và độc lập",
+        "làm việc độc lập tốt"
+    ],
+    "Môi trường tự nhiên": [
+        "làm việc trong một môi trường phức tạp",
+        "thích ứng tốt với môi trường",
+        "thích nghi nhanh với môi trường làm việc"
+    ],
+    "System administrator": [
+        "system administrator",
+        "system admin"
+    ],
+    "Test-driven development": [
+        "test execution",
+        "test create",
+        "test driven development project"
+    ],
+    "CAD (tin học)": [
+        "vẽ cad",
+        "phần mềm cad 2d"
+    ],
+    "Business logic": [
+        "process logic",
+        "business logic layer"
+    ],
+    "Comparison of Subversion clients": [
+        "smartsvn",
+        "eclipse tortoise subversion"
+    ],
+    "Trách nhiệm xã hội của doanh nghiệp": [
+        "trách nhiệm",
+        "có trách nhiệm"
+    ],
+    "Chủ nghĩa tư bản": [
+        "tư vấn ngược",
+        "php căn bản"
+    ],
+    "Local area network": [
+        "wan lan",
+        "wan lan vlan",
+        "local area network",
+        "lan wan"
+    ],
+    "Diên Hi công lược": [
+        "tỉ mỉ",
+        "thiết kế giao diên",
+        "chuyển giao diên"
+    ],
+    "Keyboard layout": [
+        "relative layout",
+        "table layout",
+        "auto layout"
+    ],
+    "Mục tiêu": [
+        "có mục tiêu ngắn hạn rõ ràng",
+        "đặt mục tiêu"
+    ],
+    "Proxy auto-config": [
+        "config server",
+        "config web server"
+    ],
+    "Bảng chữ cái tiếng Anh": [
+        "tiếng anh chứng chỉ b",
+        "chứng chỉ b tiếng anh"
+    ],
+    "Hệ thống nhận dạng khuôn mặt": [
+        "với opencv",
+        "hệ thống nhận dạng sinh trắc",
+        "hệ thống camera phân tích hình ảnh"
+    ],
+    "Nintendo Switch": [
+        "cấu hình thiết bị switch",
+        "core switch",
+        "kiến thức cơ bản về react native"
+    ],
+    "Hệ thống phân giải tên miền": [
+        "hệ thống dns",
+        "tạo dns"
+    ],
+    "Máy chủ ảo": [
+        "quản lý máy chủ",
+        "quản lý máy ảo",
+        "quản lý vps"
+    ],
+    "Ổ đĩa cứng": [
+        "sửa chữa về phần cứng",
+        "đọc ghi"
+    ],
+    "Swift (programming language)": [
+        "swift 4.2",
+        "swift 3",
+        "swift ios"
+    ],
+    "Hammer toe": [
+        "toeic 755",
+        "toeic 735"
+    ],
+    "Windows 11": [
+        "linux căn bản",
+        "os windows windows",
+        "developer các module",
+        "windows căn bản"
+    ],
+    "Danh sách các phần mềm nguồn mở": [
+        "cài đặt và cấu hình webserver",
+        "tool quản lý lỗi redmine"
+    ],
+    "DHL": [
+        "ms. exel",
+        "ms exel"
+    ],
+    "Trang web": [
+        "sử dụng web",
+        "viết web"
+    ],
+    "YoWorld": [
+        "smartfox server",
+        "smartfox"
+    ],
+    "Ngôn ngữ mô hình hóa thống nhất": [
+        "ngôn ngữ mô hình hóa",
+        "ngôn ngữ mô hình hóa thống nhất"
+    ],
+    "Fax": [
+        "máy fax",
+        "fax"
+    ],
+    "Báo cáo kết quả kinh doanh": [
+        "dự báo doanh thu",
+        "báo cáo kết quả thực hiện"
+    ],
+    "Ý": [
+        "đóng góp ý tưởng xây dựng",
+        "tool test dung lượng pin"
+    ],
+    "Software testing": [
+        "software testing",
+        "test implementation",
+        "testing master"
+    ],
+    "Mất điện miền Nam Việt Nam và Campuchia 2013": [
+        "khắc phục sự cố các thiết bị",
+        "khắc phục sự cố đường truyền"
+    ],
+    "Đài Truyền hình Việt Nam": [
+        "cấu hình tổng đài analog",
+        "bảo dưỡng hệ thống cáp quang",
+        "vận hành hệ thống tổng đài",
+        "thay từ"
+    ],
+    "CSS framework": [
+        "css framework",
+        "framework ui design",
+        "css3 framework",
+        "css javascript"
+    ],
+    "Sự cố máy tính năm 2000": [
+        "khắc phục sự cố của máy",
+        "sử dụng phầm mềm kế toán",
+        "xử lý các sự cố máy tính văn phòng"
+    ],
+    "Sơn Tinh – Thủy Tinh": [
+        "vi tinh văn phòng",
+        "tinh học văn phòng"
+    ],
+    "Micro Focus Unified Functional Testing": [
+        "qtp",
+        "quicktest professional"
+    ],
+    "Shopping cart": [
+        "shopping cart",
+        "cs cart"
+    ],
+    "Android TV": [
+        "android box",
+        "android service"
+    ],
+    "Cấu trúc protein": [
+        "cáp cấu trúc",
+        "cấu trúc"
+    ],
+    "PR": [
+        "pr",
+        "pr."
+    ],
+    "Application firewall": [
+        "application security manager",
+        "database firewall"
+    ],
+    "ASP.NET AJAX": [
+        "updatepanel",
+        "ajax asp"
+    ],
+    "D-Link": [
+        "d-link",
+        "dlink"
+    ],
+    "VinFast": [
+        "viết plant test",
+        "sản xuất clip"
+    ],
+    "Adobe Acrobat": [
+        "adobe acrobat",
+        "acrobat pro",
+        "adobe reader"
+    ],
+    "Visual Basic for Applications": [
+        "visual basic for applications",
+        "visual basic for application",
+        "excel autocad",
+        "code vba"
+    ],
+    "Sun Java System Portal Server": [
+        "liferay portal framework .",
+        "portal liferay 7"
+    ],
+    "IBM System i": [
+        "as 400",
+        "as400 iseries"
+    ],
+    "Troubleshooting": [
+        "troubleshoot",
+        "troubleshooting"
+    ],
+    "Facebook Messenger": [
+        "messenger platform",
+        "facebook messenger"
+    ],
+    "Solidity": [
+        "solidity",
+        "swift msg"
+    ],
+    ".gdn": [
+        "gdn",
+        "google gdn"
+    ],
+    "OHS": [
+        "oracle ohs",
+        "ohs"
+    ],
+    "SugarCRM": [
+        "vtiger crm",
+        "sugarcrm"
+    ],
+    "Quỹ Tiền tệ Quốc tế": [
+        "quản lý quỹ thời gian",
+        "giám sát hệ thống"
+    ],
+    "Message broker": [
+        "integration broker",
+        "ibm message broker"
+    ],
+    "Oracle Developer Suite": [
+        "developer suite 10g",
+        "developer suite"
+    ],
+    "Tổ chức Thương mại Thế giới": [
+        "tổ chức họp nhóm",
+        "tổ chức cuộc họp",
+        "kĩ năng đàm phán"
+    ],
+    "Vi tích phân": [
+        "giải quyết và phân tích vấn đề",
+        "phân tích giải quyết vấn đề"
+    ],
+    "Jens Quistgaard": [
+        "pattern desgin",
+        "desgin patterns"
+    ],
+    "Windows Vista": [
+        "windows vista",
+        "window vista"
+    ],
+    "F5 Networks": [
+        "f5 network",
+        "big ip f5"
+    ],
+    "Unity (phần mềm làm game)": [
+        "viết store procedure",
+        "phần mềm 2d"
+    ],
+    "Hệ thống tập tin": [
+        "thực thi hệ thống it",
+        "cấu hình hệ thống server",
+        "convert ổ c sang ntfs"
+    ],
+    "Tối ưu bầy đàn": [
+        "tối ưu performance",
+        "tối ưu hóa performance"
+    ],
+    "Tào Tháo": [
+        "tháo",
+        "đọc hiu tài liu"
+    ],
+    "Espresso": [
+        "vệ sinh máy",
+        "espresso"
+    ],
+    "Arm": [
+        "arm.",
+        "arm"
+    ],
+    "Ubuntu version history": [
+        "ubuntu server 16",
+        "ubuntu server 10.04",
+        "ubuntu 12.04",
+        "ubuntu 14",
+        "ubuntu 14.04",
+        "ubuntu 16.04"
+    ],
+    "Mạch điện tử": [
+        "vi mạch điện tử",
+        "mạch điện tử",
+        "thiết kế mạch điện tử"
+    ],
+    "Select (SQL)": [
+        "câu lệnh truy vấn sql.",
+        "tối ưu sql"
+    ],
+    "Vật lý học": [
+        "bài toán quản lí",
+        "quản lí kho hàng hóa"
+    ],
+    "Thiết bị di động": [
+        "thiết bị di động",
+        "cấu hình các thiết bị mạng"
+    ],
+    "EF": [
+        "ef code",
+        "ef"
+    ],
+    "SonarQube": [
+        "scala html",
+        "abap debug"
+    ],
+    "Closed-circuit television": [
+        "cctv",
+        "camera cctv"
+    ],
+    "Cristiano Ronaldo": [
+        "trình độ c anh văn",
+        "lập trình aos."
+    ],
+    "V Live": [
+        "v - live",
+        "vlive"
+    ],
+    "Danh sách hệ quản trị nội dung": [
+        "quản trị sever",
+        "quản trị sharepoint server"
+    ],
+    "Fortran": [
+        "ngôn ngữ fortran 90",
+        "fortran"
+    ],
+    "JHipster": [
+        "framework jhipster",
+        "jhipster"
+    ],
+    "Hóa học": [
+        "hóa",
+        "hoá",
+        "học và tự học"
+    ],
+    "Premiere": [
+        "premiere",
+        "primiere"
+    ],
+    "Sharable Content Object Reference Model": [
+        "scorm",
+        "sharable content object reference model"
+    ],
+    "IPv4": [
+        "ipv4",
+        "vpn fragment",
+        "check ip fragment"
+    ],
+    "WebGL": [
+        "cocos2d js",
+        "web3js"
+    ],
+    "Finance": [
+        "financial",
+        "finance"
+    ],
+    "Yahoo! Mail": [
+        "yahoo mail",
+        "ymail"
+    ],
+    "ActiveX": [
+        "activex",
+        "solaris macintosh"
+    ],
+    "Java Development Kit": [
+        "basic java",
+        "java sdk"
+    ],
+    "Writing": [
+        "written",
+        "writing"
+    ],
+    "Sales order": [
+        "sales orders",
+        "sales order issue"
+    ],
+    "Sales": [
+        "salesperson",
+        "inbound sales"
+    ],
+    "Google Cloud Messaging": [
+        "google cloud messaging",
+        "google cloud message",
+        "cloud messaging"
+    ],
+    "Unix-like": [
+        "unix os",
+        "open source unix"
+    ],
+    "Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam": [
+        "ngôn ngữ linh hoạt",
+        "tiếng anh trình độ a1 , a2"
+    ],
+    "Skype for Business": [
+        "lync",
+        "lync basic",
+        "microsoft lync"
+    ],
+    "Lunch atop a Skyscraper": [
+        "atop",
+        "icon luncher"
+    ],
+    "Intel Core": [
+        "code core",
+        "core.",
+        "test core"
+    ],
+    "Multilayer switch": [
+        "switch layer 3",
+        "switch layer 2"
+    ],
+    "LinkedIn": [
+        "reports , wordpress , xamarin",
+        "linked in"
+    ],
+    "Business Application Programming Interface": [
+        "bapi",
+        "sap - dialog programing"
+    ],
+    "Toxin-antitoxin system": [
+        "reponsive mobile",
+        "reponsive web"
+    ],
+    "Chủ nghĩa cộng sản": [
+        "nắm bắt đặc điểm sản phẩm",
+        "lập lệnh sản xuất"
+    ],
+    "Tiểu thuyết": [
+        "hướng cấu trúc",
+        "sáng tạo dồi dào"
+    ],
+    "Flutter (phần mềm)": [
+        "kiểm thử phần mềm website",
+        "phần mềm kế toán fast"
+    ],
+    "Microsoft Office 2010": [
+        "microsoft office 2010",
+        "microsoft office ( word , excel , outlook"
+    ],
+    "OpenShift": [
+        "triển khai ứng dụng",
+        "kubectl command"
+    ],
+    "Ngân hàng thương mại cổ phần Quân đội": [
+        "máy nh",
+        "đồng bộ pos"
+    ],
+    "Danh sách các quốc gia theo ý nghĩa tên gọi": [
+        "am hiểu về thị trường",
+        "am hiểu màu sắc"
+    ],
+    "TP-Link": [
+        "tp-link",
+        "tp link",
+        "tp - link"
+    ],
+    "Particle system": [
+        "particle system",
+        "particle systems"
+    ],
+    "List of Comedy Bang! Bang! episodes": [
+        "toeic ( 485 )",
+        "toeic 560",
+        "toeic 610"
+    ],
+    "PHP-Nuke": [
+        "nuke cms",
+        "nuke việt"
+    ],
+    "NodeMCU": [
+        "nodemcu",
+        "node mcu esp32"
+    ],
+    "NativeScript": [
+        "xml xcode swift4 git",
+        "angular ts"
+    ],
+    "Blog": [
+        "blogger",
+        "quản lý log tập trung"
+    ],
+    "Java view technologies and frameworks": [
+        "struts & jsf",
+        "apache tiles"
+    ],
+    "Solid": [
+        "solid",
+        "solid work"
+    ],
+    "Android Auto": [
+        "android auto",
+        "thực tập sinh android"
+    ],
+    "Soft skills": [
+        "test function soft",
+        "soft skill"
+    ],
+    "Tình yêu": [
+        "xử lý tốt tình huống sự cố",
+        "review báo cáo tình trạng"
+    ],
+    "XPages": [
+        "xpage",
+        "xpages"
+    ],
+    "ESS": [
+        "ess.",
+        "a ess"
+    ],
+    "C (programming language)": [
+        "c language",
+        "c # language"
+    ],
+    "IBM Cognos Analytics": [
+        "cognos bi",
+        "cognos framework",
+        "ibm cognos analytic"
+    ],
+    "IBM AIX": [
+        "aix 6.1",
+        "ibm aix"
+    ],
+    "Apache Cassandra": [
+        "cassandra server",
+        "dropwizard"
+    ],
+    "Spreadsheet": [
+        ".net spreadsheet",
+        "spreadsheet"
+    ],
+    "Phạm Minh Chính": [
+        "trình bày văn bản hành chính",
+        "tư vấn chính sách bảo hành"
+    ],
+    "Optical character recognition": [
+        "ocr algorithm",
+        "ocr deep learning"
+    ],
+    "Trường Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh": [
+        "giải pháp attt",
+        "bảo mật và attt",
+        "quản lý về attt",
+        "lĩnh vực cntt"
+    ],
+    "Virtuoso Universal Server": [
+        "ms sql sever",
+        "sql severs"
+    ],
+    "PyQt": [
+        "pyqt",
+        "pyqt5"
+    ],
+    "Macromedia": [
+        "macro dreamweaver",
+        "macromedia"
+    ],
+    "Comparison of integrated development environments": [
+        "netbeans 8x",
+        "codeblock for arm"
+    ],
+    "Internet Explorer": [
+        "team explorer",
+        "internet explorer"
+    ],
+    "Meta element": [
+        "meta description",
+        "meta keywords"
+    ],
+    "Check Point": [
+        "checkpoint firewall",
+        "check point"
+    ],
+    "Server Message Block": [
+        "file server windows",
+        "smb"
+    ],
+    "Android (hệ điều hành)": [
+        "lưu trữ trong android",
+        "điều hành sửa chữa",
+        "lập trình di động android"
+    ],
+    "Amazon Route 53": [
+        "amazon route",
+        "aws route53"
+    ],
+    "MLab": [
+        "mongolab",
+        "mlab"
+    ],
+    "Trải nghiệm khách hàng": [
+        "làm việc trực tiếp với khách hàng",
+        "nắm bắt yêu cầu khách hàng"
+    ],
+    "Bảo hiểm Xã hội Việt Nam": [
+        "luật bhxh",
+        "luật bhyt"
+    ],
+    "XML schema": [
+        "xml basic",
+        "xml schema"
+    ],
+    "Oracle Streams": [
+        "oracle goldengate",
+        "oracle streams"
+    ],
+    "Embedded system": [
+        "c embedded system",
+        "embedded system"
+    ],
+    "MS-DOS": [
+        "ms dos",
+        "ms isa 2000"
+    ],
+    "Pro*C": [
+        "pro * c",
+        "pro c"
+    ],
+    "Red Hat Enterprise Linux": [
+        "linux rhel 4",
+        "redhat6",
+        "enterprise linux"
+    ],
+    "Windows NT": [
+        "microsoft windows nt",
+        "ms windows nt"
+    ],
+    "SAP HANA": [
+        "hana database",
+        "sap hana"
+    ],
+    "Gulp.js": [
+        "plugin js",
+        "tối ưu plugin"
+    ],
+    "Accounting": [
+        "fast accounting",
+        "accounting",
+        "pro accounting )"
+    ],
+    "ISO/IEC 27000": [
+        "iso27000",
+        "iso 27000"
+    ],
+    "Phổ Nghi": [
+        "thích nghi nhanh với hoàn cảnh",
+        "thích nghi công việc cao"
+    ],
+    "Kinh doanh": [
+        "lập báo cáo kinh doanh",
+        "lập các phương án kinh doanh"
+    ],
+    "Red Hat Linux": [
+        "redhat linux",
+        "rhl"
+    ],
+    "Windows Embedded Compact": [
+        "wince",
+        "win ce."
+    ],
+    "Windows RT": [
+        "windows rt.",
+        "windows rt"
+    ],
+    "Internet Explorer 7": [
+        "ie7",
+        "internet explorer 7.0"
+    ],
+    "Unreal Engine": [
+        "unreal development kit ( udk )",
+        "unreal engine"
+    ],
+    "Unified Extensible Firmware Interface": [
+        "fix boot",
+        "vmware certified associate 6 data center virtualization"
+    ],
+    "Oracle Financial Services Software": [
+        "oracle flexcube",
+        "oracle financial"
+    ],
+    "English Electric Canberra": [
+        "english level b.",
+        "english b"
+    ],
+    "Nghiệp vụ thị trường mở": [
+        "nghiệp vụ mua hàng",
+        "nghiệp vụ"
+    ],
+    "Logistic regression": [
+        "logit code",
+        "logistic regression",
+        "logistic"
+    ],
+    "Async/await": [
+        "await",
+        "async tasks",
+        "async task"
+    ],
+    "Taylor Swift singles discography": [
+        "switf3",
+        "switf 3,4"
+    ],
+    "Xu hướng tính dục": [
+        "chuẩn bem",
+        "tìm hiểu xu hướng"
+    ],
+    "Keyword Tool (software)": [
+        "keywordtool",
+        "keywordtool .io"
+    ],
+    "Công nghệ thông tin và truyền thông": [
+        "lỗ hổng thông tin",
+        "báo cáo ict index"
+    ],
+    "Skype for Business Server": [
+        "live communication server 2003",
+        "lync server 2010"
+    ],
+    "Chatbot": [
+        "chatbot",
+        "chat bot"
+    ],
+    "Eclipse ERP": [
+        "join erp",
+        "erp dms"
+    ],
+    "IBM MQ": [
+        "ibm mq",
+        "ibm mq.",
+        "ibm hp"
+    ],
+    "G.984": [
+        "internet gpon",
+        "gpon"
+    ],
+    "Team leader": [
+        "team lead",
+        "team leader"
+    ],
+    "MARC standards": [
+        "marc21",
+        "marc xml"
+    ],
+    "Hewlett Packard Enterprise": [
+        "hpe aruba",
+        "hpe san storage",
+        "hpe ibm",
+        "hpe synergy"
+    ],
+    "Network switching subsystem": [
+        "switch core",
+        "gmsc"
+    ],
+    "ProLiant": [
+        "hpe proliant series",
+        "hp proliant"
+    ],
+    "HP StorageWorks": [
+        "hp san storage",
+        "hpe msa"
+    ],
+    "Solar eclipse": [
+        "eclipse database",
+        "eclipse 4"
+    ],
+    "Web Map Service": [
+        "bentley geo web publisher",
+        "oracle map viewer"
+    ],
+    "Ico": [
+        "ico website",
+        "misa sme 2010"
+    ],
+    "Digital signature": [
+        "core signature",
+        "digital signature"
+    ],
+    "Resource Monitor": [
+        "resource monitor",
+        "storage resource monitor"
+    ],
+    "Ajax (lập trình)": [
+        "xử lý ajax",
+        "nền tảng windows form tương tác web qua json"
+    ],
+    "PureSystems": [
+        "ibm pureflex",
+        "ibm flex system"
+    ],
+    "HPE Integrity Servers": [
+        "hp integrity",
+        "hpe server"
+    ],
+    "Oracle Enterprise Service Bus": [
+        "oracle services bus",
+        "oracle enterprise service bus",
+        "oracle esb"
+    ],
+    "Brand": [
+        "branding marketing",
+        "brands"
+    ],
+    "Tiếng Newar": [
+        "ếng nhật",
+        "ếng anh",
+        "ếng trung"
+    ],
+    "PIC microcontrollers": [
+        "pic16",
+        "pic18",
+        "dspic 30f"
+    ],
+    "List of Microsoft Office filename extensions": [
+        "word excel power point others",
+        "word , excel , power point"
+    ],
+    "System Architecture Evolution": [
+        "charging gw",
+        "ussd gw"
+    ]
+}
