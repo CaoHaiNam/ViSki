@@ -1,0 +1,903 @@
+{
+    "web template system": [
+        "page template",
+        "web template"
+    ],
+    "cocoapods": [
+        "cocoapods",
+        "cocoapod"
+    ],
+    "pjax": [
+        "pjax",
+        ", pjax"
+    ],
+    "adobe animate": [
+        "adobe animate",
+        "adobe flash professional"
+    ],
+    "sccm": [
+        "sccm",
+        "sccm."
+    ],
+    "network operating system": [
+        "network system",
+        "system - network"
+    ],
+    "transmission control protocol": [
+        "tcp /",
+        "tcp client-server",
+        "tcp."
+    ],
+    "web crawler": [
+        "crawler data",
+        "crawler"
+    ],
+    "phân tích dữ liệu": [
+        "phân tích số liệu",
+        "phân tích dữ liệu bằng phương pháp trực quan",
+        "phân tích giá trị biên",
+        "phân tích đặc tả dữ liệu"
+    ],
+    "toán học rời rạc": [
+        "toán rời rạc",
+        "thuật toán rời rạc"
+    ],
+    "libreoffice": [
+        "libre office",
+        "libreoffice"
+    ],
+    "platform": [
+        "platform",
+        "platforms"
+    ],
+    "drs": [
+        "drs",
+        ", drs"
+    ],
+    "copywriting": [
+        "copywriting",
+        "copywrite"
+    ],
+    "chuỗi cung ứng": [
+        "quản lý chuỗi cung ứng",
+        "quản trị cung ứng"
+    ],
+    "bộ định tuyến": [
+        "cấu hình switch và router",
+        "router",
+        "p4 router",
+        "router switch",
+        "setup router",
+        "router *",
+        "thiết bị định tuyến"
+    ],
+    "điều hành": [
+        "lãnh đạo điều hành",
+        "lãnh đạo điều hành nhóm"
+    ],
+    "xử lý dữ liệu": [
+        "cập nhật dữ liệu cần thiết",
+        "phương pháp xử lý dữ liệu",
+        "xử lý cập nhật dữ liệu",
+        "tổng hợp thông tin dữ liệu",
+        "quản trị dữ liệu",
+        "phân tích luồng dữ liệu",
+        "xử lý số liệu",
+        "xử lý dữ liệu"
+    ],
+    "telemarketing": [
+        "telesale",
+        "mobile marketing",
+        "sms marketing",
+        "telemarketing",
+        "điện thoại",
+        "điện thoại cho khách hàng"
+    ],
+    "unity (user interface)": [
+        "unity ui",
+        "unity 2d"
+    ],
+    "ibm personal computer/at": [
+        "ibm rtc",
+        "ibm rtc."
+    ],
+    "apache maven": [
+        "apache maven",
+        "java maven"
+    ],
+    "openvz": [
+        "open vz",
+        "openvz"
+    ],
+    "amazon s3": [
+        "s3 amazon service",
+        "s3 ,",
+        "s3 storage",
+        "aws s3",
+        "amazon s3"
+    ],
+    "wowza streaming engine": [
+        "wowza",
+        "wowza media server"
+    ],
+    "quản lý rủi ro": [
+        "dự toán , rủi ro",
+        "quản trị rủi ro",
+        "quản lý rủi ro"
+    ],
+    "truy hồi thông tin": [
+        "thu thập các nguồn thông tin",
+        "thu thập thông tin",
+        "thu thập dữ liệu"
+    ],
+    "redux-saga": [
+        "redux-saga",
+        "redux - saga"
+    ],
+    "gradle": [
+        "gradle deployed",
+        "gradle",
+        "gradlê"
+    ],
+    "jakarta persistence query language": [
+        "onetomany",
+        "manytoone",
+        "manytomany"
+    ],
+    "json web token": [
+        "web token",
+        "json web token"
+    ],
+    "virtuemart": [
+        "virtuemart",
+        "joomla virtuemart"
+    ],
+    "reverse proxy": [
+        "reverse proxy",
+        "nginx reverse proxy"
+    ],
+    "phần mềm thiết kế mạch in": [
+        "phần mềm vẽ mạch altium",
+        "phần mềm altium"
+    ],
+    "thiết kế mạch điện": [
+        "thiết kế linh kiện",
+        "thiết kế mạch điện",
+        "vẽ mạch",
+        "thiết kế mạch",
+        "thiết kế pcb",
+        "vi mạch điện tử",
+        "mạch điện tử",
+        "thiết kế mạch điện tử"
+    ],
+    "mplab": [
+        "mplabx pic",
+        "mplab"
+    ],
+    "kỹ năng đánh máy": [
+        "đánh máy tốt",
+        "đánh máy trung cấp",
+        "đánh máy nhanh",
+        "đánh máy cao cấp"
+    ],
+    "juniper firewall": [
+        "netscreen juniper firewall",
+        "juniper firewall"
+    ],
+    "đảm bảo chất lượng": [
+        "đảm bảo chất lượng",
+        "đảm bảo sản phẩm",
+        "kiểm soát chất lượng",
+        "kiểm soát chất lượng đầu vào và đầu ra",
+        "kiểm thử và đảm bảo chất lượng"
+    ],
+    "wincc": [
+        "wincc",
+        "win cc."
+    ],
+    "mô hình client-server": [
+        "xử lý server client",
+        "hệ thống server - client",
+        "mô hình client server"
+    ],
+    "webmail": [
+        "web mail",
+        "webmail"
+    ],
+    "microsoft servers": [
+        "ms server",
+        "microsoft server",
+        "ms dos",
+        "ms isa 2000"
+    ],
+    "ruby": [
+        "ruby script",
+        "open ruby"
+    ],
+    "japanese-language proficiency test": [
+        "jlpt n2",
+        "jlpt n4"
+    ],
+    "esp32": [
+        "esp 32",
+        "esp32"
+    ],
+    "list of dell poweredge servers": [
+        "server dell",
+        "dell server"
+    ],
+    "recurrent neural network": [
+        "recurrent neural network",
+        "rnn"
+    ],
+    "orange pi": [
+        "orangepi",
+        "orange pi zero"
+    ],
+    "lucidchart": [
+        "lucidchart",
+        "lucid chart"
+    ],
+    "windows presentation foundation": [
+        "wpf.",
+        "xây dựng ứng dụng winform",
+        "c # wpf",
+        "wpf client",
+        "windows presentation foundation"
+    ],
+    "regression testing": [
+        "regression test",
+        "testing regression"
+    ],
+    "test levels": [
+        "test levels",
+        "test level"
+    ],
+    "phát triển module": [
+        "phát triển các module",
+        "tích hợp module"
+    ],
+    "domain driven design": [
+        "quản trị domain",
+        "quản lý domain"
+    ],
+    "list of cisco products": [
+        "switch access cisco sg200",
+        "switch cisco sg300 series",
+        "switch core cisco 3850",
+        "core switch cisco",
+        "cisco catalyst 2960"
+    ],
+    "android-x86": [
+        "android architecture component 2018",
+        "android architecture components"
+    ],
+    "hỗ trợ khách hàng": [
+        "phục vụ khách hàng",
+        "triển khai đào tạo khách hàng",
+        "hỗ trợ khách hàng xử lý",
+        "hướng dẫn khách hàng sử dụng",
+        "làm việc trực tiếp với khách hàng",
+        "tiếp nhận yêu cầu",
+        "nắm bắt yêu cầu khách hàng",
+        "giao tiếp với khách hàng",
+        "giao tiếp khách hàng"
+    ],
+    "active server pages": [
+        "asp. net zero framework",
+        "asp .net zero"
+    ],
+    "corel videostudio": [
+        "videostudio",
+        "corel videostudio pro x7"
+    ],
+    "quản lý kho": [
+        "kiểm soát hàng tồn kho",
+        "quản lý tồn kho",
+        "quản lý kho"
+    ],
+    "penetration test": [
+        "pentest",
+        "pentest web"
+    ],
+    "sophos": [
+        "sophos",
+        "antivirus sophos"
+    ],
+    "cisco asa": [
+        "cisco asa",
+        "asa cisco",
+        "cisco asa 5500 series",
+        "asa 5500 series"
+    ],
+    "cnn": [
+        "cnn",
+        "mạng cnn"
+    ],
+    "testcomplete": [
+        "testcomplete",
+        "test complete 12",
+        "test complete"
+    ],
+    "sock": [
+        "sock *",
+        "sock"
+    ],
+    "system administrator": [
+        "system administrator",
+        "system admin"
+    ],
+    "config server": [
+        "config server",
+        "config web server",
+        "cấu hình hệ thống server"
+    ],
+    "switch": [
+        "core switch",
+        "switch core",
+        "switch",
+        "cấu hình hệ thống switch",
+        "cấu hình thiết bị switch",
+        "switches"
+    ],
+    "swift (programming language)": [
+        "swift 4.2",
+        "swift 3",
+        "swift ios",
+        "switf3",
+        "switf 3,4"
+    ],
+    "smartfox": [
+        "smartfox server",
+        "smartfox"
+    ],
+    "khắc phục sự cố": [
+        "quản trị các thiết bị",
+        "khắc phục sự cố các thiết bị",
+        "khắc phục sự cố của máy",
+        "xử lý các sự cố máy tính văn phòng"
+    ],
+    "cấu hình tổng đài": [
+        "cấu hình tổng đài analog",
+        "vận hành hệ thống tổng đài"
+    ],
+    "quicktest professional": [
+        "qtp",
+        "quicktest professional"
+    ],
+    "pr": [
+        "pr",
+        "pr."
+    ],
+    "d-link": [
+        "d-link",
+        "dlink"
+    ],
+    "adobe acrobat": [
+        "adobe acrobat",
+        "acrobat pro"
+    ],
+    "visual basic for applications": [
+        "visual basic for applications",
+        "visual basic for application",
+        "visual bassic"
+    ],
+    "sun java system portal server": [
+        "liferay portal framework .",
+        "portal liferay 7"
+    ],
+    "troubleshooting": [
+        "troubleshoot",
+        "troubleshooting"
+    ],
+    ".gdn": [
+        "gdn",
+        "google gdn"
+    ],
+    "ohs": [
+        "oracle ohs",
+        "ohs"
+    ],
+    "sugarcrm": [
+        "custom sugarcrm",
+        "sugarcrm"
+    ],
+    "oracle developer suite": [
+        "developer suite 10g",
+        "developer suite"
+    ],
+    "jens quistgaard": [
+        "pattern desgin",
+        "desgin patterns"
+    ],
+    "f5 networks": [
+        "f5 network",
+        "big ip f5"
+    ],
+    "tối ưu performance": [
+        "tối ưu performance",
+        "tối ưu hóa performance"
+    ],
+    "arm": [
+        "arm.",
+        "arm"
+    ],
+    "v live": [
+        "v - live",
+        "vlive"
+    ],
+    "fortran": [
+        "ngôn ngữ fortran 90",
+        "fortran"
+    ],
+    "jhipster": [
+        "framework jhipster",
+        "jhipster"
+    ],
+    "premiere": [
+        "premiere",
+        "primiere"
+    ],
+    "sharable content object reference model": [
+        "scorm",
+        "sharable content object reference model"
+    ],
+    "sales order": [
+        "sales orders",
+        "sales order issue"
+    ],
+    "lync": [
+        "lync",
+        "lync basic",
+        "microsoft lync"
+    ],
+    "multilayer switch": [
+        "switch layer 3",
+        "switch layer 2"
+    ],
+    "toxin-antitoxin system": [
+        "reponsive mobile",
+        "reponsive web"
+    ],
+    "tp-link": [
+        "tp-link",
+        "tp link",
+        "tp - link"
+    ],
+    "particle system": [
+        "particle system",
+        "particle systems"
+    ],
+    "nodemcu": [
+        "nodemcu",
+        "node mcu esp32"
+    ],
+    "solid": [
+        "solid",
+        "solid work"
+    ],
+    "xpages": [
+        "xpage",
+        "xpages"
+    ],
+    "ess": [
+        "ess.",
+        "a ess"
+    ],
+    "ibm cognos analytics": [
+        "cognos bi",
+        "cognos framework",
+        "ibm cognos analytic"
+    ],
+    "ibm aix": [
+        "aix 6.1",
+        "ibm aix"
+    ],
+    "optical character recognition": [
+        "ocr algorithm",
+        "ocr deep learning"
+    ],
+    "pyqt": [
+        "pyqt",
+        "pyqt5"
+    ],
+    "internet explorer": [
+        "internet explorer",
+        "ie7",
+        "internet explorer 7.0"
+    ],
+    "meta element": [
+        "meta description",
+        "meta keywords"
+    ],
+    "amazon route 53": [
+        "amazon route",
+        "aws route53"
+    ],
+    "embedded system": [
+        "c embedded system",
+        "embedded system"
+    ],
+    "pro*c": [
+        "pro * c",
+        "pro c"
+    ],
+    "red hat enterprise linux": [
+        "linux rhel 4",
+        "enterprise linux",
+        "redhat linux",
+        "rhl"
+    ],
+    "sap hana": [
+        "hana database",
+        "sap hana"
+    ],
+    "accounting": [
+        "fast accounting",
+        "accounting",
+        "pro accounting )"
+    ],
+    "windows embedded compact": [
+        "wince",
+        "win ce."
+    ],
+    "unreal engine": [
+        "unreal development kit ( udk )",
+        "unreal engine"
+    ],
+    "keyword tool (software)": [
+        "keywordtool",
+        "keywordtool .io"
+    ],
+    "chatbot": [
+        "chatbot",
+        "chat bot"
+    ],
+    "ibm mq": [
+        "ibm mq",
+        "ibm mq."
+    ],
+    "g.984": [
+        "internet gpon",
+        "gpon"
+    ],
+    "marc standards": [
+        "marc21",
+        "marc xml"
+    ],
+    "hp storageworks": [
+        "hp san storage",
+        "hpe san storage",
+        "hpe msa"
+    ],
+    "resource monitor": [
+        "resource monitor",
+        "storage resource monitor"
+    ],
+    "puresystems": [
+        "ibm pureflex",
+        "ibm flex system"
+    ],
+    "hpe integrity servers": [
+        "hp integrity",
+        "hpe server"
+    ],
+    "oracle enterprise service bus": [
+        "oracle services bus",
+        "oracle enterprise service bus",
+        "oracle esb"
+    ],
+    "brand": [
+        "branding marketing",
+        "brands"
+    ],
+    "pic microcontrollers": [
+        "pic16",
+        "pic18",
+        "dspic 30f"
+    ],
+    "database management system": [
+        "dbms",
+        "dbms.",
+        "database management system",
+        "db management",
+        "hệ quản trị cơ sở dữ liệu",
+        "hệ quản trị csdl"
+    ],
+    "quản trị server": [
+        "quản trị server",
+        "quản trị hệ thống server",
+        "quản trị sever",
+        "quản lý hệ thống server",
+        "quản trị sharepoint server",
+        "cài đặt máy chủ",
+        "cài đặt các máy chủ"
+    ],
+    "apache tomcat": [
+        "apache tomcat",
+        "tomcat server",
+        "tomcat 8",
+        "tomcat 6.0",
+        "server tomcat",
+        "tomcat 7",
+        "server apache tomcat",
+        "tomcat 8x",
+        "tomcat 6",
+        "apache tomcat 9",
+        "apache tomcat server",
+        "tomcat",
+        "tomcat v8"
+    ],
+    "phân tích yêu cầu": [
+        "phân tích yêu cầu",
+        "đặc tả yêu cầu",
+        "phân tích yêu cầu người dùng",
+        "làm rõ yêu cầu nghiệp vụ",
+        "làm tài liệu phân tích yêu cầu",
+        "phân tích yêu cầu đặc tả",
+        "linh hoạt theo yêu cầu",
+        "phân tích yêu cầu phần mềm",
+        "khảo sát yêu cầu",
+        "tìm hiểu phân tích yêu cầu"
+    ],
+    "ext js": [
+        "extjs",
+        "ext .net",
+        "sencha extjs",
+        "ext js",
+        "ext js framework",
+        "sencha js",
+        "extjs framework",
+        "ext",
+        "ext .js",
+        "ext component"
+    ],
+    "quản trị nhân sự": [
+        "quản lý nhân sự",
+        "quản trị nhân sự",
+        "quản lý nhân viên",
+        "công tác quản lý nhân sự",
+        "nghiệp vụ quản ý nhân sự",
+        "quản lý nguồn nhân lực",
+        "quản trị nhân sự , phát triển nhân sự",
+        "nghiệp vụ về thủ tục nhân sự",
+        "lãnh đạo",
+        "quản lý , lãnh đạo nhóm",
+        "lãnh đạo nhóm"
+    ],
+    "quản trị hệ thống": [
+        "quản trị các hệ thống",
+        "quản trị hệ thống cntt",
+        "quản trị hệ thống",
+        "cấu hình quản trị hệ thống",
+        "quản lý hệ thống hồ sơ",
+        "quản trị hệ thống cấu trúc",
+        "quản trị hệ thống thông tin",
+        "quản trị hệ thống giám sát",
+        "hệ thống thông tin quản lý",
+        "quản l hệ thống"
+    ],
+    "google search console": [
+        "google webmaster tools",
+        "google webmaster tool",
+        "google webmaster",
+        "google search console",
+        "google webmasters tool",
+        "google api console",
+        "google console",
+        "tìm kiếm trên internet",
+        "google web",
+        "google search"
+    ],
+    "an toàn thông tin": [
+        "an toàn thông tin",
+        "bảo mật thông tin",
+        "an toàn bảo mật thông tin",
+        "bảo mật",
+        "bảo mật hệ thống",
+        "thiết bị bảo mật",
+        "bảo mật hệ thống mạng",
+        "hệ thống bảo mật",
+        "tiêu chuẩn bảo mật mạng",
+        "lỗ hổng an ninh phần mềm",
+        "đánh giá an toàn thông tin ứng dụng web"
+    ],
+    "microsoft exchange server": [
+        "exchange server",
+        "exchange server 2010",
+        "exchange 2013",
+        "exchange server 2003",
+        "ms exchange 2013",
+        "mail server exchange",
+        "exchange 2007",
+        "ms exchange 2000",
+        "exchange 2003",
+        "exchange 2010",
+        "email exchange 2013",
+        "microsoft exchange"
+    ],
+    "google maps": [
+        "google map api",
+        "google map",
+        "google maps",
+        "gmap , ...",
+        "bản đồ api google map",
+        "google map service",
+        "google map api.",
+        "gmap api",
+        "google maps api",
+        "gmaps api"
+    ],
+    "quản trị kinh doanh": [
+        "quản trị kinh doanh",
+        "quản trị hiện đại",
+        "quản trị mục tiêu",
+        "quản lý kinh doanh",
+        "kỹ năng quản lý kinh doanh",
+        "đào tạo nhân viên kinh doanh",
+        "hoạch định chiến lược",
+        "tìm ra giải pháp",
+        "kinh tế quản trị kinh doanh",
+        "lập các phương án kinh doanh",
+        "quản lý chiến lược",
+        "quản trị chiến lược"
+    ],
+    "microsoft certified professional": [
+        "mcse",
+        "mcsa 2008",
+        "microsoft certified systems administrator",
+        "mcdba",
+        "microsoft certified system administrator",
+        "microsoft certified solutions associate",
+        "microsofts mcsa 2012",
+        "microsoft office specialist",
+        "mcitp",
+        "microsoft mcsa 2012"
+    ],
+    "android": [
+        "android.",
+        "android app",
+        "mobile android app",
+        "smartphone android",
+        "mobile android",
+        "client android",
+        "android phone",
+        "components android",
+        "app android",
+        "android",
+        "adroid",
+        "androi",
+        "app androi"
+    ],
+    "front end": [
+        "front end",
+        "front - end",
+        "front-end",
+        "front end.",
+        "frontend : html , css",
+        "front- end",
+        "web front end",
+        "web front-end",
+        "font end",
+        "font - end",
+        "font-end",
+        "lập trình front end",
+        "lập trình css front end",
+        "thiết kế ui",
+        "framework ui design",
+        "ui",
+        "material ui",
+        "xây dựng giao diện",
+        "thiết kế layout",
+        "thiết kế tương tác",
+        "layout web",
+        "chỉnh sửa giao diện",
+        "vẽ và chỉnh sửa giao diện"
+    ],
+    ".net framework": [
+        ".net framework",
+        "net framework",
+        "lập trình .net",
+        "net technology",
+        ". net framework",
+        ".net core framework",
+        "netframework",
+        "netframework vb. net",
+        ".netframework",
+        "netframework 2.0",
+        ".net framework 5.1",
+        ".net framework 4.5",
+        ".net framework 2.0",
+        "net framework 4.5",
+        "net framework 3.5",
+        "net framework 4.5.2",
+        "net framework 4.0",
+        ".net framework 3.0",
+        ".net framework 4 x",
+        ".net framework 1.1",
+        ".net framework 3.5",
+        "net framwork 4.0",
+        "net framwork"
+    ],
+    "chịu được áp lực công việc": [
+        "làm việc dưới áp lực",
+        "chịu áp lực công việc",
+        "làm việc dưới áp lực cao",
+        "chịu được áp lực cao",
+        "làm việc trong môi trường áp lực cao",
+        "chịu được áp lực công việc cao",
+        "chịu áp lực cao",
+        "chịu được áp lực công việc",
+        "làm việc với áp lực",
+        "làm việc nghiêm túc",
+        "làm việc với áp lực cao",
+        "chịu áp lực công việc cao",
+        "làm việc dưới môi trường áp lực cao",
+        "làm việc được với môi trường áp lực",
+        "chịu áp lực tốt",
+        "làm việc với môi trường áp lực cao",
+        "làm việc dưới mọi áp lực",
+        "làm việc áp lực",
+        "chịu được áp lực",
+        "chịu áp lực",
+        "chịu áp lực nghiên cứu"
+    ],
+    "lập trình web": [
+        "lập trình website",
+        "xây dựng website",
+        "xây dựng trang web",
+        "phát triển website",
+        "làm website",
+        "code website",
+        "lập trình web application bằng",
+        "lập trình website php.",
+        "xây dựng trang website",
+        "lập trình web",
+        "lập trình web bằng",
+        "lập trình trang web",
+        "lập trình web service",
+        "quy trình phát triển web",
+        "design and develop website",
+        "xây dựng một trang web",
+        "xây dựng các hệ thống website",
+        "làm web",
+        "từng phát triển web",
+        "ứng dụng web"
+    ],
+    "bootstrap (front-end framework)": [
+        "bootstrap 4",
+        "bootstrap 3",
+        "bootstrap4",
+        "bootstrap3",
+        "bootstrap framework",
+        "css bootstrap",
+        "bootstrap library",
+        "bootstrap 4 ,",
+        "bootstrap css",
+        "bootstrap table plugin",
+        "bootstrap platforms : windows",
+        "react bootstrap",
+        "framework bootstrap 5",
+        "bootstrap template .",
+        "twitter bootstrap",
+        "html css-bootstrap",
+        "bootstrap jquery",
+        "html bootstrap",
+        "jquery bootstrap",
+        "bootstrap 3 / 4 ,",
+        "framework bootstrap",
+        "boostrap",
+        "boostrap.",
+        "bootstrap",
+        "bootstrap.",
+        "bootstrap template",
+        "bootstrap 12",
+        "bootstrap )",
+        "boostrap 4",
+        "boostrap 4 x",
+        "boostrap framework",
+        "boostraps ide",
+        "boostraps",
+        "bootstrap bootstrap"
+    ]
+}
