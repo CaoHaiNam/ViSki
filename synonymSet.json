@@ -1,7 +1,6 @@
 {
     "0": {
-        "key": "php",
-        "value": [
+        "php": [
             "php",
             "php.",
             "lập trình php",
@@ -29,16 +28,14 @@
         ]
     },
     "1": {
-        "key": "c++",
-        "value": [
+        "c++": [
             "c +",
             "c++",
             "c ++"
         ]
     },
     "2": {
-        "key": "html",
-        "value": [
+        "html": [
             "html",
             "html.",
             "html ,",
@@ -63,8 +60,7 @@
         ]
     },
     "3": {
-        "key": "java",
-        "value": [
+        "java": [
             "java",
             "java.",
             "java ,",
@@ -99,8 +95,7 @@
         ]
     },
     "4": {
-        "key": "css",
-        "value": [
+        "css": [
             "css",
             "css3",
             "css.",
@@ -121,8 +116,7 @@
         ]
     },
     "5": {
-        "key": "mysql",
-        "value": [
+        "mysql": [
             "mys l",
             "mys l.",
             "mysql",
@@ -156,8 +150,7 @@
         ]
     },
     "6": {
-        "key": "microsoft sql server",
-        "value": [
+        "microsoft sql server": [
             "sql server",
             "sql sever",
             "sql sever 2008",
@@ -245,8 +238,7 @@
         ]
     },
     "7": {
-        "key": "javascript",
-        "value": [
+        "javascript": [
             "javascript",
             "java script",
             "javascripts",
@@ -261,8 +253,7 @@
         ]
     },
     "8": {
-        "key": "c",
-        "value": [
+        "c": [
             "c",
             "c ,",
             "/ c",
@@ -274,8 +265,7 @@
         ]
     },
     "9": {
-        "key": "tiếng anh",
-        "value": [
+        "tiếng anh": [
             "tiếng anh b1",
             "tiếng anh b2",
             "anh",
@@ -313,8 +303,7 @@
         ]
     },
     "10": {
-        "key": "jquery",
-        "value": [
+        "jquery": [
             "jquery",
             "jquery ajax",
             "jquery.",
@@ -334,8 +323,7 @@
         ]
     },
     "11": {
-        "key": "microsoft excel",
-        "value": [
+        "microsoft excel": [
             "excel",
             "microsoft excel",
             "ms excel",
@@ -358,9 +346,8 @@
             "ms exel"
         ]
     },
-    "14": {
-        "key": "asp.net",
-        "value": [
+    "12": {
+        "asp.net": [
             "asp",
             "asp với",
             "asp ,",
@@ -393,9 +380,8 @@
             "asp. net web api."
         ]
     },
-    "15": {
-        "key": "sql",
-        "value": [
+    "13": {
+        "sql": [
             "sql",
             "sql.",
             "truy vấn sql",
@@ -410,12 +396,10 @@
             "sql assembly",
             "data sql",
             "sql cơ bản"
-            
         ]
     },
-    "16": {
-        "key": ".net core",
-        "value": [
+    "14": {
+        ".net core": [
             ".net",
             "netcore",
             ".netcore",
@@ -450,9 +434,8 @@
             ".net web services"
         ]
     },
-    "18": {
-        "key": "adobe photoshop",
-        "value": [
+    "15": {
+        "adobe photoshop": [
             "photoshop",
             "adobe photoshop",
             "photoshop cs6",
@@ -471,9 +454,8 @@
             "adobe photoshop cs5"
         ]
     },
-    "20": {
-        "key": "wordpress",
-        "value": [
+    "16": {
+        "wordpress": [
             "wordpress",
             "cms wordpress",
             "website wordpress",
@@ -490,9 +472,8 @@
             "lập trình wordpress"
         ]
     },
-    "21": {
-        "key": "làm việc theo nhóm",
-        "value": [
+    "17": {
+        "làm việc theo nhóm": [
             "làm việc nhóm",
             "làm việc theo nhóm",
             "làm việc nhóm tốt",
@@ -515,9 +496,8 @@
             "làm việc tốt theo nhóm"
         ]
     },
-    "22": {
-        "key": "giao tiếp",
-        "value": [
+    "18": {
+        "giao tiếp": [
             "giao tiếp",
             "văn giao tiếp",
             "nghe nói giao tiếp cơ bản",
@@ -536,9 +516,8 @@
             "giao tiếp thuyết phục"
         ]
     },
-    "23": {
-        "key": "model–view–controller",
-        "value": [
+    "19": {
+        "model–view–controller": [
             "mvc",
             "mvc.",
             "mvc pattern",
@@ -566,9 +545,8 @@
             "mvc3 c"
         ]
     },
-    "24": {
-        "key": "laravel",
-        "value": [
+    "20": {
+        "laravel": [
             "laravel",
             "laravel framework",
             "framework laravel",
@@ -586,9 +564,8 @@
             "framework laravel ."
         ]
     },
-    "25": {
-        "key": "ajax",
-        "value": [
+    "21": {
+        "ajax": [
             "ajax",
             "ajax.",
             "table ajax",
@@ -597,9 +574,8 @@
             "ajax technique"
         ]
     },
-    "27": {
-        "key": "linux",
-        "value": [
+    "22": {
+        "linux": [
             "linux",
             "linux server",
             "os linux",
@@ -615,9 +591,8 @@
             "linux kernel"
         ]
     },
-    "28": {
-        "key": "microsoft powerpoint",
-        "value": [
+    "23": {
+        "microsoft powerpoint": [
             "power point",
             "powerpoint",
             "microsoft powerpoint",
@@ -634,9 +609,8 @@
             "microsoft power point"
         ]
     },
-    "29": {
-        "key": "microsoft visual studio",
-        "value": [
+    "24": {
+        "microsoft visual studio": [
             "visual studio",
             "visual studio 2010",
             "microsoft visual studio",
@@ -673,9 +647,8 @@
             "visua studio 2014"
         ]
     },
-    "30": {
-        "key": "python",
-        "value": [
+    "25": {
+        "python": [
             "python",
             "phython",
             "pythọn",
@@ -686,9 +659,8 @@
             "framework python"
         ]
     },
-    "31": {
-        "key": "git",
-        "value": [
+    "26": {
+        "git": [
             "git",
             "git.",
             "git build",
@@ -701,9 +673,8 @@
             "git basic"
         ]
     },
-    "32": {
-        "key": "node.js",
-        "value": [
+    "27": {
+        "node.js": [
             "nodejs",
             "node js",
             "node .js",
@@ -717,9 +688,8 @@
             "nodejs+"
         ]
     },
-    "35": {
-        "key": "làm việc độc lập",
-        "value": [
+    "28": {
+        "làm việc độc lập": [
             "làm việc độc lập",
             "làm độc lập",
             "làm việc và hoạt động độc lập",
@@ -727,18 +697,16 @@
             "làm việc độc lập tốt"
         ]
     },
-    "36": {
-        "key": "mongodb",
-        "value": [
+    "29": {
+        "mongodb": [
             "mongodb",
             "mongo db",
             "db mongo",
             "mongodb cluster"
         ]
     },
-    "37": {
-        "key": "visual basic .net",
-        "value": [
+    "30": {
+        "visual basic .net": [
             "vb. net",
             "vb .net",
             "visual basic .net",
@@ -754,9 +722,8 @@
             ".net vb. net .net"
         ]
     },
-    "38": {
-        "key": "microsoft word",
-        "value": [
+    "31": {
+        "microsoft word": [
             "microsoft word",
             "ms word",
             "winword",
@@ -767,9 +734,8 @@
             "word ,"
         ]
     },
-    "40": {
-        "key": "windows forms",
-        "value": [
+    "32": {
+        "windows forms": [
             "winform",
             "windows form",
             "window form",
@@ -792,26 +758,23 @@
             "lập trình winform"
         ]
     },
-    "41": {
-        "key": "xml",
-        "value": [
+    "33": {
+        "xml": [
             "xml",
             "xml.",
             "xml ,",
             "xml comment"
         ]
     },
-    "42": {
-        "key": "jsp",
-        "value": [
+    "34": {
+        "jsp": [
             "jsp",
             "jsp.",
             "jsp ,"
         ]
     },
-    "43": {
-        "key": "thuyết trình",
-        "value": [
+    "35": {
+        "thuyết trình": [
             "thuyết trình",
             "thuyết trình *",
             "công cụ thuyết trình",
@@ -820,9 +783,8 @@
             "nói trước đám đông"
         ]
     },
-    "44": {
-        "key": "tin học văn phòng",
-        "value": [
+    "36": {
+        "tin học văn phòng": [
             "tin học văn phòng",
             "vi tính văn phòng",
             "máy tính văn phòng",
@@ -840,9 +802,8 @@
             "ứng dụng văn phòng"
         ]
     },
-    "45": {
-        "key": "react (javascript library)",
-        "value": [
+    "37": {
+        "react (javascript library)": [
             "reactjs",
             "react js",
             "react hook",
@@ -857,24 +818,21 @@
             "react hooks"
         ]
     },
-    "46": {
-        "key": "svn",
-        "value": [
+    "38": {
+        "svn": [
             "svn",
             "svn.",
             "svn ,"
         ]
     },
-    "47": {
-        "key": "redmine",
-        "value": [
+    "39": {
+        "redmine": [
             "redmine",
             "svn redmine"
         ]
     },
-    "48": {
-        "key": "angularjs",
-        "value": [
+    "40": {
+        "angularjs": [
             "angularjs",
             "angular js",
             "angularjs 1x",
@@ -887,9 +845,8 @@
             "angularjs ,"
         ]
     },
-    "49": {
-        "key": "json",
-        "value": [
+    "41": {
+        "json": [
             "json",
             "json.",
             "parse json",
@@ -897,9 +854,8 @@
             "json binary file"
         ]
     },
-    "50": {
-        "key": "codeigniter",
-        "value": [
+    "42": {
+        "codeigniter": [
             "codeigniter",
             "framework codeigniter",
             "codeigniter framework",
@@ -913,9 +869,8 @@
             "codeigniter 2.1.3"
         ]
     },
-    "52": {
-        "key": "search engine optimization",
-        "value": [
+    "43": {
+        "search engine optimization": [
             "seo",
             "seo website",
             "seo web",
@@ -927,9 +882,8 @@
             "chuẩn seo"
         ]
     },
-    "53": {
-        "key": "android studio",
-        "value": [
+    "44": {
+        "android studio": [
             "android studio",
             "androidstudio",
             "android studio 1.4",
@@ -941,9 +895,8 @@
             "studio android"
         ]
     },
-    "54": {
-        "key": "lập trình hướng đối tượng",
-        "value": [
+    "45": {
+        "lập trình hướng đối tượng": [
             "lập trình hướng đối tượng",
             "hướng đối tượng",
             "thiết kế hướng đối tượng",
@@ -966,9 +919,8 @@
             "oop php"
         ]
     },
-    "56": {
-        "key": "joomla",
-        "value": [
+    "46": {
+        "joomla": [
             "joomla",
             "cms joomla",
             "joomla cms",
@@ -979,9 +931,8 @@
             "template joomla"
         ]
     },
-    "57": {
-        "key": "autocad",
-        "value": [
+    "47": {
+        "autocad": [
             "autocad",
             "auto cad",
             "autocad 2d",
@@ -990,9 +941,8 @@
             "autocad 2d & 3d"
         ]
     },
-    "58": {
-        "key": "sqlite",
-        "value": [
+    "48": {
+        "sqlite": [
             "sqlite",
             "sql lite",
             "sqlite database",
@@ -1001,9 +951,8 @@
             "my sqlite"
         ]
     },
-    "60": {
-        "key": "phân tích",
-        "value": [
+    "49": {
+        "phân tích": [
             "phân tích",
             "phân tích tốt",
             "phân tích các vấn đề mới nhanh",
@@ -1012,18 +961,16 @@
             "tư duy phân tích"
         ]
     },
-    "62": {
-        "key": "microsoft visio",
-        "value": [
+    "50": {
+        "microsoft visio": [
             "visio",
             "microsoft visio",
             "ms visio",
             "visio studio"
         ]
     },
-    "63": {
-        "key": "lập kế hoạch",
-        "value": [
+    "51": {
+        "lập kế hoạch": [
             "lập kế hoạch",
             "lên kế hoạch",
             "xây dựng kế hoạch",
@@ -1040,9 +987,8 @@
             "quản trị kế hoạch"
         ]
     },
-    "65": {
-        "key": "postgresql",
-        "value": [
+    "52": {
+        "postgresql": [
             "postgresql",
             "postgres",
             "postgressql",
@@ -1060,18 +1006,16 @@
             "postgresql 8"
         ]
     },
-    "66": {
-        "key": "jakarta servlet",
-        "value": [
+    "53": {
+        "jakarta servlet": [
             "servlet",
             "java servlet",
             "servlets",
             "servlet / jsp"
         ]
     },
-    "68": {
-        "key": "microsoft office",
-        "value": [
+    "54": {
+        "microsoft office": [
             "microsoft office",
             "ms office",
             "ms. office",
@@ -1080,9 +1024,8 @@
             "microsoft office suite"
         ]
     },
-    "69": {
-        "key": "devexpress",
-        "value": [
+    "55": {
+        "devexpress": [
             "devexpress",
             "framework devexpress",
             "devexpress mvc",
@@ -1094,9 +1037,8 @@
             "devexpress framework"
         ]
     },
-    "70": {
-        "key": "windows server",
-        "value": [
+    "56": {
+        "windows server": [
             "windows",
             "window",
             "microsoft windows",
@@ -1178,18 +1120,16 @@
             "ms windows 8"
         ]
     },
-    "72": {
-        "key": "react native",
-        "value": [
+    "57": {
+        "react native": [
             "react native",
             "reactnative",
             "react - native",
             "react-native"
         ]
     },
-    "73": {
-        "key": "entity framework",
-        "value": [
+    "58": {
+        "entity framework": [
             "entity framework",
             "entityframework",
             "entity frameworks",
@@ -1210,9 +1150,8 @@
             "ef4"
         ]
     },
-    "74": {
-        "key": "ubuntu",
-        "value": [
+    "59": {
+        "ubuntu": [
             "ubuntu",
             "ubuntu server",
             "unbuntu",
@@ -1229,9 +1168,8 @@
             "ubuntu 16.04"
         ]
     },
-    "75": {
-        "key": "crystal reports",
-        "value": [
+    "60": {
+        "crystal reports": [
             "crystal report",
             "crystal reports",
             "crystalreport",
@@ -1244,18 +1182,16 @@
             "crystal report 2008"
         ]
     },
-    "76": {
-        "key": "redis",
-        "value": [
+    "61": {
+        "redis": [
             "redis",
             "redis cache",
             "hub redis",
             "redis server"
         ]
     },
-    "78": {
-        "key": "unified modeling language",
-        "value": [
+    "62": {
+        "unified modeling language": [
             "uml",
             "uml.",
             "unified modeling language",
@@ -1263,9 +1199,8 @@
             "unified modeling language ( uml )"
         ]
     },
-    "79": {
-        "key": "asp.net mvc",
-        "value": [
+    "63": {
+        "asp.net mvc": [
             "asp. net mvc",
             "asp .net mvc",
             "asp. net mvc5",
@@ -1300,18 +1235,16 @@
             "asp. net mvc3"
         ]
     },
-    "80": {
-        "key": "tiếng nhật",
-        "value": [
+    "64": {
+        "tiếng nhật": [
             "tiếng nhật",
             "giao tiếp tiếng nhật",
             "tiếng nhật tiếng",
             "tiếng nhật giao tiếp"
         ]
     },
-    "81": {
-        "key": "netbeans",
-        "value": [
+    "65": {
+        "netbeans": [
             "netbeans",
             "netbean",
             "net beans",
@@ -1329,17 +1262,15 @@
             "netbean 8.2"
         ]
     },
-    "82": {
-        "key": "domain name system",
-        "value": [
+    "66": {
+        "domain name system": [
             "dns",
             ", dns",
             "dns ,"
         ]
     },
-    "83": {
-        "key": "scrum (software development)",
-        "value": [
+    "67": {
+        "scrum (software development)": [
             "scrum",
             "scrum master",
             "agile - scrum",
@@ -1348,9 +1279,8 @@
             "quy trình scrum"
         ]
     },
-    "84": {
-        "key": "visual basic",
-        "value": [
+    "68": {
+        "visual basic": [
             "visual basic",
             "vb6",
             "visualbasic",
@@ -1366,9 +1296,8 @@
             "vb."
         ]
     },
-    "85": {
-        "key": "agile software development",
-        "value": [
+    "69": {
+        "agile software development": [
             "agile",
             "mô hình agile",
             "agile scrum",
@@ -1380,9 +1309,8 @@
             "phương pháp scrum agile"
         ]
     },
-    "86": {
-        "key": "vue.js",
-        "value": [
+    "70": {
+        "vue.js": [
             "vuejs",
             "vue js",
             "vue .js",
@@ -1393,9 +1321,8 @@
             "vue js."
         ]
     },
-    "87": {
-        "key": "web service",
-        "value": [
+    "71": {
+        "web service": [
             "webservice",
             "web service",
             "web services",
@@ -1411,9 +1338,8 @@
             "web service spring"
         ]
     },
-    "88": {
-        "key": "spring framework",
-        "value": [
+    "72": {
+        "spring framework": [
             "spring boot",
             "spring mvc",
             "java spring",
@@ -1436,25 +1362,22 @@
             "spring .net"
         ]
     },
-    "89": {
-        "key": "github",
-        "value": [
+    "73": {
+        "github": [
             "github",
             "git hub",
             "github ."
         ]
     },
-    "90": {
-        "key": "dynamic host configuration protocol",
-        "value": [
+    "74": {
+        "dynamic host configuration protocol": [
             "dhcp",
             "dhcp server",
             "relay agent"
         ]
     },
-    "91": {
-        "key": "sap",
-        "value": [
+    "75": {
+        "sap": [
             "sap",
             "sap b1",
             "sap a1",
@@ -1468,16 +1391,14 @@
             "sap data service"
         ]
     },
-    "92": {
-        "key": "swift",
-        "value": [
+    "76": {
+        "swift": [
             "swift",
             "swift."
         ]
     },
-    "93": {
-        "key": "oracle database",
-        "value": [
+    "77": {
+        "oracle database": [
             "oracle database",
             "database oracle",
             "oracle db",
@@ -1513,17 +1434,15 @@
             "oracle csdl"
         ]
     },
-    "94": {
-        "key": "webform",
-        "value": [
+    "78": {
+        "webform": [
             "webform",
             "web form",
             "webforms"
         ]
     },
-    "95": {
-        "key": "internet information services",
-        "value": [
+    "79": {
+        "internet information services": [
             "iis",
             "ms iis",
             "microsoft iis",
@@ -1541,9 +1460,8 @@
             "iis 7.5"
         ]
     },
-    "96": {
-        "key": "adobe dreamweaver",
-        "value": [
+    "80": {
+        "adobe dreamweaver": [
             "dreamweaver",
             "adobe dreamweaver",
             "dreamweaver cs4",
@@ -1555,16 +1473,14 @@
             "adobe dreamviewer"
         ]
     },
-    "97": {
-        "key": "pl",
-        "value": [
+    "81": {
+        "pl": [
             "pl",
             "pl."
         ]
     },
-    "98": {
-        "key": "magento",
-        "value": [
+    "82": {
+        "magento": [
             "magento",
             "magento platform",
             "magento 2",
@@ -1577,9 +1493,8 @@
             "magento 1 2"
         ]
     },
-    "99": {
-        "key": "centos",
-        "value": [
+    "83": {
+        "centos": [
             "centos",
             "centos 7",
             "centos 6.5",
@@ -1597,9 +1512,8 @@
             "centos 5x"
         ]
     },
-    "100": {
-        "key": "kiểm thử phần mềm",
-        "value": [
+    "84": {
+        "kiểm thử phần mềm": [
             "kiểm thử phần mềm",
             "kiểm thử",
             "kỹ thuật kiểm thử",
@@ -1656,9 +1570,8 @@
             "api testing"
         ]
     },
-    "101": {
-        "key": "quản lý thời gian",
-        "value": [
+    "85": {
+        "quản lý thời gian": [
             "quản lý thời gian",
             "quản lý tốt thời gian",
             "quản lý tasks",
@@ -1667,9 +1580,8 @@
             "sắp sếp thời gian"
         ]
     },
-    "102": {
-        "key": "web api",
-        "value": [
+    "86": {
+        "web api": [
             "web api",
             "webapi",
             "web api.",
@@ -1690,9 +1602,8 @@
             "api service"
         ]
     },
-    "103": {
-        "key": "database",
-        "value": [
+    "87": {
+        "database": [
             "database",
             "database first",
             "database systems",
@@ -1723,16 +1634,14 @@
             "quản trị cơ sở dữ liệu"
         ]
     },
-    "104": {
-        "key": "swing (java)",
-        "value": [
+    "88": {
+        "swing (java)": [
             "java swing",
             "swing component"
         ]
     },
-    "107": {
-        "key": "vmware",
-        "value": [
+    "89": {
+        "vmware": [
             "vmware",
             "ảo hóa vmware",
             "vmware srm",
@@ -1742,17 +1651,15 @@
             "vmware vcenter 6.7"
         ]
     },
-    "108": {
-        "key": "ado.net",
-        "value": [
+    "90": {
+        "ado.net": [
             "ado. net",
             "ado. net.",
             "ado .net"
         ]
     },
-    "109": {
-        "key": "internet",
-        "value": [
+    "91": {
+        "internet": [
             "internet",
             "duyệt internet",
             "sử dụng internet",
@@ -1760,9 +1667,8 @@
             "thành thạo internet"
         ]
     },
-    "110": {
-        "key": "firebase",
-        "value": [
+    "92": {
+        "firebase": [
             "firebase",
             "google firebase",
             "firebase database",
@@ -1774,9 +1680,8 @@
             "knowledge firebase"
         ]
     },
-    "112": {
-        "key": "cisco systems",
-        "value": [
+    "93": {
+        "cisco systems": [
             "cisco",
             "router cisco",
             "cisco routers",
@@ -1788,16 +1693,14 @@
             "hp cisco"
         ]
     },
-    "114": {
-        "key": "artificial intelligence",
-        "value": [
+    "94": {
+        "artificial intelligence": [
             "ai",
             "artificial intelligence ( ai"
         ]
     },
-    "115": {
-        "key": "phân tích thiết kế hệ thống",
-        "value": [
+    "95": {
+        "phân tích thiết kế hệ thống": [
             "phân tích thiết kế hệ thống",
             "thiết kế hệ thống",
             "phân tích thiết kế",
@@ -1810,18 +1713,16 @@
             "phân tích thiết kế hệ thống phần mềm"
         ]
     },
-    "117": {
-        "key": "java web start",
-        "value": [
+    "96": {
+        "java web start": [
             "java web",
             "java networking",
             "java web application",
             "web java"
         ]
     },
-    "118": {
-        "key": "virtual private network",
-        "value": [
+    "97": {
+        "virtual private network": [
             "vpn",
             "vpn server",
             "vpn site to site",
@@ -1830,9 +1731,8 @@
             "open vpn"
         ]
     },
-    "119": {
-        "key": "đàm phán",
-        "value": [
+    "98": {
+        "đàm phán": [
             "đàm phán",
             "đàm phán hợp tác",
             "đàm phán ký kết hợp đồng",
@@ -1842,9 +1742,8 @@
             "kỹ năng đàm phán"
         ]
     },
-    "120": {
-        "key": "front end",
-        "value": [
+    "99": {
+        "front end": [
             "front end",
             "front - end",
             "front-end",
@@ -1870,9 +1769,8 @@
             "vẽ và chỉnh sửa giao diện"
         ]
     },
-    "121": {
-        "key": "back end",
-        "value": [
+    "100": {
+        "back end": [
             "back end",
             "back end ( nodejs",
             "back end ( nodejs )",
@@ -1882,16 +1780,14 @@
             "java back - end"
         ]
     },
-    "122": {
-        "key": "mcsa",
-        "value": [
+    "101": {
+        "mcsa": [
             "mcsa",
             "mcsa."
         ]
     },
-    "123": {
-        "key": "jakarta ee",
-        "value": [
+    "102": {
+        "jakarta ee": [
             "j2ee",
             "java j2ee",
             "javaee",
@@ -1903,16 +1799,14 @@
             "java se"
         ]
     },
-    "124": {
-        "key": "opencv",
-        "value": [
+    "103": {
+        "opencv": [
             "opencv",
             "open cv"
         ]
     },
-    "125": {
-        "key": "sharepoint",
-        "value": [
+    "104": {
+        "sharepoint": [
             "sharepoint",
             "share point",
             "ms sharepoint",
@@ -1931,9 +1825,8 @@
             "microsoft sharepoint"
         ]
     },
-    "126": {
-        "key": "zend framework",
-        "value": [
+    "105": {
+        "zend framework": [
             "zend framework",
             "zend framework 2",
             "zendframework",
@@ -1944,9 +1837,8 @@
             "zend framework 1"
         ]
     },
-    "127": {
-        "key": "ccna",
-        "value": [
+    "106": {
+        "ccna": [
             "ccna",
             "cisco certified network associate",
             "ccna cisco",
@@ -1957,17 +1849,15 @@
             "quản trị mạng ccna"
         ]
     },
-    "128": {
-        "key": "apache jmeter",
-        "value": [
+    "107": {
+        "apache jmeter": [
             "jmeter",
             "tool jmeter",
             "java jmeter"
         ]
     },
-    "129": {
-        "key": "responsive web design",
-        "value": [
+    "108": {
+        "responsive web design": [
             "responsive",
             "responsive web design",
             "css responsive",
@@ -1979,16 +1869,14 @@
             "less web responsive"
         ]
     },
-    "130": {
-        "key": "psd",
-        "value": [
+    "109": {
+        "psd": [
             "psd",
             "psd."
         ]
     },
-    "131": {
-        "key": "quy trình phát triển phần mềm",
-        "value": [
+    "110": {
+        "quy trình phát triển phần mềm": [
             "phát triển phần mềm",
             "quy trình phát triển phần mềm",
             "quy trình làm phần mềm",
@@ -2007,25 +1895,22 @@
             "quy trình áp dụng phát triển phần mềm"
         ]
     },
-    "132": {
-        "key": "ibm",
-        "value": [
+    "111": {
+        "ibm": [
             "ibm",
             "ibm.",
             "máy chủ của ibm"
         ]
     },
-    "133": {
-        "key": "framework",
-        "value": [
+    "112": {
+        "framework": [
             "framework",
             "frameworks",
             "frame work"
         ]
     },
-    "134": {
-        "key": "cakephp",
-        "value": [
+    "113": {
+        "cakephp": [
             "cakephp",
             "framework cakephp",
             "cake php",
@@ -2034,9 +1919,8 @@
             "framework cake php"
         ]
     },
-    "135": {
-        "key": "sublime text",
-        "value": [
+    "114": {
+        "sublime text": [
             "sublime text",
             "sublime text 3",
             "sublimetext",
@@ -2047,9 +1931,8 @@
             "subline text 3"
         ]
     },
-    "137": {
-        "key": "abap",
-        "value": [
+    "115": {
+        "abap": [
             "abap",
             "sap abap.",
             "sap abap",
@@ -2059,16 +1942,14 @@
             "abap sap"
         ]
     },
-    "138": {
-        "key": "the postman",
-        "value": [
+    "116": {
+        "the postman": [
             "postman",
             "postman."
         ]
     },
-    "139": {
-        "key": "facebook ads",
-        "value": [
+    "117": {
+        "facebook ads": [
             "facebook",
             "facebook ads",
             "quảng cáo facebook",
@@ -2077,9 +1958,8 @@
             "facebook marketing"
         ]
     },
-    "140": {
-        "key": "ibm db2 family",
-        "value": [
+    "118": {
+        "ibm db2 family": [
             "db2",
             "ibm db2",
             "purescale",
@@ -2087,23 +1967,20 @@
             "ibm pure"
         ]
     },
-    "141": {
-        "key": "trello",
-        "value": [
+    "119": {
+        "trello": [
             "trello",
             "trello main developer"
         ]
     },
-    "142": {
-        "key": "sass",
-        "value": [
+    "120": {
+        "sass": [
             "sass",
             "sass."
         ]
     },
-    "143": {
-        "key": "microsoft access",
-        "value": [
+    "121": {
+        "microsoft access": [
             "ms access",
             "microsoft access",
             "microsoft office access",
@@ -2111,24 +1988,21 @@
             "access 2003"
         ]
     },
-    "144": {
-        "key": "wan",
-        "value": [
+    "122": {
+        "wan": [
             "wan",
             "wan.",
             "hệ thống mạng wan"
         ]
     },
-    "146": {
-        "key": "matlab",
-        "value": [
+    "123": {
+        "matlab": [
             "matlab",
             "matlab."
         ]
     },
-    "147": {
-        "key": "yii",
-        "value": [
+    "124": {
+        "yii": [
             "yii",
             "yii2",
             "yii framework",
@@ -2139,9 +2013,8 @@
             "yii frameworks"
         ]
     },
-    "149": {
-        "key": "customer relationship management",
-        "value": [
+    "125": {
+        "customer relationship management": [
             "crm",
             "manage customers",
             "crm dynamic",
@@ -2150,17 +2023,15 @@
             "app crm."
         ]
     },
-    "150": {
-        "key": "typescript",
-        "value": [
+    "126": {
+        "typescript": [
             "typescript",
             "type script",
             "typescript es6"
         ]
     },
-    "151": {
-        "key": "toeic",
-        "value": [
+    "127": {
+        "toeic": [
             "toeic",
             "toeic 500",
             "tiếng anh toeic",
@@ -2182,17 +2053,15 @@
             "toeic 610"
         ]
     },
-    "153": {
-        "key": "gitlab",
-        "value": [
+    "128": {
+        "gitlab": [
             "gitlab",
             "git lab",
             "gitlab."
         ]
     },
-    "154": {
-        "key": "restful api",
-        "value": [
+    "129": {
+        "restful api": [
             "restful",
             "restful api",
             "rest api",
@@ -2211,9 +2080,8 @@
             "rest api."
         ]
     },
-    "155": {
-        "key": "xampp",
-        "value": [
+    "130": {
+        "xampp": [
             "xampp",
             "xamp",
             "xampp.",
@@ -2221,18 +2089,16 @@
             "xampp 1.8"
         ]
     },
-    "156": {
-        "key": "unix",
-        "value": [
+    "131": {
+        "unix": [
             "unix",
             "linux unix",
             "unix os",
             "open source unix"
         ]
     },
-    "157": {
-        "key": "mạng máy tính",
-        "value": [
+    "132": {
+        "mạng máy tính": [
             "mạng máy tính",
             "hệ thống mạng",
             "điện tử viễn thông ccna",
@@ -2241,51 +2107,45 @@
             "hệ thống mạng máy tính",
             "network",
             "networking",
-            "networks" 
+            "networks"
         ]
     },
-    "158": {
-        "key": "kotlin (programming language)",
-        "value": [
+    "133": {
+        "kotlin (programming language)": [
             "kotlin",
             "android kotlin"
         ]
     },
-    "159": {
-        "key": "jakarta enterprise beans",
-        "value": [
+    "134": {
+        "jakarta enterprise beans": [
             "ejb",
             "ejb 3.0",
             "ejb servlet"
         ]
     },
-    "162": {
-        "key": "mariadb",
-        "value": [
+    "135": {
+        "mariadb": [
             "mariadb",
             "maria db",
             "mariadb 10",
             "maxscale"
         ]
     },
-    "164": {
-        "key": "internet of things",
-        "value": [
+    "136": {
+        "internet of things": [
             "iot",
             "internet of things"
         ]
     },
-    "165": {
-        "key": "windows communication foundation",
-        "value": [
+    "137": {
+        "windows communication foundation": [
             "wcf",
             "wcf.",
             ", wcf"
         ]
     },
-    "166": {
-        "key": "odoo",
-        "value": [
+    "138": {
+        "odoo": [
             "odoo",
             "openerp",
             "python odoo",
@@ -2294,25 +2154,22 @@
             "odọọ"
         ]
     },
-    "167": {
-        "key": "file server",
-        "value": [
+    "139": {
+        "file server": [
             "file server",
             "fileserver",
             "files server",
             "storage server"
         ]
     },
-    "168": {
-        "key": "tfs",
-        "value": [
+    "140": {
+        "tfs": [
             "tfs",
             "tfs."
         ]
     },
-    "169": {
-        "key": "message transfer agent",
-        "value": [
+    "141": {
+        "message transfer agent": [
             "mail server",
             "mail exchange server",
             "mailserver",
@@ -2320,9 +2177,8 @@
             "exchange mail"
         ]
     },
-    "170": {
-        "key": "máy tính",
-        "value": [
+    "142": {
+        "máy tính": [
             "máy tính",
             "vi tính",
             "vi tính chuyên nghiệp",
@@ -2333,9 +2189,8 @@
             "kỹ năng máy tính"
         ]
     },
-    "171": {
-        "key": "pl/sql",
-        "value": [
+    "143": {
+        "pl/sql": [
             "pl / sql",
             "oracle pl",
             "plsql",
@@ -2350,23 +2205,20 @@
             "oracle pl sql developer"
         ]
     },
-    "174": {
-        "key": "opencart",
-        "value": [
+    "144": {
+        "opencart": [
             "opencart",
             "open cart"
         ]
     },
-    "175": {
-        "key": "giám sát",
-        "value": [
+    "145": {
+        "giám sát": [
             "giám sát",
             "giám sát hoạt động hàng ngày"
         ]
     },
-    "176": {
-        "key": "apache struts 2",
-        "value": [
+    "146": {
+        "apache struts 2": [
             "struts2",
             "struts 2",
             "framework struts2",
@@ -2375,16 +2227,14 @@
             "mvc hibernate struts2"
         ]
     },
-    "179": {
-        "key": "bitbucket",
-        "value": [
+    "147": {
+        "bitbucket": [
             "bitbucket",
             "git ( bitbucket"
         ]
     },
-    "181": {
-        "key": "quản trị mạng",
-        "value": [
+    "148": {
+        "quản trị mạng": [
             "quản trị mạng",
             "quản trị mạng workgroup",
             "kỹ sư mạng",
@@ -2392,18 +2242,16 @@
             "quản lý hệ thống mạng"
         ]
     },
-    "182": {
-        "key": "google analytics",
-        "value": [
+    "149": {
+        "google analytics": [
             "google analytics",
             "google analytic",
             "google web master tool",
             "phân tích google analytics"
         ]
     },
-    "183": {
-        "key": "tổ chức",
-        "value": [
+    "150": {
+        "tổ chức": [
             "tổ chức sắp xếp công việc",
             "tổ chức công việc",
             "giao việc",
@@ -2412,9 +2260,8 @@
             "tổ chức sắp xếp"
         ]
     },
-    "184": {
-        "key": "phần cứng máy tính",
-        "value": [
+    "151": {
+        "phần cứng máy tính": [
             "phần cứng",
             "phần cứng máy tính",
             "cấu hình phần cứng",
@@ -2425,9 +2272,8 @@
             "am hiểu phần cứng máy tính"
         ]
     },
-    "185": {
-        "key": "axure rp",
-        "value": [
+    "152": {
+        "axure rp": [
             "axure",
             "axure pro",
             "axure rp",
@@ -2435,9 +2281,8 @@
             "axure tool"
         ]
     },
-    "186": {
-        "key": "unit testing",
-        "value": [
+    "153": {
+        "unit testing": [
             "unit test",
             "unit testing",
             "xây dựng unit test",
@@ -2446,33 +2291,29 @@
             "test unit"
         ]
     },
-    "187": {
-        "key": "nosql",
-        "value": [
+    "154": {
+        "nosql": [
             "nosql",
             "no sql",
             "cache no sql"
         ]
     },
-    "188": {
-        "key": "waterfall",
-        "value": [
+    "155": {
+        "waterfall": [
             "waterfall",
             "water fall",
             "waterfall ,"
         ]
     },
-    "189": {
-        "key": "microsoft project",
-        "value": [
+    "156": {
+        "microsoft project": [
             "ms project",
             "microsoft project",
             "msproject"
         ]
     },
-    "190": {
-        "key": ".net framework",
-        "value": [
+    "157": {
+        ".net framework": [
             ".net framework",
             "net framework",
             "lập trình .net",
@@ -2498,9 +2339,8 @@
             "net framwork"
         ]
     },
-    "192": {
-        "key": "nghiên cứu",
-        "value": [
+    "158": {
+        "nghiên cứu": [
             "nghiên cứu",
             "tự nghiên cứu",
             "nghiên cứu tài liệu",
@@ -2518,56 +2358,49 @@
             "hiểu tài liệu"
         ]
     },
-    "193": {
-        "key": "sass (stylesheet language)",
-        "value": [
+    "159": {
+        "sass (stylesheet language)": [
             "scss",
             "scss3",
             "sass github",
             "css j s php"
         ]
     },
-    "194": {
-        "key": "vba",
-        "value": [
+    "160": {
+        "vba": [
             "vba",
             "vba."
         ]
     },
-    "195": {
-        "key": "file transfer protocol",
-        "value": [
+    "161": {
+        "file transfer protocol": [
             "ftp",
             "ftp server",
             "ftp service"
         ]
     },
-    "196": {
-        "key": "visual paradigm",
-        "value": [
+    "162": {
+        "visual paradigm": [
             "visual paradigm",
             "visual paradigm for uml",
             "visualparadigm"
         ]
     },
-    "197": {
-        "key": "elasticsearch",
-        "value": [
+    "163": {
+        "elasticsearch": [
             "elasticsearch",
             "elastic search",
             "logstash elasticsearch - kibana"
         ]
     },
-    "198": {
-        "key": "notepad++",
-        "value": [
+    "164": {
+        "notepad++": [
             "notepad",
             "notepad +"
         ]
     },
-    "199": {
-        "key": "quản lý dự án",
-        "value": [
+    "165": {
+        "quản lý dự án": [
             "quản lý dự án",
             "quản lý đội nhóm",
             "quản trị dự án",
@@ -2584,18 +2417,16 @@
             "quản lý dự án phần mềm"
         ]
     },
-    "200": {
-        "key": "oracle sql developer",
-        "value": [
+    "166": {
+        "oracle sql developer": [
             "oracle developer",
             "oracle developer tool",
             "oracle sql developer",
             "oracle developer sql"
         ]
     },
-    "202": {
-        "key": "oracle applications",
-        "value": [
+    "167": {
+        "oracle applications": [
             "oracle ebs",
             "oracle ebs r12",
             "oracle r12",
@@ -2606,9 +2437,8 @@
             "oracle ebs r. 11"
         ]
     },
-    "203": {
-        "key": "chịu được áp lực công việc",
-        "value": [
+    "168": {
+        "chịu được áp lực công việc": [
             "làm việc dưới áp lực",
             "chịu áp lực công việc",
             "làm việc dưới áp lực cao",
@@ -2632,9 +2462,8 @@
             "chịu áp lực nghiên cứu"
         ]
     },
-    "204": {
-        "key": "objective-c",
-        "value": [
+    "169": {
+        "objective-c": [
             "objective c",
             "object c",
             "objective - c",
@@ -2646,16 +2475,14 @@
             "objective c."
         ]
     },
-    "205": {
-        "key": "pascal",
-        "value": [
+    "170": {
+        "pascal": [
             "pascal",
             ", pascal"
         ]
     },
-    "209": {
-        "key": "transact-sql",
-        "value": [
+    "171": {
+        "transact-sql": [
             "t-sql",
             "t - sql",
             "tsql",
@@ -2663,23 +2490,20 @@
             "t sql"
         ]
     },
-    "210": {
-        "key": "retrofitting",
-        "value": [
+    "172": {
+        "retrofitting": [
             "retrofit",
             "retrofit 2.0"
         ]
     },
-    "211": {
-        "key": "soap",
-        "value": [
+    "173": {
+        "soap": [
             "soap",
             "soap ws"
         ]
     },
-    "213": {
-        "key": "amazon web services",
-        "value": [
+    "174": {
+        "amazon web services": [
             "aws",
             "amazon web services",
             "aws.",
@@ -2690,33 +2514,29 @@
             "cloud amazon"
         ]
     },
-    "214": {
-        "key": "dnn (software)",
-        "value": [
+    "175": {
+        "dnn (software)": [
             "dotnetnuke",
             "dotnetnuke 2.1",
             "dotnetnuke 2.1 open source"
         ]
     },
-    "215": {
-        "key": "model–view–viewmodel",
-        "value": [
+    "176": {
+        "model–view–viewmodel": [
             "mvvm",
             "mvvm.",
             "mvvm pattern",
             "mvvm silverlight"
         ]
     },
-    "216": {
-        "key": "mobile",
-        "value": [
+    "177": {
+        "mobile": [
             "mobile",
             "mobiles"
         ]
     },
-    "217": {
-        "key": "stored procedure",
-        "value": [
+    "178": {
+        "stored procedure": [
             "store procedure",
             "stored procedure",
             "store procedures",
@@ -2725,24 +2545,21 @@
             "sql stored procedure"
         ]
     },
-    "218": {
-        "key": "email",
-        "value": [
+    "179": {
+        "email": [
             "email",
             "email service",
             "e mail"
         ]
     },
-    "219": {
-        "key": "soạn thảo văn bản",
-        "value": [
+    "180": {
+        "soạn thảo văn bản": [
             "soạn thảo văn bản",
             "biên soạn văn bản"
         ]
     },
-    "221": {
-        "key": "java database connectivity",
-        "value": [
+    "181": {
+        "java database connectivity": [
             "jdbc",
             "database javabean",
             "java database",
@@ -2751,100 +2568,87 @@
             "s2jdbc"
         ]
     },
-    "222": {
-        "key": "tin học",
-        "value": [
+    "182": {
+        "tin học": [
             "tin học",
             "tin học cơ bản",
             "trình độ tin học"
         ]
     },
-    "223": {
-        "key": "teamwork",
-        "value": [
+    "183": {
+        "teamwork": [
             "teamwork",
             "team work"
         ]
     },
-    "224": {
-        "key": "internet protocol suite",
-        "value": [
+    "184": {
+        "internet protocol suite": [
             "tcp / ip",
             "tcp / ip."
         ]
     },
-    "225": {
-        "key": "arduino",
-        "value": [
+    "185": {
+        "arduino": [
             "arduino",
             "lập trình arduino"
         ]
     },
-    "227": {
-        "key": "pfsense",
-        "value": [
+    "186": {
+        "pfsense": [
             "pfsense",
             "firewall pfsense"
         ]
     },
-    "228": {
-        "key": "red hat",
-        "value": [
+    "187": {
+        "red hat": [
             "redhat",
             "jboss",
             "red hat",
             "redhat jboss fuse"
         ]
     },
-    "229": {
-        "key": "design pattern",
-        "value": [
+    "188": {
+        "design pattern": [
             "design pattern",
             "web service design patterns"
         ]
     },
-    "233": {
-        "key": "jpa",
-        "value": [
+    "189": {
+        "jpa": [
             "jpa",
             "jpa."
         ]
     },
-    "234": {
-        "key": "ecmascript",
-        "value": [
+    "190": {
+        "ecmascript": [
             "es6",
             "javascript es6",
             "ecmascript 2015",
             "es7"
         ]
     },
-    "235": {
-        "key": "web server",
-        "value": [
+    "191": {
+        "web server": [
             "web server",
             "webserver",
             "web servers"
         ]
     },
-    "237": {
-        "key": "coreldraw",
-        "value": [
+    "192": {
+        "coreldraw": [
             "corel draw",
             "coreldraw",
             "corel html"
         ]
     },
-    "238": {
-        "key": "v-model",
-        "value": [
+    "193": {
+        "v-model": [
             "v model",
             "vmodel"
         ]
     },
-    "239": {
-        "key": "zimbra",
-        "value": [
+    "194": {
+        "zimbra": [
             "zimbra",
             "mail zimbra",
             "email zimbra",
@@ -2852,46 +2656,40 @@
             "zimbra other"
         ]
     },
-    "240": {
-        "key": "thymeleaf",
-        "value": [
+    "195": {
+        "thymeleaf": [
             "thymeleaf",
             "thymeleaf template"
         ]
     },
-    "241": {
-        "key": "tư duy sáng tạo",
-        "value": [
+    "196": {
+        "tư duy sáng tạo": [
             "sáng tạo",
             "tư duy sáng tạo",
             "tư duy sang tạo"
         ]
     },
-    "243": {
-        "key": "voice over ip",
-        "value": [
+    "197": {
+        "voice over ip": [
             "voip",
             "voice ip"
         ]
     },
-    "244": {
-        "key": "kỹ năng mềm",
-        "value": [
+    "198": {
+        "kỹ năng mềm": [
             "kỹ năng mềm",
             "khả năng mềm"
         ]
     },
-    "245": {
-        "key": "data warehouse",
-        "value": [
+    "199": {
+        "data warehouse": [
             "data warehouse",
             "datawarehouse",
             "datawarehouse ,"
         ]
     },
-    "247": {
-        "key": "lập trình web",
-        "value": [
+    "200": {
+        "lập trình web": [
             "lập trình website",
             "xây dựng website",
             "xây dựng trang web",
@@ -2914,10 +2712,8 @@
             "ứng dụng web"
         ]
     },
-
-    "250": {
-        "key": "tableau",
-        "value": [
+    "201": {
+        "tableau": [
             "tableau",
             "tableu",
             "tableau bi",
@@ -2925,9 +2721,8 @@
             "tableau products"
         ]
     },
-    "251": {
-        "key": "bootstrap (front-end framework)",
-        "value": [
+    "202": {
+        "bootstrap (front-end framework)": [
             "bootstrap 4",
             "bootstrap 3",
             "bootstrap4",
@@ -2964,18 +2759,16 @@
             "bootstrap bootstrap"
         ]
     },
-    "252": {
-        "key": "ibm rational rose xde",
-        "value": [
+    "203": {
+        "ibm rational rose xde": [
             "rational rose",
             "ibm rational rose",
             "uml rational rose",
             "rational rose 7"
         ]
     },
-    "253": {
-        "key": "bán hàng",
-        "value": [
+    "204": {
+        "bán hàng": [
             "bán hàng",
             "hỗ trợ cho công tác bán hàng",
             "tư vấn bán hàng",
@@ -2983,25 +2776,22 @@
             "bán hàng chuyên nghiệp"
         ]
     },
-    "254": {
-        "key": "big data",
-        "value": [
+    "205": {
+        "big data": [
             "bigdata",
             "big data",
             "xử lý big data",
             "xử lý dữ liệu lớn"
         ]
     },
-    "255": {
-        "key": "blockchain",
-        "value": [
+    "206": {
+        "blockchain": [
             "blockchain",
             "công nghệ blockchain"
         ]
     },
-    "256": {
-        "key": "apache hadoop",
-        "value": [
+    "207": {
+        "apache hadoop": [
             "hadoop",
             "hdfs",
             "apache common",
@@ -3010,18 +2800,16 @@
             "apche"
         ]
     },
-    "257": {
-        "key": "oracle forms",
-        "value": [
+    "208": {
+        "oracle forms": [
             "oracle form",
             "oracle forms & reports",
             "lập trình oracle form",
             "oracle forms"
         ]
     },
-    "258": {
-        "key": "vmware esxi",
-        "value": [
+    "209": {
+        "vmware esxi": [
             "vmware esxi",
             "esxi",
             "esx",
@@ -3041,18 +2829,16 @@
             "esxi 6.5"
         ]
     },
-    "260": {
-        "key": "ruby on rails",
-        "value": [
+    "210": {
+        "ruby on rails": [
             "ruby on rails",
             "framework ruby",
             "ruby & rails",
             "framework ruby on rails"
         ]
     },
-    "261": {
-        "key": "công nghệ thông tin",
-        "value": [
+    "211": {
+        "công nghệ thông tin": [
             "công nghệ thông tin",
             "công nghệ thồng tin",
             "công nghê thông tin",
@@ -3060,9 +2846,8 @@
             "it."
         ]
     },
-    "262": {
-        "key": "viết tài liệu",
-        "value": [
+    "212": {
+        "viết tài liệu": [
             "viết tài liệu",
             "trình bày tài liệu",
             "viết tài liệu hướng dẫn sử dụng",
@@ -3080,26 +2865,23 @@
             "làm các báo cáo"
         ]
     },
-    "263": {
-        "key": "macos",
-        "value": [
+    "213": {
+        "macos": [
             "macos",
             "mac os",
             "mac os.",
             "max os"
         ]
     },
-    "264": {
-        "key": "liferay",
-        "value": [
+    "214": {
+        "liferay": [
             "liferay",
             "liferay portal",
             "liferay portal server"
         ]
     },
-    "265": {
-        "key": "google ads",
-        "value": [
+    "215": {
+        "google ads": [
             "google ads",
             "google adwords",
             "adwords",
@@ -3113,24 +2895,21 @@
             "quảng cáo google adwords"
         ]
     },
-    "266": {
-        "key": "phpstorm",
-        "value": [
+    "216": {
+        "phpstorm": [
             "phpstorm",
             "php storm 5.0",
             "php storm"
         ]
     },
-    "267": {
-        "key": "prtg network monitor",
-        "value": [
+    "217": {
+        "prtg network monitor": [
             "prtg",
             "prtg."
         ]
     },
-    "268": {
-        "key": "machine learning",
-        "value": [
+    "218": {
+        "machine learning": [
             "machine learning",
             "machine learning big",
             "học máy",
@@ -3138,34 +2917,30 @@
             "máy học"
         ]
     },
-    "270": {
-        "key": "cocos (keeling) islands",
-        "value": [
+    "219": {
+        "cocos (keeling) islands": [
             "cocos2dx",
             "cocos 2dx",
             "cocos"
         ]
     },
-    "271": {
-        "key": "draytek",
-        "value": [
+    "220": {
+        "draytek": [
             "draytek",
             "draytek 2925",
             "draytek 3900"
         ]
     },
-    "272": {
-        "key": "xcode",
-        "value": [
+    "221": {
+        "xcode": [
             "xcode",
             "ios xcode",
             "xcode objective",
             "xcode8"
         ]
     },
-    "273": {
-        "key": "enterprise resource planning",
-        "value": [
+    "222": {
+        "enterprise resource planning": [
             "erp.",
             "erp profit",
             "erp system",
@@ -3184,9 +2959,8 @@
             "tư vấn triển khai phần mềm erp."
         ]
     },
-    "274": {
-        "key": "active directory",
-        "value": [
+    "223": {
+        "active directory": [
             "active directory",
             "active directory ,",
             "azure active directory",
@@ -3194,23 +2968,20 @@
             "active directory domain services"
         ]
     },
-    "275": {
-        "key": "design",
-        "value": [
+    "224": {
+        "design": [
             "design",
             "designing"
         ]
     },
-    "276": {
-        "key": "đào tạo",
-        "value": [
+    "225": {
+        "đào tạo": [
             "đào tạo",
             "khả năng đào tạo"
         ]
     },
-    "278": {
-        "key": "marketing",
-        "value": [
+    "226": {
+        "marketing": [
             "marketing",
             "marketing truyền thống",
             "remarketing",
@@ -3225,9 +2996,8 @@
             "tools marketing"
         ]
     },
-    "279": {
-        "key": "thiết kế web",
-        "value": [
+    "227": {
+        "thiết kế web": [
             "thiết kế website",
             "thiết kế web",
             "thiết kế giao diện web",
@@ -3239,49 +3009,43 @@
             "design web"
         ]
     },
-    "280": {
-        "key": "intellij idea",
-        "value": [
+    "228": {
+        "intellij idea": [
             "intellij",
             "intellij idea"
         ]
     },
-    "281": {
-        "key": "arcgis",
-        "value": [
+    "229": {
+        "arcgis": [
             "arcgis",
             "arcgis 10",
             "arcgis engine",
             "arcgis desktop"
         ]
     },
-    "283": {
-        "key": "virtual lan",
-        "value": [
+    "230": {
+        "virtual lan": [
             "vlan",
             "cổng vlan",
             "vlans"
         ]
     },
-    "284": {
-        "key": "srs",
-        "value": [
+    "231": {
+        "srs": [
             "srs",
             "srs."
         ]
     },
-    "285": {
-        "key": "vcenter",
-        "value": [
+    "232": {
+        "vcenter": [
             "vcenter",
             "vcenter 5.5",
             "vcenter 6.0",
             "vcenter 6.5"
         ]
     },
-    "286": {
-        "key": "angular (web framework)",
-        "value": [
+    "233": {
+        "angular (web framework)": [
             "angular 2",
             "angular 4",
             "angular 6",
@@ -3303,25 +3067,22 @@
             "angular 2x , 4x"
         ]
     },
-    "287": {
-        "key": "oracle enterprise resource planning cloud",
-        "value": [
+    "234": {
+        "oracle enterprise resource planning cloud": [
             "oracle erp",
             "erp oracle",
             "erp - oracle",
             "oracle erp 12.2.5"
         ]
     },
-    "289": {
-        "key": "shopify",
-        "value": [
+    "235": {
+        "shopify": [
             "shopify",
             "partner shopify"
         ]
     },
-    "290": {
-        "key": "apache tomcat",
-        "value": [
+    "236": {
+        "apache tomcat": [
             "apache tomcat",
             "tomcat server",
             "tomcat 8",
@@ -3337,16 +3098,14 @@
             "tomcat v8"
         ]
     },
-    "291": {
-        "key": "memcached",
-        "value": [
+    "237": {
+        "memcached": [
             "memcached",
             "memcache"
         ]
     },
-    "292": {
-        "key": "adobe premiere pro",
-        "value": [
+    "238": {
+        "adobe premiere pro": [
             "adobe premiere",
             "adobe premiere pro",
             "adobe premier",
@@ -3354,33 +3113,29 @@
             "premiere cc2015"
         ]
     },
-    "293": {
-        "key": "maven",
-        "value": [
+    "239": {
+        "maven": [
             "maven",
             "mavên"
         ]
     },
-    "295": {
-        "key": "software bug",
-        "value": [
+    "240": {
+        "software bug": [
             "log bug",
             "fix bug",
             "test bugs"
         ]
     },
-    "296": {
-        "key": "telerik",
-        "value": [
+    "241": {
+        "telerik": [
             "telerik",
             "telerik component",
             "telerik ui",
             "telerik control"
         ]
     },
-    "297": {
-        "key": "drupal",
-        "value": [
+    "242": {
+        "drupal": [
             "drupal",
             "drupal 8",
             "drupal 7",
@@ -3389,9 +3144,8 @@
             "cms drupal 8"
         ]
     },
-    "299": {
-        "key": "language integrated query",
-        "value": [
+    "243": {
+        "language integrated query": [
             "linq to sql",
             "linq to sql.",
             "linq",
@@ -3401,70 +3155,61 @@
             "linq part"
         ]
     },
-    "300": {
-        "key": "gmx mail",
-        "value": [
+    "244": {
+        "gmx mail": [
             "mail exchange",
             "mail exchange 2010"
         ]
     },
-    "302": {
-        "key": "java platform, micro edition",
-        "value": [
+    "245": {
+        "java platform, micro edition": [
             "j2me",
             "java j2me"
         ]
     },
-    "303": {
-        "key": "tiếng trung quốc",
-        "value": [
+    "246": {
+        "tiếng trung quốc": [
             "tiếng trung",
             "tiếng trung quốc",
             "tiếng hoa",
             "tiếng trung v"
         ]
     },
-    "304": {
-        "key": "hp",
-        "value": [
+    "247": {
+        "hp": [
             "hp",
             "hp."
         ]
     },
-    "305": {
-        "key": "android software development",
-        "value": [
+    "248": {
+        "android software development": [
             "android sdk",
             "android sdk.",
             "android ndk",
             "android native"
         ]
     },
-    "306": {
-        "key": "ibm websphere",
-        "value": [
+    "249": {
+        "ibm websphere": [
             "ibm websphere",
             "websphere",
             "ibm websphere portal"
         ]
     },
-    "308": {
-        "key": "flutter (software)",
-        "value": [
+    "250": {
+        "flutter (software)": [
             "flutter",
             "framework flutter"
         ]
     },
-    "309": {
-        "key": "plc",
-        "value": [
+    "251": {
+        "plc": [
             "plc",
             "plc."
         ]
     },
-    "310": {
-        "key": "ci",
-        "value": [
+    "252": {
+        "ci": [
             "ci",
             "ci framework",
             "frameworks ci",
@@ -3472,9 +3217,8 @@
             "framework ci"
         ]
     },
-    "311": {
-        "key": "express.js",
-        "value": [
+    "253": {
+        "express.js": [
             "expressjs",
             "express .js",
             "express js",
@@ -3482,9 +3226,8 @@
             "express framework"
         ]
     },
-    "312": {
-        "key": "phân tích yêu cầu",
-        "value": [
+    "254": {
+        "phân tích yêu cầu": [
             "phân tích yêu cầu",
             "đặc tả yêu cầu",
             "phân tích yêu cầu người dùng",
@@ -3497,25 +3240,22 @@
             "tìm hiểu phân tích yêu cầu"
         ]
     },
-    "313": {
-        "key": "xamarin",
-        "value": [
+    "255": {
+        "xamarin": [
             "xamarin",
             "xamarin forms",
             "android xamarin"
         ]
     },
-    "314": {
-        "key": "photodex",
-        "value": [
+    "256": {
+        "photodex": [
             "proshow producer",
             "proshow",
             "proshow gold"
         ]
     },
-    "315": {
-        "key": "oracle rac",
-        "value": [
+    "257": {
+        "oracle rac": [
             "oracle rac",
             "oracle 10g rac",
             "real application cluster",
@@ -3523,23 +3263,20 @@
             "oracle cluster"
         ]
     },
-    "316": {
-        "key": "acceptance testing",
-        "value": [
+    "258": {
+        "acceptance testing": [
             "acceptance test",
             "acceptance testing"
         ]
     },
-    "317": {
-        "key": "system testing",
-        "value": [
+    "259": {
+        "system testing": [
             "system test",
             "system testing"
         ]
     },
-    "318": {
-        "key": "fortinet",
-        "value": [
+    "260": {
+        "fortinet": [
             "fortinet",
             "fortigate",
             "fortinet gate",
@@ -3549,9 +3286,8 @@
             "fortinet firewall"
         ]
     },
-    "321": {
-        "key": "asp.net core",
-        "value": [
+    "261": {
+        "asp.net core": [
             "asp .net core",
             "asp. net core",
             "asp .net core web",
@@ -3559,23 +3295,20 @@
             "asp .net core 2.1"
         ]
     },
-    "323": {
-        "key": "jquery mobile",
-        "value": [
+    "262": {
+        "jquery mobile": [
             "jquery mobile",
             "jquery mobile my"
         ]
     },
-    "324": {
-        "key": "huấn luyện",
-        "value": [
+    "263": {
+        "huấn luyện": [
             "huấn luyện",
             "huấn luyện ,"
         ]
     },
-    "325": {
-        "key": "tư duy",
-        "value": [
+    "264": {
+        "tư duy": [
             "tư duy",
             "tư duy lập trình",
             "tư duy tích cực",
@@ -3587,9 +3320,8 @@
             "khả năng tư duy"
         ]
     },
-    "326": {
-        "key": "adobe illustrator",
-        "value": [
+    "265": {
+        "adobe illustrator": [
             "adobe illustrator",
             "illustrator design",
             "adobe illustrator internet",
@@ -3597,49 +3329,43 @@
             "adobe illustrator cs5"
         ]
     },
-    "327": {
-        "key": "triển khai phần mềm",
-        "value": [
+    "266": {
+        "triển khai phần mềm": [
             "triển khai hệ thống",
             "triển khai phần mềm",
             "triễn khai phần mềm",
             "triển khai cài đặt"
         ]
     },
-    "328": {
-        "key": "microservices",
-        "value": [
+    "267": {
+        "microservices": [
             "microservice",
             "microservices",
             "kiến trúc microservices",
             "thiết kế microservice"
         ]
     },
-    "329": {
-        "key": "mockup",
-        "value": [
+    "268": {
+        "mockup": [
             "mockup",
             "mock up"
         ]
     },
-    "330": {
-        "key": "proxy server",
-        "value": [
+    "269": {
+        "proxy server": [
             "proxy",
             "web proxy",
             "caching proxy"
         ]
     },
-    "331": {
-        "key": "adobe indesign",
-        "value": [
+    "270": {
+        "adobe indesign": [
             "indesign",
             "adobe indesign"
         ]
     },
-    "332": {
-        "key": "kế toán",
-        "value": [
+    "271": {
+        "kế toán": [
             "kế toán tài chính",
             "kế toán",
             "hệ thống tài chính kế toán",
@@ -3651,18 +3377,16 @@
             "kế toán erp"
         ]
     },
-    "333": {
-        "key": "mạng cục bộ",
-        "value": [
+    "272": {
+        "mạng cục bộ": [
             "mạng lan",
             "triển khai hệ thống mạng lan",
             "lan",
             "lan."
         ]
     },
-    "334": {
-        "key": "microsoft power bi",
-        "value": [
+    "273": {
+        "microsoft power bi": [
             "power bi",
             "powerbi",
             "power bi reports",
@@ -3673,41 +3397,36 @@
             "bi."
         ]
     },
-    "336": {
-        "key": "adobe after effects",
-        "value": [
+    "274": {
+        "adobe after effects": [
             "adobe after effect",
             "after effect",
             "adobe after"
         ]
     },
-    "337": {
-        "key": "qt (software)",
-        "value": [
+    "275": {
+        "qt (software)": [
             "qt framework",
             "qt creater",
             "c / qt"
         ]
     },
-    "338": {
-        "key": "raid",
-        "value": [
+    "276": {
+        "raid": [
             "raid",
             "hệ thống raid",
             "tạo raid"
         ]
     },
-    "339": {
-        "key": "socket.io",
-        "value": [
+    "277": {
+        "socket.io": [
             "socket .io",
             "socket io",
             "socketio"
         ]
     },
-    "340": {
-        "key": "oracle bi publisher",
-        "value": [
+    "278": {
+        "oracle bi publisher": [
             "bi publisher",
             "oracle bi publisher",
             "oracle report builder",
@@ -3717,30 +3436,26 @@
             "bi publisher oracle"
         ]
     },
-    "342": {
-        "key": "transport layer security",
-        "value": [
+    "279": {
+        "transport layer security": [
             "ssl",
             "ssl."
         ]
     },
-    "343": {
-        "key": "firefox",
-        "value": [
+    "280": {
+        "firefox": [
             "firefox",
             ", firefox"
         ]
     },
-    "344": {
-        "key": "report",
-        "value": [
+    "281": {
+        "report": [
             "report",
             "reports"
         ]
     },
-    "345": {
-        "key": "test case",
-        "value": [
+    "282": {
+        "test case": [
             "test case",
             "testcase",
             "test cases",
@@ -3751,35 +3466,31 @@
             "thực thi test case"
         ]
     },
-    "346": {
-        "key": "phân tích nghiệp vụ",
-        "value": [
+    "283": {
+        "phân tích nghiệp vụ": [
             "phân tích nghiệp vụ",
             "khảo sát",
             "khảo sát nghiệp vụ"
         ]
     },
-    "347": {
-        "key": "wi-fi",
-        "value": [
+    "284": {
+        "wi-fi": [
             "wifi",
             "modem wifi",
             "hệ thống wifi",
             "wifi internet"
         ]
     },
-    "348": {
-        "key": "hệ thống thông tin",
-        "value": [
+    "285": {
+        "hệ thống thông tin": [
             "cấu hình hệ thống mạng",
             "cấu hình cho hệ thống",
             "cung cấp hệ thống",
             "hệ thống mạng nội bộ"
         ]
     },
-    "349": {
-        "key": "thiết kế đồ họa",
-        "value": [
+    "286": {
+        "thiết kế đồ họa": [
             "thiết kế đồ họa",
             "thiết kế hình ảnh",
             "thiết kế đồ hoạ",
@@ -3790,16 +3501,14 @@
             "sử dụng các chương trình đồ họa"
         ]
     },
-    "350": {
-        "key": "bpm",
-        "value": [
+    "287": {
+        "bpm": [
             "bpm",
             "bpm."
         ]
     },
-    "353": {
-        "key": "oracle weblogic server",
-        "value": [
+    "288": {
+        "oracle weblogic server": [
             "weblogic",
             "oracle weblogic",
             "weblogic portal",
@@ -3807,40 +3516,35 @@
             "weblogic server"
         ]
     },
-    "355": {
-        "key": "integration testing",
-        "value": [
+    "289": {
+        "integration testing": [
             "integration test",
             "integration testing"
         ]
     },
-    "356": {
-        "key": "lightweight directory access protocol",
-        "value": [
+    "290": {
+        "lightweight directory access protocol": [
             "ldap",
             "ldap server",
             "ldaps"
         ]
     },
-    "357": {
-        "key": "oracle solaris",
-        "value": [
+    "291": {
+        "oracle solaris": [
             "solaris",
             "sun solaris",
             "oracle solaris",
             "sun solaris server"
         ]
     },
-    "358": {
-        "key": "pos",
-        "value": [
+    "292": {
+        "pos": [
             "pos",
             "pos."
         ]
     },
-    "360": {
-        "key": "c #",
-        "value": [
+    "293": {
+        "c #": [
             "c sharp",
             "csharp",
             "ngôn ngữ c #",
@@ -3848,56 +3552,49 @@
             "c # language"
         ]
     },
-    "361": {
-        "key": "solidworks",
-        "value": [
+    "294": {
+        "solidworks": [
             "solidworks",
             "solidwork"
         ]
     },
-    "362": {
-        "key": "figma (software)",
-        "value": [
+    "295": {
+        "figma (software)": [
             "figma",
             "figma balsamiq"
         ]
     },
-    "363": {
-        "key": "strust",
-        "value": [
+    "296": {
+        "strust": [
             "strust",
             "strust1",
             "strust2",
             "strust 2"
         ]
     },
-    "364": {
-        "key": "domain controller",
-        "value": [
+    "297": {
+        "domain controller": [
             "domain controller",
             "microsoft domain controller"
         ]
     },
-    "365": {
-        "key": "dms",
-        "value": [
+    "298": {
+        "dms": [
             "dms",
             "dms system",
             "dms."
         ]
     },
-    "366": {
-        "key": "web application",
-        "value": [
+    "299": {
+        "web application": [
             "web application",
             "web applications",
             "web app",
             "web base"
         ]
     },
-    "367": {
-        "key": "ios",
-        "value": [
+    "300": {
+        "ios": [
             "ios.",
             "lập trình ios",
             "native ios",
@@ -3906,16 +3603,14 @@
             "lập trình viên ios"
         ]
     },
-    "369": {
-        "key": "ip",
-        "value": [
+    "301": {
+        "ip": [
             "ip",
             "ip."
         ]
     },
-    "371": {
-        "key": "ext js",
-        "value": [
+    "302": {
+        "ext js": [
             "extjs",
             "ext .net",
             "sencha extjs",
@@ -3928,31 +3623,27 @@
             "ext component"
         ]
     },
-    "372": {
-        "key": "powerbuilder",
-        "value": [
+    "303": {
+        "powerbuilder": [
             "powerbuilder",
             "power builder"
         ]
     },
-    "373": {
-        "key": "hypertext transfer protocol",
-        "value": [
+    "304": {
+        "hypertext transfer protocol": [
             "http",
             "http ,",
             "http / s"
         ]
     },
-    "374": {
-        "key": "visualsvn",
-        "value": [
+    "305": {
+        "visualsvn": [
             "visual svn",
             "visual svn."
         ]
     },
-    "375": {
-        "key": "unity (game engine)",
-        "value": [
+    "306": {
+        "unity (game engine)": [
             "unity 3d",
             "unity3d",
             "unity engine",
@@ -3962,24 +3653,21 @@
             "unity ."
         ]
     },
-    "376": {
-        "key": "facebook api",
-        "value": [
+    "307": {
+        "facebook api": [
             "facebook api",
             "api facebook",
             "api develop facebook"
         ]
     },
-    "377": {
-        "key": "openstack",
-        "value": [
+    "308": {
+        "openstack": [
             "openstack",
             "sahara open stack"
         ]
     },
-    "378": {
-        "key": "adobe creative suite",
-        "value": [
+    "309": {
+        "adobe creative suite": [
             "cs6",
             "cs5",
             "adobe flash cs6",
@@ -3988,16 +3676,14 @@
             "adobe creative suite"
         ]
     },
-    "379": {
-        "key": "apache cordova",
-        "value": [
+    "310": {
+        "apache cordova": [
             "phonegap",
             "apache cordova"
         ]
     },
-    "380": {
-        "key": "zk (framework)",
-        "value": [
+    "311": {
+        "zk (framework)": [
             "zk framework",
             "framework zk",
             "zk chart",
@@ -4008,9 +3694,8 @@
             "zk."
         ]
     },
-    "381": {
-        "key": "quản trị nhân sự",
-        "value": [
+    "312": {
+        "quản trị nhân sự": [
             "quản lý nhân sự",
             "quản trị nhân sự",
             "quản lý nhân viên",
@@ -4024,9 +3709,8 @@
             "lãnh đạo nhóm"
         ]
     },
-    "382": {
-        "key": "digital marketing",
-        "value": [
+    "313": {
+        "digital marketing": [
             "digital marketing",
             "digital marketing ,",
             "marketing digital",
@@ -4034,9 +3718,8 @@
             "premiere digital marketing"
         ]
     },
-    "383": {
-        "key": "windows phone",
-        "value": [
+    "314": {
+        "windows phone": [
             "windows phone",
             "window phone",
             "windowsphone",
@@ -4044,16 +3727,14 @@
             "windows phone bằng"
         ]
     },
-    "384": {
-        "key": "extensible application markup language",
-        "value": [
+    "315": {
+        "extensible application markup language": [
             "xaml",
             "xaml."
         ]
     },
-    "387": {
-        "key": "jakarta server pages",
-        "value": [
+    "316": {
+        "jakarta server pages": [
             "jsp servlet",
             "java jsp",
             "jsp / servlet",
@@ -4063,9 +3744,8 @@
             "servlet jsp"
         ]
     },
-    "389": {
-        "key": "jbuilder",
-        "value": [
+    "317": {
+        "jbuilder": [
             "jbuilder",
             "oracle jbuilder 2005",
             "jbuilder2008",
@@ -4073,23 +3753,20 @@
             "jbuilder2006"
         ]
     },
-    "390": {
-        "key": "service",
-        "value": [
+    "318": {
+        "service": [
             "service",
             "services"
         ]
     },
-    "391": {
-        "key": "software performance testing",
-        "value": [
+    "319": {
+        "software performance testing": [
             "performance testing",
             "test performance"
         ]
     },
-    "392": {
-        "key": "script",
-        "value": [
+    "320": {
+        "script": [
             "script",
             "scripting",
             "scripts",
@@ -4098,16 +3775,14 @@
             "shell script"
         ]
     },
-    "393": {
-        "key": "knockout (web framework)",
-        "value": [
+    "321": {
+        "knockout (web framework)": [
             "knockoutjs",
             "knockout js"
         ]
     },
-    "394": {
-        "key": "microsoft visual c++",
-        "value": [
+    "322": {
+        "microsoft visual c++": [
             "visual c",
             "visual 2017 c #",
             "visual c #",
@@ -4116,9 +3791,8 @@
             "visual 2013 c #"
         ]
     },
-    "395": {
-        "key": "oracle business intelligence suite enterprise edition",
-        "value": [
+    "323": {
+        "oracle business intelligence suite enterprise edition": [
             "obiee",
             "oracle obiee",
             "oracle business intelligence suite enterprise edition",
@@ -4126,18 +3800,16 @@
             "intelligence suite enterprise edition"
         ]
     },
-    "396": {
-        "key": "cpanel",
-        "value": [
+    "324": {
+        "cpanel": [
             "cpanel",
             "cpanel whm",
             "cpanel hosting",
             "control panel cpanel whm"
         ]
     },
-    "397": {
-        "key": "thuật toán",
-        "value": [
+    "325": {
+        "thuật toán": [
             "thuật toán",
             "giải thuật",
             "thiết kế thuật toán",
@@ -4147,32 +3819,28 @@
             "data structure and algorithm"
         ]
     },
-    "400": {
-        "key": "debugging",
-        "value": [
+    "326": {
+        "debugging": [
             "debug",
             "debugging code"
         ]
     },
-    "401": {
-        "key": "dev-c++",
-        "value": [
+    "327": {
+        "dev-c++": [
             "devc",
             "dev c",
             "dev - c"
         ]
     },
-    "402": {
-        "key": "thương mại điện tử",
-        "value": [
+    "328": {
+        "thương mại điện tử": [
             "thương mại điện tử",
             "mô hình thương mại điện tử",
             "kinh doanh tmđt."
         ]
     },
-    "403": {
-        "key": "apache struts 1",
-        "value": [
+    "329": {
+        "apache struts 1": [
             "struts1",
             "struts 1",
             "struts 1 x",
@@ -4181,76 +3849,66 @@
             "strut1"
         ]
     },
-    "1000": {
-        "key": "struts framework",
-        "value": [
+    "330": {
+        "struts framework": [
             "struts framework",
             "struts frameworks",
             "framework struts"
         ]
     },
-    "404": {
-        "key": "junit",
-        "value": [
+    "331": {
+        "junit": [
             "junit",
             "unit test java"
         ]
     },
-    "405": {
-        "key": "animation",
-        "value": [
+    "332": {
+        "animation": [
             "animation",
             "animate"
         ]
     },
-    "406": {
-        "key": "qml",
-        "value": [
+    "333": {
+        "qml": [
             "qml",
             "qml framework"
         ]
     },
-    "407": {
-        "key": "load balancing (computing)",
-        "value": [
+    "334": {
+        "load balancing (computing)": [
             "load balancing",
             "load balancer",
             "load balance"
         ]
     },
-    "408": {
-        "key": "hyper-v",
-        "value": [
+    "335": {
+        "hyper-v": [
             "hyper v",
             "microsoft hyper v",
             "hyperv"
         ]
     },
-    "409": {
-        "key": "navicat",
-        "value": [
+    "336": {
+        "navicat": [
             "navicat",
             "sql navicat"
         ]
     },
-    "412": {
-        "key": "oracle application development framework",
-        "value": [
+    "337": {
+        "oracle application development framework": [
             "oracle adf",
             "oracle adf.",
             "adf oracle framework"
         ]
     },
-    "413": {
-        "key": "sketchup",
-        "value": [
+    "338": {
+        "sketchup": [
             "sketchup",
             "sketch up"
         ]
     },
-    "415": { 
-        "key": "oracle development",
-        "value": [
+    "339": {
+        "oracle development": [
             "oracle server",
             "server oracle",
             "sử dụng oracle",
@@ -4261,9 +3919,8 @@
             "phát triển sử dụng oracle"
         ]
     },
-    "417": {
-        "key": "information security architects",
-        "value": [
+    "340": {
+        "information security architects": [
             "isa security",
             "isa 2006",
             "isa server",
@@ -4273,9 +3930,8 @@
             "isa2006"
         ]
     },
-    "418": {
-        "key": "microsoft visual sourcesafe",
-        "value": [
+    "341": {
+        "microsoft visual sourcesafe": [
             "source safe",
             "visual source safe",
             "visual sourcesafe",
@@ -4285,18 +3941,16 @@
             "visual sourcesafe 2005"
         ]
     },
-    "420": {
-        "key": "packet tracer",
-        "value": [
+    "342": {
+        "packet tracer": [
             "packet tracer",
             "phần mềm cisco packet tracer",
             "cisco packet tracer",
             "cisco packet"
         ]
     },
-    "421": {
-        "key": "windows service",
-        "value": [
+    "343": {
+        "windows service": [
             "windows service",
             "window service",
             "window services",
@@ -4304,18 +3958,16 @@
             "windows services"
         ]
     },
-    "422": {
-        "key": "camtasia",
-        "value": [
+    "344": {
+        "camtasia": [
             "camtasia",
             "camtasia studio",
             "camtasia 2018",
             "camtasia studio 9"
         ]
     },
-    "423": {
-        "key": "bash (unix shell)",
-        "value": [
+    "345": {
+        "bash (unix shell)": [
             "bash shell",
             "git bash",
             "bash script linux",
@@ -4325,9 +3977,8 @@
             "lập trình bash shell"
         ]
     },
-    "425": {
-        "key": "quản trị hệ thống",
-        "value": [
+    "346": {
+        "quản trị hệ thống": [
             "quản trị các hệ thống",
             "quản trị hệ thống cntt",
             "quản trị hệ thống",
@@ -4340,48 +3991,42 @@
             "quản l hệ thống"
         ]
     },
-    "426": {
-        "key": "jquery ui",
-        "value": [
+    "347": {
+        "jquery ui": [
             "jquery ui",
             "jqueryui",
             "jquery ui.",
             "datepicker"
         ]
     },
-    "429": {
-        "key": "woocommerce",
-        "value": [
+    "348": {
+        "woocommerce": [
             "woocommerce",
             "wordpress woocommerce"
         ]
     },
-    "430": {
-        "key": "opengl",
-        "value": [
+    "349": {
+        "opengl": [
             "opengl",
             "open gl"
         ]
     },
-    "431": {
-        "key": "verilog",
-        "value": [
+    "350": {
+        "verilog": [
             "verilog",
             "c / c verilog"
         ]
     },
-    "432": {
-        "key": "tài chính",
-        "value": [
+    "351": {
+        "tài chính": [
             "tài chính",
             "hệ thông tài chính",
             "financial",
             "finance"
         ]
     },
-    "434": {
-        "key": "google apis",
-        "value": [
+    "352": {
+        "google apis": [
             "google api",
             "google api.",
             "api google",
@@ -4389,17 +4034,15 @@
             "google api & development"
         ]
     },
-    "435": {
-        "key": "ionic (mobile app framework)",
-        "value": [
+    "353": {
+        "ionic (mobile app framework)": [
             "ionic framework",
             "ionic 2",
             "ionic react"
         ]
     },
-    "436": {
-        "key": "international english language testing system",
-        "value": [
+    "354": {
+        "international english language testing system": [
             "ielts",
             "ielts 5.5",
             "ielts : 5.5 / 9.0",
@@ -4409,26 +4052,23 @@
             "ielts 6.5"
         ]
     },
-    "437": {
-        "key": "primefaces",
-        "value": [
+    "355": {
+        "primefaces": [
             "primefaces",
             "primeface",
             "jsf primefaces",
             "prime faces"
         ]
     },
-    "438": {
-        "key": "list of sap products",
-        "value": [
+    "356": {
+        "list of sap products": [
             "sap bi",
             "bi sap",
             "sap bi web intelligence"
         ]
     },
-    "440": {
-        "key": "lập trình ứng dụng",
-        "value": [
+    "357": {
+        "lập trình ứng dụng": [
             "lập trình ứng dụng",
             "tự lập trình ứng dụng",
             "ứng dụng lập trình",
@@ -4437,18 +4077,16 @@
             "viết ứng dụng"
         ]
     },
-    "441": {
-        "key": "microsoft outlook",
-        "value": [
+    "358": {
+        "microsoft outlook": [
             "ms outlook",
             "ms. outlook",
             "outlook microsoft",
             "microsoft outlook"
         ]
     },
-    "442": {
-        "key": "django (web framework)",
-        "value": [
+    "359": {
+        "django (web framework)": [
             "django framework",
             "django full stack",
             "python django",
@@ -4456,56 +4094,49 @@
             "django python"
         ]
     },
-    "443": {
-        "key": "capability maturity model integration",
-        "value": [
+    "360": {
+        "capability maturity model integration": [
             "cmmi",
             "cmmi 3",
             "cmmi level 3"
         ]
     },
-    "444": {
-        "key": "jasperreports",
-        "value": [
+    "361": {
+        "jasperreports": [
             "jasper report",
             "tibco jaspersoft studio",
             "jaspersoft server",
             "jaspersoft studio"
         ]
     },
-    "445": {
-        "key": "dfs",
-        "value": [
+    "362": {
+        "dfs": [
             "dfs",
             "dfs."
         ]
     },
-    "446": {
-        "key": "e-commerce",
-        "value": [
+    "363": {
+        "e-commerce": [
             "ecommerce",
             "e-commerce",
             "ecommerce web",
             "e commerce"
         ]
     },
-    "447": {
-        "key": "postfix (software)",
-        "value": [
+    "364": {
+        "postfix (software)": [
             "postfix",
             "mail server postfix"
         ]
     },
-    "448": {
-        "key": "soapui",
-        "value": [
+    "365": {
+        "soapui": [
             "soapui",
             "soap ui"
         ]
     },
-    "449": {
-        "key": "google search console",
-        "value": [
+    "366": {
+        "google search console": [
             "google webmaster tools",
             "google webmaster tool",
             "google webmaster",
@@ -4518,40 +4149,35 @@
             "google search"
         ]
     },
-    "452": {
-        "key": "computer-aided design",
-        "value": [
+    "367": {
+        "computer-aided design": [
             "cad",
             "cad 2d",
             "cad."
         ]
     },
-    "453": {
-        "key": "pmf",
-        "value": [
+    "368": {
+        "pmf": [
             "pmf",
             "pmf japanese"
         ]
     },
-    "454": {
-        "key": "powerdesigner",
-        "value": [
+    "369": {
+        "powerdesigner": [
             "powerdesigner",
             "power designer",
             "power designer etl"
         ]
     },
-    "455": {
-        "key": "itil",
-        "value": [
+    "370": {
+        "itil": [
             "itil",
             "itil.",
             "itil foundation"
         ]
     },
-    "456": {
-        "key": "hibernate (framework)",
-        "value": [
+    "371": {
+        "hibernate (framework)": [
             "hibernate framework",
             "java spring hibernate",
             "java hibernate",
@@ -4561,32 +4187,28 @@
             "hibernate 3"
         ]
     },
-    "457": {
-        "key": "prestashop",
-        "value": [
+    "372": {
+        "prestashop": [
             "prestashop",
             "framework prestashop"
         ]
     },
-    "459": {
-        "key": "quản trị vận hành",
-        "value": [
+    "373": {
+        "quản trị vận hành": [
             "vận hành",
             "quản lý phòng vận hành sản phẩm",
             "quản trị vận hành hệ thống"
         ]
     },
-    "460": {
-        "key": "sap business one",
-        "value": [
+    "374": {
+        "sap business one": [
             "sap business one",
             "sap b1 sdk",
             "erp sap business one"
         ]
     },
-    "461": {
-        "key": "autodesk 3ds max",
-        "value": [
+    "375": {
+        "autodesk 3ds max": [
             "3d max",
             "3dsmax",
             "3ds max",
@@ -4594,98 +4216,86 @@
             "studio max"
         ]
     },
-    "462": {
-        "key": "keil (company)",
-        "value": [
+    "376": {
+        "keil (company)": [
             "keil c",
             "keil c ,"
         ]
     },
-    "463": {
-        "key": "oracle reports",
-        "value": [
+    "377": {
+        "oracle reports": [
             "oracle report",
             "oracle reports",
             "report 6i"
         ]
     },
-    "464": {
-        "key": "directadmin",
-        "value": [
+    "378": {
+        "directadmin": [
             "directadmin",
             "cloudlinux directadmin",
             "direct admin"
         ]
     },
-    "465": {
-        "key": "oracle business activities monitoring",
-        "value": [
+    "379": {
+        "oracle business activities monitoring": [
             "oracle bpm.",
             "oracle business activities monitoring",
             "oracle bam"
         ]
     },
-    "466": {
-        "key": "symfony",
-        "value": [
+    "380": {
+        "symfony": [
             "symfony",
             "symfony2",
             "symfony 1.4",
             "symfony 2.0"
         ]
     },
-    "467": {
-        "key": "actionscript",
-        "value": [
+    "381": {
+        "actionscript": [
             "actionscript",
             "action script",
             "flash action",
             "action scripts"
         ]
     },
-    "468": {
-        "key": "pentaho",
-        "value": [
+    "382": {
+        "pentaho": [
             "pentaho hitachi",
             "pentaho",
             "pentaho report"
         ]
     },
-    "469": {
-        "key": "bing webmaster tools",
-        "value": [
+    "383": {
+        "bing webmaster tools": [
             "webmaster tool",
             "webmaster tools"
         ]
     },
-    "470": {
-        "key": "manual testing",
-        "value": [
+    "384": {
+        "manual testing": [
             "test manual",
             "manual test",
             "manual testing"
         ]
     },
-    "472": {
-        "key": "microsoft 365",
-        "value": [
+    "385": {
+        "microsoft 365": [
             "office 365",
             "microsoft office 365",
             "office365"
         ]
     },
-    "473": {
-        "key": "call centre",
-        "value": [
+    "386": {
+        "call centre": [
             "call center",
             "callcenter",
             "cloud call center",
             "ip callcenter"
         ]
     },
-    "474": {
-        "key": "xử lý lỗi",
-        "value": [
+    "387": {
+        "xử lý lỗi": [
             "xử lý lỗi",
             "xử lý lỗi nhanh",
             "xử lý các lỗi",
@@ -4696,23 +4306,20 @@
             "khắc phục , xử lý các lỗi"
         ]
     },
-    "475": {
-        "key": "lắp ráp",
-        "value": [
+    "388": {
+        "lắp ráp": [
             "lắp ráp",
             "lắp ráp gia công"
         ]
     },
-    "476": {
-        "key": "qr code",
-        "value": [
+    "389": {
+        "qr code": [
             "qr code",
             "qrcode"
         ]
     },
-    "477": {
-        "key": "kendo",
-        "value": [
+    "390": {
+        "kendo": [
             "kendo",
             "framework kendo",
             "kendo ui",
@@ -4722,16 +4329,14 @@
             "kendo grid"
         ]
     },
-    "480": {
-        "key": "testtrack",
-        "value": [
+    "391": {
+        "testtrack": [
             "testtrack",
             "test track pro"
         ]
     },
-    "482": {
-        "key": "an toàn thông tin",
-        "value": [
+    "392": {
+        "an toàn thông tin": [
             "an toàn thông tin",
             "bảo mật thông tin",
             "an toàn bảo mật thông tin",
@@ -4745,92 +4350,80 @@
             "đánh giá an toàn thông tin ứng dụng web"
         ]
     },
-    "483": {
-        "key": "amazon dynamodb",
-        "value": [
+    "393": {
+        "amazon dynamodb": [
             "dynamodb",
             "aws dynamodb"
         ]
     },
-    "484": {
-        "key": "vss unity",
-        "value": [
+    "394": {
+        "vss unity": [
             "vss",
             "vss."
         ]
     },
-    "485": {
-        "key": "client–server model",
-        "value": [
+    "395": {
+        "client–server model": [
             "client / server",
             "client-server",
             "client server",
             "server client"
         ]
     },
-    "486": {
-        "key": "cisco nexus switches",
-        "value": [
+    "396": {
+        "cisco nexus switches": [
             "switch cisco",
             "switch ( cisco",
             "cisco nexus",
             "cisco nexus 3000 series"
         ]
     },
-    "487": {
-        "key": "sửa chữa máy tính",
-        "value": [
+    "397": {
+        "sửa chữa máy tính": [
             "sửa chữa máy tính",
             "sửa chữa phần cứng máy tính"
         ]
     },
-    "488": {
-        "key": "support-vector machine",
-        "value": [
+    "398": {
+        "support-vector machine": [
             "svm",
             "support vector machine",
             "kernel svm"
         ]
     },
-    "490": {
-        "key": "fiber to the x",
-        "value": [
+    "399": {
+        "fiber to the x": [
             "ftth",
             "modem ftth"
         ]
     },
-    "491": {
-        "key": "scikit-learn",
-        "value": [
+    "400": {
+        "scikit-learn": [
             "scikit learn",
             "sklearn",
             "scikit-learn"
         ]
     },
-    "493": {
-        "key": "database administrator",
-        "value": [
+    "401": {
+        "database administrator": [
             "oracle dba",
             "dba oracle"
         ]
     },
-    "494": {
-        "key": "user datagram protocol",
-        "value": [
+    "402": {
+        "user datagram protocol": [
             "udp",
             "udp."
         ]
     },
-    "495": {
-        "key": "đào tạo nhân sự",
-        "value": [
+    "403": {
+        "đào tạo nhân sự": [
             "đào tạo nhân viên mới",
             "hướng dẫn nhân sự"
         ]
     },
-    "496": {
-        "key": "microsoft exchange server",
-        "value": [
+    "404": {
+        "microsoft exchange server": [
             "exchange server",
             "exchange server 2010",
             "exchange 2013",
@@ -4845,18 +4438,16 @@
             "microsoft exchange"
         ]
     },
-    "497": {
-        "key": "azure devops server",
-        "value": [
+    "405": {
+        "azure devops server": [
             "team foundation server",
             "team foundation server 2010",
             "team foundation 2012",
             "team foundation"
         ]
     },
-    "498": {
-        "key": "application server",
-        "value": [
+    "406": {
+        "application server": [
             "application server",
             "web app pool",
             "appserver",
@@ -4864,50 +4455,44 @@
             "app server"
         ]
     },
-    "500": {
-        "key": "loadrunner",
-        "value": [
+    "407": {
+        "loadrunner": [
             "loadrunner",
             "load runner",
             "microfocus load runner"
         ]
     },
-    "501": {
-        "key": "hệ thống nhúng",
-        "value": [
+    "408": {
+        "hệ thống nhúng": [
             "lập trình nhúng",
             "nhúng",
             "hệ thống nhúng"
         ]
     },
-    "502": {
-        "key": "tortoisesvn",
-        "value": [
+    "409": {
+        "tortoisesvn": [
             "tortoisesvn",
             "tortoise svn",
             "source tortoisesvn",
             "svn tortoise"
         ]
     },
-    "503": {
-        "key": "sms",
-        "value": [
+    "410": {
+        "sms": [
             "sms",
             "sms message",
             "sms."
         ]
     },
-    "506": {
-        "key": "hcl domino",
-        "value": [
+    "411": {
+        "hcl domino": [
             "ibm domino",
             "lotus domino",
             "ibm lotus domino"
         ]
     },
-    "508": {
-        "key": "google maps",
-        "value": [
+    "412": {
+        "google maps": [
             "google map api",
             "google map",
             "google maps",
@@ -4920,9 +4505,8 @@
             "gmaps api"
         ]
     },
-    "509": {
-        "key": "sql server reporting services",
-        "value": [
+    "413": {
+        "sql server reporting services": [
             "reporting service",
             "sql report builder",
             "sql reporting service",
@@ -4932,16 +4516,14 @@
             "reporting services"
         ]
     },
-    "510": {
-        "key": "mô hình osi",
-        "value": [
+    "414": {
+        "mô hình osi": [
             "mô hình mạng",
             "mô hình osi"
         ]
     },
-    "511": {
-        "key": "businessobjects",
-        "value": [
+    "415": {
+        "businessobjects": [
             "sap businessobjects",
             "sap bo",
             "sap bo 4.0",
@@ -4949,104 +4531,90 @@
             "sap bo xi"
         ]
     },
-    "512": {
-        "key": "raml (software)",
-        "value": [
+    "416": {
+        "raml (software)": [
             "api gateway",
             "webservice restful api",
             "webservice restful"
         ]
     },
-    "514": {
-        "key": "jakarta persistence",
-        "value": [
+    "417": {
+        "jakarta persistence": [
             "java persistence",
             "jpa hibernate"
         ]
     },
-    "515": {
-        "key": "json-ld",
-        "value": [
+    "418": {
+        "json-ld": [
             "api json",
             "json api"
         ]
     },
-    "516": {
-        "key": "radio-frequency identification",
-        "value": [
+    "419": {
+        "radio-frequency identification": [
             "rfid",
             "rfid.",
             "rfid reader"
         ]
     },
-    "517": {
-        "key": "vtiger",
-        "value": [
+    "420": {
+        "vtiger": [
             "vtiger crm",
             "vtiger"
         ]
     },
-    "518": {
-        "key": "lamp (software bundle)",
-        "value": [
+    "421": {
+        "lamp (software bundle)": [
             "wamp",
             "wamp mysql"
         ]
     },
-    "520": {
-        "key": "kiểm thử hộp trắng",
-        "value": [
+    "422": {
+        "kiểm thử hộp trắng": [
             "white box testing",
             "white box",
             "kiểm thử hộp trắng"
         ]
     },
-    "521": {
-        "key": "katalon studio",
-        "value": [
+    "423": {
+        "katalon studio": [
             "katalon studio",
             "katalon",
             "tool katalon"
         ]
     },
-    "522": {
-        "key": "qgis",
-        "value": [
+    "424": {
+        "qgis": [
             "qgis",
             "công cụ qgis"
         ]
     },
-    "523": {
-        "key": "filezilla",
-        "value": [
+    "425": {
+        "filezilla": [
             "filezilla",
             "ftp filezilla"
         ]
     },
-    "525": {
-        "key": "jakarta restful web services",
-        "value": [
+    "426": {
+        "jakarta restful web services": [
             "java web services",
             "jax rs"
         ]
     },
-    "526": {
-        "key": "it service management",
-        "value": [
+    "427": {
+        "it service management": [
             "itsm",
             "itsm."
         ]
     },
-    "527": {
-        "key": "core bank",
-        "value": [
+    "428": {
+        "core bank": [
             "corebank",
             "corebanking"
         ]
     },
-    "530": {
-        "key": "selenium (software)",
-        "value": [
+    "429": {
+        "selenium (software)": [
             "selenium ide",
             "selenium webdriver",
             "selenium 2",
@@ -5058,70 +4626,61 @@
             "selenium ide ("
         ]
     },
-    "531": {
-        "key": "apache activemq",
-        "value": [
+    "430": {
+        "apache activemq": [
             "activemq",
             "active mq",
             "apache activemq"
         ]
     },
-    "533": {
-        "key": "uipath",
-        "value": [
+    "431": {
+        "uipath": [
             "uipath",
             "rpa uipath"
         ]
     },
-    "534": {
-        "key": "microstation",
-        "value": [
+    "432": {
+        "microstation": [
             "microstation",
             "microstation se"
         ]
     },
-    "535": {
-        "key": "stm32",
-        "value": [
+    "433": {
+        "stm32": [
             "stm32",
             "arduino ide stm",
             "stm32f103c8t6"
         ]
     },
-    "536": {
-        "key": "data center",
-        "value": [
+    "434": {
+        "data center": [
             "data center",
             "datacenter",
             "data room system"
         ]
     },
-    "538": {
-        "key": "open source",
-        "value": [
+    "435": {
+        "open source": [
             "open source",
             "opensource"
         ]
     },
-    "539": {
-        "key": "ibm websphere application server",
-        "value": [
+    "436": {
+        "ibm websphere application server": [
             "websphere application server",
             "web sphere application server",
             "webshere",
             "server webshere"
         ]
     },
-    "540": {
-        "key": "microsoft dynamics ax",
-        "value": [
+    "437": {
+        "microsoft dynamics ax": [
             "microsoft dynamics ax",
             "microsoft dynamic ax"
         ]
     },
-    "541": {
-        "key": "cloud computing / điện toán đám mây",
-        "value": [
+    "438": {
+        "cloud computing / điện toán đám mây": [
             "cloud computing",
             "cloud hosting",
             "điện toán đám mây",
@@ -5130,16 +4689,14 @@
             "hệ thống điện toán đám mây"
         ]
     },
-    "544": {
-        "key": "xshell",
-        "value": [
+    "439": {
+        "xshell": [
             "xshell",
             "xshell5"
         ]
     },
-    "545": {
-        "key": "kiểm thử hộp đen",
-        "value": [
+    "440": {
+        "kiểm thử hộp đen": [
             "kiểm thử hộp đen",
             "test hộp đen",
             "kiểm thử black box testing",
@@ -5147,61 +4704,53 @@
             "kỹ thuật kiểm thử hộp đen"
         ]
     },
-    "546": {
-        "key": "oracle application express",
-        "value": [
+    "441": {
+        "oracle application express": [
             "oracle apex",
             "apex oracle"
         ]
     },
-    "548": {
-        "key": "comparison of javascript-based web frameworks",
-        "value": [
+    "442": {
+        "comparison of javascript-based web frameworks": [
             "jqgrid",
             "jquery grid"
         ]
     },
-    "549": {
-        "key": "asp.net web forms",
-        "value": [
+    "443": {
+        "asp.net web forms": [
             "asp web form",
             "asp. net web forms",
             "asp. net webforms"
         ]
     },
-    "551": {
-        "key": "virtual private server",
-        "value": [
+    "444": {
+        "virtual private server": [
             "vps server",
             "cloud vps",
             "vps cloud",
             "quản lý vps"
         ]
     },
-    "552": {
-        "key": "social network",
-        "value": [
+    "445": {
+        "social network": [
             "social network",
             "social networks"
         ]
     },
-    "553": {
-        "key": "windown",
-        "value": [
+    "446": {
+        "windown": [
             "windown",
             "windown c"
         ]
     },
-    "554": {
-        "key": "xslt",
-        "value": [
+    "447": {
+        "xslt": [
             "xslt",
             "xslt."
         ]
     },
-    "555": {
-        "key": "quản trị kinh doanh",
-        "value": [
+    "448": {
+        "quản trị kinh doanh": [
             "quản trị kinh doanh",
             "quản trị hiện đại",
             "quản trị mục tiêu",
@@ -5216,9 +4765,8 @@
             "quản trị chiến lược"
         ]
     },
-    "558": {
-        "key": "microsoft certified professional",
-        "value": [
+    "449": {
+        "microsoft certified professional": [
             "mcse",
             "mcsa 2008",
             "microsoft certified systems administrator",
@@ -5231,9 +4779,8 @@
             "microsoft mcsa 2012"
         ]
     },
-    "559": {
-        "key": "vmware vsphere",
-        "value": [
+    "450": {
+        "vmware vsphere": [
             "vsphere",
             "vmware sphere",
             "vsphere 6.0",
@@ -5242,70 +4789,61 @@
             "vsphere 5.5"
         ]
     },
-    "561": {
-        "key": "kỹ thuật cơ khí",
-        "value": [
+    "451": {
+        "kỹ thuật cơ khí": [
             "cơ khí",
             "cơ khí cơ bản"
         ]
     },
-    "563": {
-        "key": "balsamiq",
-        "value": [
+    "452": {
+        "balsamiq": [
             "balsamiq",
             "balsamiq mockups",
             "balsamiq mockup"
         ]
     },
-    "564": {
-        "key": "lập trình mạng",
-        "value": [
+    "453": {
+        "lập trình mạng": [
             "lập trình mạng",
             "lập trình mạng ,"
         ]
     },
-    "565": {
-        "key": "website wireframe",
-        "value": [
+    "454": {
+        "website wireframe": [
             "wireframe",
             "wireframing"
         ]
     },
-    "566": {
-        "key": "docker (software)",
-        "value": [
+    "455": {
+        "docker (software)": [
             "docker compose",
             "docker ·",
             "dockerfile",
             "docker network"
         ]
     },
-    "568": {
-        "key": "border gateway protocol",
-        "value": [
+    "456": {
+        "border gateway protocol": [
             "bgp",
             "bgp ,"
         ]
     },
-    "570": {
-        "key": "print server",
-        "value": [
+    "457": {
+        "print server": [
             "print server",
             "printer server"
         ]
     },
-    "572": {
-        "key": "tìm hiểu công nghệ",
-        "value": [
+    "458": {
+        "tìm hiểu công nghệ": [
             "tìm hiểu công nghệ",
             "tìm hiểu các công nghệ mới",
             "học hỏi các công nghệ mới",
             "học hỏi công nghệ nhanh"
         ]
     },
-    "573": {
-        "key": "sap erp",
-        "value": [
+    "459": {
+        "sap erp": [
             "sap ecc",
             "erp sap",
             "sap ecc.",
@@ -5316,24 +4854,21 @@
             "sap ecc 6.0"
         ]
     },
-    "575": {
-        "key": "google play",
-        "value": [
+    "460": {
+        "google play": [
             "google play",
             "google play development"
         ]
     },
-    "576": {
-        "key": "birt project",
-        "value": [
+    "461": {
+        "birt project": [
             "birt report",
             "eclipse birt",
             "eclipse report"
         ]
     },
-    "577": {
-        "key": "đọc hiểu yêu cầu",
-        "value": [
+    "462": {
+        "đọc hiểu yêu cầu": [
             "tìm hiểu yêu cầu",
             "đọc hiểu requirement",
             "đọc hiểu yêu cầu nghiệp vụ",
@@ -5341,112 +4876,97 @@
             "đọc hiểu yêu cầu"
         ]
     },
-    "578": {
-        "key": "linh hoạt",
-        "value": [
+    "463": {
+        "linh hoạt": [
             "linh hoạt",
             "linh hoạt cao"
         ]
     },
-    "579": {
-        "key": "quyết định",
-        "value": [
+    "464": {
+        "quyết định": [
             "ra quyết định",
             "quyết định"
         ]
     },
-    "580": {
-        "key": "online advertising",
-        "value": [
+    "465": {
+        "online advertising": [
             "marketing online",
             "website marketing",
             "marketing pr"
         ]
     },
-    "581": {
-        "key": "log4j",
-        "value": [
+    "466": {
+        "log4j": [
             "log4j",
             "log4net"
         ]
     },
-    "582": {
-        "key": "group policy",
-        "value": [
+    "467": {
+        "group policy": [
             "group policy",
             "group policy management"
         ]
     },
-    "583": {
-        "key": "kubernetes",
-        "value": [
+    "468": {
+        "kubernetes": [
             "kubernetes",
             "docker kubernetes",
             "k8s"
         ]
     },
-    "584": {
-        "key": "google sheets",
-        "value": [
+    "469": {
+        "google sheets": [
             "google sheets",
             "google sheet",
             "google spreadsheet"
         ]
     },
-    "587": {
-        "key": "outlook express",
-        "value": [
+    "470": {
+        "outlook express": [
             "outlook express",
             "mail outlook express"
         ]
     },
-    "589": {
-        "key": "facebook sdk",
-        "value": [
+    "471": {
+        "facebook sdk": [
             "facebook sdk",
             "sdk facebook"
         ]
     },
-    "591": {
-        "key": "software",
-        "value": [
+    "472": {
+        "software": [
             "software",
             "it software"
         ]
     },
-    "593": {
-        "key": "bug tracking system",
-        "value": [
+    "473": {
+        "bug tracking system": [
             "bugtracker",
             "bug tracker"
         ]
     },
-    "594": {
-        "key": "virtualbox",
-        "value": [
+    "474": {
+        "virtualbox": [
             "virtualbox",
             "oracle box",
             "oracle virtualbox"
         ]
     },
-    "595": {
-        "key": "vas",
-        "value": [
+    "475": {
+        "vas": [
             "vas",
             "vas survey"
         ]
     },
-    "596": {
-        "key": "parsing",
-        "value": [
+    "476": {
+        "parsing": [
             "parse",
             "parsing data",
             "html parser"
         ]
     },
-    "597": {
-        "key": "visual foxpro",
-        "value": [
+    "477": {
+        "visual foxpro": [
             "visual foxpro",
             "visual fox",
             "visual fox pro",
@@ -5455,23 +4975,20 @@
             "foxpro 6.0"
         ]
     },
-    "599": {
-        "key": "microsoft infopath",
-        "value": [
+    "478": {
+        "microsoft infopath": [
             "infopath",
             "infopath 2007"
         ]
     },
-    "600": {
-        "key": "adempiere",
-        "value": [
+    "479": {
+        "adempiere": [
             "adempiere erp",
             "adempiere"
         ]
     },
-    "601": {
-        "key": "thích ứng với công việc",
-        "value": [
+    "480": {
+        "thích ứng với công việc": [
             "thích ứng công việc",
             "thích ứng với công việc",
             "thích ứng với công việc cao",
@@ -5481,97 +4998,84 @@
             "thích nghi công việc cao"
         ]
     },
-    "602": {
-        "key": "oracle hyperion",
-        "value": [
+    "481": {
+        "oracle hyperion": [
             "oracle hyperion",
             "oracle hyperion planning"
         ]
     },
-    "603": {
-        "key": "javafx",
-        "value": [
+    "482": {
+        "javafx": [
             "javafx",
             "java form application java web"
         ]
     },
-    "604": {
-        "key": "toad (software)",
-        "value": [
+    "483": {
+        "toad (software)": [
             "toad for oracle",
             "toad oracle database"
         ]
     },
-    "605": {
-        "key": "phalcon (framework)",
-        "value": [
+    "484": {
+        "phalcon (framework)": [
             "phalcon framework",
             "php phalcon",
             "php phalcon framework"
         ]
     },
-    "606": {
-        "key": "ibm infosphere datastage",
-        "value": [
+    "485": {
+        "ibm infosphere datastage": [
             "ibm datastage",
             "ibm infosphere datastage",
             "infosphere datastage",
             "ibm infosphere information"
         ]
     },
-    "607": {
-        "key": "ckeditor",
-        "value": [
+    "486": {
+        "ckeditor": [
             "ckeditor5",
             "ckeditor",
             "fckeditor"
         ]
     },
-    "608": {
-        "key": "vhdl",
-        "value": [
+    "487": {
+        "vhdl": [
             "vhdl",
             ", vhdl"
         ]
     },
-    "609": {
-        "key": "timesten",
-        "value": [
+    "488": {
+        "timesten": [
             "timesten",
             "timesten in memory"
         ]
     },
-    "610": {
-        "key": "adobe xd",
-        "value": [
+    "489": {
+        "adobe xd": [
             "adobe xd",
             "adobe experience cc"
         ]
     },
-    "612": {
-        "key": "myeclipse",
-        "value": [
+    "490": {
+        "myeclipse": [
             "my eclipse",
             "myeclipse"
         ]
     },
-    "613": {
-        "key": "oracle vm server for x86",
-        "value": [
+    "491": {
+        "oracle vm server for x86": [
             "oracle vm",
             "oraclevm"
         ]
     },
-    "614": {
-        "key": "qt",
-        "value": [
+    "492": {
+        "qt": [
             "qt",
             "qt."
         ]
     },
-    "615": {
-        "key": "xây dựng hệ thống",
-        "value": [
+    "493": {
+        "xây dựng hệ thống": [
             "xây dựng triển khai",
             "xây dựng các giải pháp",
             "xây dựng các hệ thống lớn",
@@ -5582,9 +5086,8 @@
             "xây dựng một hệ thống"
         ]
     },
-    "616": {
-        "key": "adobe fireworks",
-        "value": [
+    "494": {
+        "adobe fireworks": [
             "fireworks",
             "firework cs3",
             "firework",
@@ -5592,39 +5095,34 @@
             "fireworks cs3"
         ]
     },
-    "619": {
-        "key": "spss",
-        "value": [
+    "495": {
+        "spss": [
             "spss",
             "ibm spss"
         ]
     },
-    "620": {
-        "key": "systems analysis",
-        "value": [
+    "496": {
+        "systems analysis": [
             "system analysis",
             "system analysis and design"
         ]
     },
-    "622": {
-        "key": "google cloud platform",
-        "value": [
+    "497": {
+        "google cloud platform": [
             "google cloud platform",
             "google cloud",
             "google cloud api",
             "google cloud api."
         ]
     },
-    "623": {
-        "key": "knn",
-        "value": [
+    "498": {
+        "knn": [
             "knn",
             "knn."
         ]
     },
-    "624": {
-        "key": "android",
-        "value": [
+    "499": {
+        "android": [
             "android.",
             "android app",
             "mobile android app",
@@ -5640,60 +5138,52 @@
             "app androi"
         ]
     },
-    "625": {
-        "key": "staruml",
-        "value": [
+    "500": {
+        "staruml": [
             "uml star",
             "staruml"
         ]
     },
-    "626": {
-        "key": "banner",
-        "value": [
+    "501": {
+        "banner": [
             "banner",
             "banner media",
             "design banner"
         ]
     },
-    "627": {
-        "key": "mantis bug tracker",
-        "value": [
+    "502": {
+        "mantis bug tracker": [
             "mantis bug tracker",
             "mantis bt",
             "mantis bug tracking"
         ]
     },
-    "628": {
-        "key": "cache",
-        "value": [
+    "503": {
+        "cache": [
             "caching",
             "cache"
         ]
     },
-    "629": {
-        "key": "transaction",
-        "value": [
+    "504": {
+        "transaction": [
             "transaction",
             "transactions"
         ]
     },
-    "630": {
-        "key": "videotelephony",
-        "value": [
+    "505": {
+        "videotelephony": [
             "video conference",
             "videoconference"
         ]
     },
-    "631": {
-        "key": "chỉnh sửa ảnh",
-        "value": [
+    "506": {
+        "chỉnh sửa ảnh": [
             "chỉnh sửa hình ảnh",
             "chỉnh sửa ảnh"
         ]
     },
-    "632": {
-        "key": "eclipse (software)",
-        "value": [
+    "507": {
+        "eclipse (software)": [
             "ide : eclipse",
             "java eclipse",
             "eclipse ide",
@@ -5702,16 +5192,14 @@
             "eclips"
         ]
     },
-    "633": {
-        "key": "optical mark recognition",
-        "value": [
+    "508": {
+        "optical mark recognition": [
             "omr code",
             "omr"
         ]
     },
-    "634": {
-        "key": "apache solr",
-        "value": [
+    "509": {
+        "apache solr": [
             "solr search",
             "solr",
             "apache solr",
@@ -5719,54 +5207,47 @@
             "search engine solr -elasc"
         ]
     },
-    "635": {
-        "key": "JavaServer Faces",
-        "value": [
+    "510": {
+        "JavaServer Faces": [
             "jsf framework",
             "java server face",
             "java server faces"
         ]
     },
-    "636": {
-        "key": "raspberry pi",
-        "value": [
+    "511": {
+        "raspberry pi": [
             "raspberry pi",
             "raspberry pi3"
         ]
     },
-    "637": {
-        "key": "iptables",
-        "value": [
+    "512": {
+        "iptables": [
             "iptables",
             "iptable",
             "ip table"
         ]
     },
-    "642": {
-        "key": "cypress psoc",
-        "value": [
+    "513": {
+        "cypress psoc": [
             "psoc",
             "psoc creator"
         ]
     },
-    "643": {
-        "key": "vdi",
-        "value": [
+    "514": {
+        "vdi": [
             "vdi",
             "microsoft vdi",
             "vdi."
         ]
     },
-    "645": {
-        "key": "help desk",
-        "value": [
+    "515": {
+        "help desk": [
             "helpdesk",
             "it helpdesk"
         ]
     },
-    "646": {
-        "key": "ux ui",
-        "value": [
+    "516": {
+        "ux ui": [
             "ui / ux",
             "ux / ui",
             "ui ux",
@@ -5776,61 +5257,51 @@
             "thiết kế ui / ux"
         ]
     },
-
-    "1001": {
-        "key": "ux",
-        "value": [
+    "517": {
+        "ux": [
             "ux",
             "ux."
-            
         ]
     },
-    "647": {
-        "key": "protocol buffers",
-        "value": [
+    "518": {
+        "protocol buffers": [
             "protobuf 3.0",
             "protobuf"
         ]
     },
-    "648": {
-        "key": "chữ ký số",
-        "value": [
+    "519": {
+        "chữ ký số": [
             "chữ ký số",
             "mô hình chữ ký số"
         ]
     },
-    "649": {
-        "key": "pycharm",
-        "value": [
+    "520": {
+        "pycharm": [
             "pycharm ide",
             "pycharm"
         ]
     },
-    "650": {
-        "key": "cocos2d",
-        "value": [
+    "521": {
+        "cocos2d": [
             "cocos2d x",
             "engine cocos2d"
         ]
     },
-    "651": {
-        "key": "tự động hóa",
-        "value": [
+    "522": {
+        "tự động hóa": [
             "tự động hóa",
             "điều khiển tự động hóa"
         ]
     },
-    "652": {
-        "key": "simatic",
-        "value": [
+    "523": {
+        "simatic": [
             "plc siemens",
             "plc s7 300",
             "plc s7 1200"
         ]
     },
-    "653": {
-        "key": "quản lý chất lượng",
-        "value": [
+    "524": {
+        "quản lý chất lượng": [
             "quản lý chất lượng phần mềm",
             "application security manager",
             "quản lý chất lượng cho dự án",
@@ -5839,30 +5310,26 @@
             "quản lí được chất lượng phần mềm"
         ]
     },
-    "656": {
-        "key": "ant",
-        "value": [
+    "525": {
+        "ant": [
             "ant",
             "ant design"
         ]
     },
-    "657": {
-        "key": "plone (software)",
-        "value": [
+    "526": {
+        "plone (software)": [
             "cms plone 2.5.2",
             "cms plone"
         ]
     },
-    "660": {
-        "key": "javascript mvc",
-        "value": [
+    "527": {
+        "javascript mvc": [
             "mvc. javascript",
             "javascript spring mvc"
         ]
     },
-    "664": {
-        "key": "mobile app / lập trình di động",
-        "value": [
+    "528": {
+        "mobile app / lập trình di động": [
             "app mobile",
             "native mobile apps",
             "lập trình di động",
@@ -5872,54 +5339,47 @@
             "lập trình mobile"
         ]
     },
-    "665": {
-        "key": "composer",
-        "value": [
+    "529": {
+        "composer": [
             "composer",
             "composer c"
         ]
     },
-    "668": {
-        "key": "máy ảo",
-        "value": [
+    "530": {
+        "máy ảo": [
             "ảo hóa",
             "triển khai hệ thống ảo hoá",
             "máy ảo",
             "quản lý máy ảo"
         ]
     },
-    "669": {
-        "key": "zend engine",
-        "value": [
+    "531": {
+        "zend engine": [
             "zend 1",
             "zend 2"
         ]
     },
-    "670": {
-        "key": "advanced encryption standard",
-        "value": [
+    "532": {
+        "advanced encryption standard": [
             "aes",
             "aes."
         ]
     },
-    "671": {
-        "key": "universal windows platform",
-        "value": [
+    "533": {
+        "universal windows platform": [
             "universal windows platform",
             "uwp",
             "windows platform"
         ]
     },
-    "673": {
-        "key": "arduino ide",
-        "value": [
+    "534": {
+        "arduino ide": [
             "arduino ide",
             "arduino ide."
         ]
     },
-    "674": {
-        "key": "mdaemon / list of mail server software",
-        "value": [
+    "535": {
+        "mdaemon / list of mail server software": [
             "mdaemon",
             "mail mdaemon server",
             "mail mdaemon",
@@ -5927,16 +5387,14 @@
             "mail daemon"
         ]
     },
-    "675": {
-        "key": "long short-term memory",
-        "value": [
+    "536": {
+        "long short-term memory": [
             "lstm",
             "rnn lstm"
         ]
     },
-    "677": {
-        "key": "apache http server",
-        "value": [
+    "537": {
+        "apache http server": [
             "apache2",
             "web server apache",
             "apache httpd",
@@ -5948,162 +5406,140 @@
             "apache web server"
         ]
     },
-    "678": {
-        "key": "hp-ux",
-        "value": [
+    "538": {
+        "hp-ux": [
             "hpux",
             "hpux 11"
         ]
     },
-    "681": {
-        "key": "gateway load balancing protocol",
-        "value": [
+    "539": {
+        "gateway load balancing protocol": [
             "glbp",
             "gateway load balancing protocol"
         ]
     },
-    "683": {
-        "key": "presentation",
-        "value": [
+    "540": {
+        "presentation": [
             "presentation",
             "presentations"
         ]
     },
-    "685": {
-        "key": "apache hbase",
-        "value": [
+    "541": {
+        "apache hbase": [
             "hbase",
             "hadoop hbase"
         ]
     },
-    "687": {
-        "key": "mysql cluster",
-        "value": [
+    "542": {
+        "mysql cluster": [
             "sql cluster",
             "cluster sql"
         ]
     },
-    "688": {
-        "key": "backup exec",
-        "value": [
+    "543": {
+        "backup exec": [
             "symantec backup",
             "backup exec",
             "backup netbackup"
         ]
     },
-    "691": {
-        "key": "microsoft azure",
-        "value": [
+    "544": {
+        "microsoft azure": [
             "microsoft azure",
             "microsoft azure cloud",
             "ms azure",
             "windows azure"
         ]
     },
-    "692": {
-        "key": "adobe flash",
-        "value": [
+    "545": {
+        "adobe flash": [
             "macromedia flash",
             "adobe flash"
         ]
     },
-    "693": {
-        "key": "infor",
-        "value": [
+    "546": {
+        "infor": [
             "infor syteline",
             "infor system syteline",
             "syteline"
         ]
     },
-    "694": {
-        "key": "sql server management studio",
-        "value": [
+    "547": {
+        "sql server management studio": [
             "sql server management studio",
             "microsoft sql server management studio",
             "server management studio"
         ]
     },
-    "696": {
-        "key": "kerio technologies",
-        "value": [
+    "548": {
+        "kerio technologies": [
             "firewall kerio",
             "kerio"
         ]
     },
-    "699": {
-        "key": "jdeveloper",
-        "value": [
+    "549": {
+        "jdeveloper": [
             "jdeveloper",
             "jdeveloper tool"
         ]
     },
-    "700": {
-        "key": "secure shell protocol",
-        "value": [
+    "550": {
+        "secure shell protocol": [
             "ssh",
             "ssh secure shell",
             "ssh secure client"
         ]
     },
-    "701": {
-        "key": "asynctask",
-        "value": [
+    "551": {
+        "asynctask": [
             "asynctask",
             "asynctasks"
         ]
     },
-    "702": {
-        "key": "extension",
-        "value": [
+    "552": {
+        "extension": [
             "extensions",
             "extension"
         ]
     },
-    "703": {
-        "key": "bugzilla",
-        "value": [
+    "553": {
+        "bugzilla": [
             "bugzilla",
             "bugzila"
         ]
     },
-    "705": {
-        "key": "simple network management protocol",
-        "value": [
+    "554": {
+        "simple network management protocol": [
             "snmpv3",
             "snmp"
         ]
     },
-    "706": {
-        "key": "graphical network simulator-3",
-        "value": [
+    "555": {
+        "graphical network simulator-3": [
             "gns3",
             "gns3 ,"
         ]
     },
-    "707": {
-        "key": "amazon elastic compute cloud",
-        "value": [
+    "556": {
+        "amazon elastic compute cloud": [
             "aws ec2",
             "amazon ec2"
         ]
     },
-    "709": {
-        "key": "mind map",
-        "value": [
+    "557": {
+        "mind map": [
             "mindmap",
             "mind map"
         ]
     },
-    "710": {
-        "key": "asm",
-        "value": [
+    "558": {
+        "asm": [
             "asm",
             "asm."
         ]
     },
-    "711": {
-        "key": "Google Cloud Messaging",
-        "value": [
+    "559": {
+        "Google Cloud Messaging": [
             "gcm",
             "gcm.",
             "google cloud messaging",
@@ -6111,77 +5547,67 @@
             "cloud messaging"
         ]
     },
-    "712": {
-        "key": "test of english as a foreign language",
-        "value": [
+    "560": {
+        "test of english as a foreign language": [
             "toefl ibt",
             "toefl",
             "toefl pbt"
         ]
     },
-    "713": {
-        "key": "bảo hiểm",
-        "value": [
+    "561": {
+        "bảo hiểm": [
             "bảo hiểm",
             "nghiệp vụ bảo hiểm"
         ]
     },
-    "718": {
-        "key": "vlan trunking protocol",
-        "value": [
+    "562": {
+        "vlan trunking protocol": [
             "vtp",
             "vtp server",
             "vtp client",
             "vtp domain"
         ]
     },
-    "720": {
-        "key": "metatrader 4",
-        "value": [
+    "563": {
+        "metatrader 4": [
             "mql4",
             "meta trader",
             "meta trader 4"
         ]
     },
-    "721": {
-        "key": "object-oriented analysis and design",
-        "value": [
+    "564": {
+        "object-oriented analysis and design": [
             "ooad",
             "object oriented analysis ( ooa )",
             "object oriented design ( ood )"
         ]
     },
-    "722": {
-        "key": "oracle data guard",
-        "value": [
+    "565": {
+        "oracle data guard": [
             "oracle data guard",
             "oracle dataguard"
         ]
     },
-    "724": {
-        "key": "ms-net",
-        "value": [
+    "566": {
+        "ms-net": [
             "ms. net",
             "ms .net"
         ]
     },
-    "725": {
-        "key": "spa",
-        "value": [
+    "567": {
+        "spa": [
             "spa.",
             "spa"
         ]
     },
-    "728": {
-        "key": "rtc",
-        "value": [
+    "568": {
+        "rtc": [
             "rtc",
             "rtc."
         ]
     },
-    "729": {
-        "key": "kiểm thử tự động",
-        "value": [
+    "569": {
+        "kiểm thử tự động": [
             "kiểm thử tự động",
             "quy trình kiểm thử tự động",
             "automation test",
@@ -6190,39 +5616,34 @@
             "tool automation testing"
         ]
     },
-    "730": {
-        "key": "https",
-        "value": [
+    "570": {
+        "https": [
             "https",
             "http security"
         ]
     },
-    "731": {
-        "key": "short message peer-to-peer",
-        "value": [
+    "571": {
+        "short message peer-to-peer": [
             "smpp",
             "giao thức smpp",
             "smpp ,"
         ]
     },
-    "732": {
-        "key": "kvm switch",
-        "value": [
+    "572": {
+        "kvm switch": [
             "kvm",
             "kvm switch"
         ]
     },
-    "733": {
-        "key": "xen",
-        "value": [
+    "573": {
+        "xen": [
             "xen",
             "xen- server",
             "xenserver"
         ]
     },
-    "735": {
-        "key": "phát triển sản phẩm mới",
-        "value": [
+    "574": {
+        "phát triển sản phẩm mới": [
             "phát triển sản phẩm",
             "quy trình phát triển sản phẩm",
             "phát triển các sản phẩm",
@@ -6231,112 +5652,97 @@
             "application developer"
         ]
     },
-    "736": {
-        "key": "firewall",
-        "value": [
+    "575": {
+        "firewall": [
             "firewall internet",
             "firewall mềm",
             "cấu hình hệ thống firewall"
         ]
     },
-    "737": {
-        "key": ".net remoting",
-        "value": [
+    "576": {
+        ".net remoting": [
             ".net remoting",
             "net remoting"
         ]
     },
-    "739": {
-        "key": "grails (framework)",
-        "value": [
+    "577": {
+        "grails (framework)": [
             "grails framework",
             "grails3 framework"
         ]
     },
-    "740": {
-        "key": "data binding",
-        "value": [
+    "578": {
+        "data binding": [
             "data binding",
             "databinding"
         ]
     },
-    "741": {
-        "key": "redux (javascript library)",
-        "value": [
+    "579": {
+        "redux (javascript library)": [
             "reactjs redux",
             "reduxjs",
             "react redux"
         ]
     },
-    "743": {
-        "key": "document type definition",
-        "value": [
+    "580": {
+        "document type definition": [
             "dtd",
             "dtd ,"
         ]
     },
-    "745": {
-        "key": "thống kê",
-        "value": [
+    "581": {
+        "thống kê": [
             "thống kê",
             "xác xuất thống kê"
         ]
     },
-    "746": {
-        "key": "dynamic-link library",
-        "value": [
+    "582": {
+        "dynamic-link library": [
             "dll",
             "dll."
         ]
     },
-    "747": {
-        "key": "ado",
-        "value": [
+    "583": {
+        "ado": [
             "ado.",
             "ado"
         ]
     },
-    "748": {
-        "key": "seismic retrofit",
-        "value": [
+    "584": {
+        "seismic retrofit": [
             "retrofit 2",
             "retrofit2"
         ]
     },
-    "750": {
-        "key": "alexa internet",
-        "value": [
+    "585": {
+        "alexa internet": [
             "alexa",
             "alexa com"
         ]
     },
-    "751": {
-        "key": "multitier architecture",
-        "value": [
+    "586": {
+        "multitier architecture": [
             "3 - tier",
             "mô hình 3 lớp",
             "three layer",
             "3 tier"
         ]
     },
-    "753": {
-        "key": "oauth",
-        "value": [
+    "587": {
+        "oauth": [
             "oauth2",
             "oauth api v2"
         ]
     },
-    "754": {
-        "key": "arcgis server",
-        "value": [
+    "588": {
+        "arcgis server": [
             "arcgis server",
             "arcgis server 10.1",
             "arcgisserver"
         ]
     },
-    "755": {
-        "key": "microsoft dynamics",
-        "value": [
+    "589": {
+        "microsoft dynamics": [
             "microsoft dynamic nav",
             "dynamic nav erp",
             "microsoft dynamics",
@@ -6347,44 +5753,38 @@
             "erp nav"
         ]
     },
-    "756": {
-        "key": "solarwinds",
-        "value": [
+    "590": {
+        "solarwinds": [
             "solarwinds",
             "solarwinds monitor"
         ]
     },
-    "757": {
-        "key": "blogger (service)",
-        "value": [
+    "591": {
+        "blogger (service)": [
             "blogspot",
             "technical blogger"
         ]
     },
-    "758": {
-        "key": "t24",
-        "value": [
+    "592": {
+        "t24": [
             "t24",
             "t24 ,"
         ]
     },
-    "759": {
-        "key": "graphical user interface",
-        "value": [
+    "593": {
+        "graphical user interface": [
             "gui",
             "gui styles"
         ]
     },
-    "760": {
-        "key": "highcharts",
-        "value": [
+    "594": {
+        "highcharts": [
             "highchart",
             "highcharts"
         ]
     },
-    "762": {
-        "key": "jira (software)",
-        "value": [
+    "595": {
+        "jira (software)": [
             "jira atlassian",
             "jira.",
             "jira tracking",
@@ -6392,205 +5792,177 @@
             "jira of customer"
         ]
     },
-    "765": {
-        "key": "dynamics",
-        "value": [
+    "596": {
+        "dynamics": [
             "dynamic",
             "dynamics"
         ]
     },
-    "766": {
-        "key": "an ninh mạng",
-        "value": [
+    "597": {
+        "an ninh mạng": [
             "an ninh mạng",
             "bảo mật an ninh mạng"
         ]
     },
-    "767": {
-        "key": "virtualization",
-        "value": [
+    "598": {
+        "virtualization": [
             "virtualization",
             "virtualize"
         ]
     },
-    "768": {
-        "key": "oracle exadata",
-        "value": [
+    "599": {
+        "oracle exadata": [
             "exadata.",
             "exadata"
         ]
     },
-    "770": {
-        "key": "k-means clustering",
-        "value": [
+    "600": {
+        "k-means clustering": [
             "k means clustering",
             "kmeans"
         ]
     },
-    "773": {
-        "key": "texture",
-        "value": [
+    "601": {
+        "texture": [
             "textures",
             "texture"
         ]
     },
-    "774": {
-        "key": "session initiation protocol",
-        "value": [
+    "602": {
+        "session initiation protocol": [
             "sip protocol",
             "sip server"
         ]
     },
-    "781": {
-        "key": "sql server integration services",
-        "value": [
+    "603": {
+        "sql server integration services": [
             "sql server integration services",
             "sql ms ssis"
         ]
     },
-    "782": {
-        "key": "firebase cloud messaging",
-        "value": [
+    "604": {
+        "firebase cloud messaging": [
             "firebase messaging",
             "firebase cloud messaging",
             "firebase mobile",
             "firebase notification"
         ]
     },
-    "785": {
-        "key": "kiểm soát công việc",
-        "value": [
+    "605": {
+        "kiểm soát công việc": [
             "kiểm soát tiến độ công việc",
             "kiểm soát công việc",
             "kiểm soát công tác"
         ]
     },
-    "786": {
-        "key": "veeam backup & replication",
-        "value": [
+    "606": {
+        "veeam backup & replication": [
             "server veeam backup",
             "veeam backup & replication",
             "veeam backup"
         ]
     },
-    "787": {
-        "key": "zope",
-        "value": [
+    "607": {
+        "zope": [
             "zope 2.9.6",
             "zope"
         ]
     },
-    "788": {
-        "key": "web template system",
-        "value": [
+    "608": {
+        "web template system": [
             "page template",
             "web template"
         ]
     },
-    "791": {
-        "key": "cocoapods",
-        "value": [
+    "609": {
+        "cocoapods": [
             "cocoapods",
             "cocoapod"
         ]
     },
-    "792": {
-        "key": "pjax",
-        "value": [
+    "610": {
+        "pjax": [
             "pjax",
             ", pjax"
         ]
     },
-    "796": {
-        "key": "adobe animate",
-        "value": [
+    "611": {
+        "adobe animate": [
             "adobe animate",
             "adobe flash professional"
         ]
     },
-    "797": {
-        "key": "sccm",
-        "value": [
+    "612": {
+        "sccm": [
             "sccm",
             "sccm."
         ]
     },
-    "798": {
-        "key": "network operating system",
-        "value": [
+    "613": {
+        "network operating system": [
             "network system",
             "system - network"
         ]
     },
-    "799": {
-        "key": "transmission control protocol",
-        "value": [
+    "614": {
+        "transmission control protocol": [
             "tcp /",
             "tcp client-server",
             "tcp."
         ]
     },
-    "800": {
-        "key": "web crawler",
-        "value": [
+    "615": {
+        "web crawler": [
             "crawler data",
             "crawler"
         ]
     },
-    "801": {
-        "key": "phân tích dữ liệu",
-        "value": [
+    "616": {
+        "phân tích dữ liệu": [
             "phân tích số liệu",
             "phân tích dữ liệu bằng phương pháp trực quan",
             "phân tích giá trị biên",
             "phân tích đặc tả dữ liệu"
         ]
     },
-    "802": {
-        "key": "toán học rời rạc",
-        "value": [
+    "617": {
+        "toán học rời rạc": [
             "toán rời rạc",
             "thuật toán rời rạc"
         ]
     },
-    "804": {
-        "key": "libreoffice",
-        "value": [
+    "618": {
+        "libreoffice": [
             "libre office",
             "libreoffice"
         ]
     },
-    "809": {
-        "key": "platform",
-        "value": [
+    "619": {
+        "platform": [
             "platform",
             "platforms"
         ]
     },
-    "810": {
-        "key": "drs",
-        "value": [
+    "620": {
+        "drs": [
             "drs",
             ", drs"
         ]
     },
-    "812": {
-        "key": "copywriting",
-        "value": [
+    "621": {
+        "copywriting": [
             "copywriting",
             "copywrite"
         ]
     },
-    "813": {
-        "key": "chuỗi cung ứng",
-        "value": [
+    "622": {
+        "chuỗi cung ứng": [
             "quản lý chuỗi cung ứng",
             "quản trị cung ứng"
         ]
     },
-    "814": {
-        "key": "bộ định tuyến",
-        "value": [
+    "623": {
+        "bộ định tuyến": [
             "cấu hình switch và router",
             "router",
             "p4 router",
@@ -6600,16 +5972,14 @@
             "thiết bị định tuyến"
         ]
     },
-    "815": {
-        "key": "điều hành",
-        "value": [
+    "624": {
+        "điều hành": [
             "lãnh đạo điều hành",
             "lãnh đạo điều hành nhóm"
         ]
     },
-    "819": {
-        "key": "xử lý dữ liệu",
-        "value": [
+    "625": {
+        "xử lý dữ liệu": [
             "cập nhật dữ liệu cần thiết",
             "phương pháp xử lý dữ liệu",
             "xử lý cập nhật dữ liệu",
@@ -6620,9 +5990,8 @@
             "xử lý dữ liệu"
         ]
     },
-    "820": {
-        "key": "telemarketing",
-        "value": [
+    "626": {
+        "telemarketing": [
             "telesale",
             "mobile marketing",
             "sms marketing",
@@ -6631,37 +6000,32 @@
             "điện thoại cho khách hàng"
         ]
     },
-    "822": {
-        "key": "unity (user interface)",
-        "value": [
+    "627": {
+        "unity (user interface)": [
             "unity ui",
             "unity 2d"
         ]
     },
-    "825": {
-        "key": "ibm personal computer/at",
-        "value": [
+    "628": {
+        "ibm personal computer/at": [
             "ibm rtc",
             "ibm rtc."
         ]
     },
-    "826": {
-        "key": "apache maven",
-        "value": [
+    "629": {
+        "apache maven": [
             "apache maven",
             "java maven"
         ]
     },
-    "828": {
-        "key": "openvz",
-        "value": [
+    "630": {
+        "openvz": [
             "open vz",
             "openvz"
         ]
     },
-    "829": {
-        "key": "amazon s3",
-        "value": [
+    "631": {
+        "amazon s3": [
             "s3 amazon service",
             "s3 ,",
             "s3 storage",
@@ -6669,83 +6033,72 @@
             "amazon s3"
         ]
     },
-    "832": {
-        "key": "wowza streaming engine",
-        "value": [
+    "632": {
+        "wowza streaming engine": [
             "wowza",
             "wowza media server"
         ]
     },
-    "834": {
-        "key": "quản lý rủi ro",
-        "value": [
+    "633": {
+        "quản lý rủi ro": [
             "dự toán , rủi ro",
             "quản trị rủi ro",
             "quản lý rủi ro"
         ]
     },
-    "835": {
-        "key": "truy hồi thông tin",
-        "value": [
+    "634": {
+        "truy hồi thông tin": [
             "thu thập các nguồn thông tin",
             "thu thập thông tin",
             "thu thập dữ liệu"
         ]
     },
-    "836": {
-        "key": "redux-saga",
-        "value": [
+    "635": {
+        "redux-saga": [
             "redux-saga",
             "redux - saga"
         ]
     },
-    "837": {
-        "key": "gradle",
-        "value": [
+    "636": {
+        "gradle": [
             "gradle deployed",
             "gradle",
             "gradlê"
         ]
     },
-    "838": {
-        "key": "jakarta persistence query language",
-        "value": [
+    "637": {
+        "jakarta persistence query language": [
             "onetomany",
             "manytoone",
             "manytomany"
         ]
     },
-    "839": {
-        "key": "json web token",
-        "value": [
+    "638": {
+        "json web token": [
             "web token",
             "json web token"
         ]
     },
-    "840": {
-        "key": "virtuemart",
-        "value": [
+    "639": {
+        "virtuemart": [
             "virtuemart",
             "joomla virtuemart"
         ]
     },
-    "842": {
-        "key": "reverse proxy",
-        "value": [
+    "640": {
+        "reverse proxy": [
             "reverse proxy",
             "nginx reverse proxy"
         ]
     },
-    "843": {
-        "key": "phần mềm thiết kế mạch in",
-        "value": [
+    "641": {
+        "phần mềm thiết kế mạch in": [
             "phần mềm vẽ mạch altium",
             "phần mềm altium"
         ]
     },
-    "844": {
-        "key": "thiết kế mạch điện",
-        "value": [
+    "642": {
+        "thiết kế mạch điện": [
             "thiết kế linh kiện",
             "thiết kế mạch điện",
             "vẽ mạch",
@@ -6756,32 +6109,28 @@
             "thiết kế mạch điện tử"
         ]
     },
-    "845": {
-        "key": "mplab",
-        "value": [
+    "643": {
+        "mplab": [
             "mplabx pic",
             "mplab"
         ]
     },
-    "846": {
-        "key": "kỹ năng đánh máy",
-        "value": [
+    "644": {
+        "kỹ năng đánh máy": [
             "đánh máy tốt",
             "đánh máy trung cấp",
             "đánh máy nhanh",
             "đánh máy cao cấp"
         ]
     },
-    "847": {
-        "key": "juniper firewall",
-        "value": [
+    "645": {
+        "juniper firewall": [
             "netscreen juniper firewall",
             "juniper firewall"
         ]
     },
-    "848": {
-        "key": "đảm bảo chất lượng",
-        "value": [
+    "646": {
+        "đảm bảo chất lượng": [
             "đảm bảo chất lượng",
             "đảm bảo sản phẩm",
             "kiểm soát chất lượng",
@@ -6789,89 +6138,77 @@
             "kiểm thử và đảm bảo chất lượng"
         ]
     },
-    "849": {
-        "key": "wincc",
-        "value": [
+    "647": {
+        "wincc": [
             "wincc",
             "win cc."
         ]
     },
-    "853": {
-        "key": "mô hình client-server",
-        "value": [
+    "648": {
+        "mô hình client-server": [
             "xử lý server client",
             "hệ thống server - client",
             "mô hình client server"
         ]
     },
-    "854": {
-        "key": "webmail",
-        "value": [
+    "649": {
+        "webmail": [
             "web mail",
             "webmail"
         ]
     },
-    "856": {
-        "key": "microsoft servers",
-        "value": [
+    "650": {
+        "microsoft servers": [
             "ms server",
             "microsoft server",
             "ms dos",
             "ms isa 2000"
         ]
     },
-    "859": {
-        "key": "ruby",
-        "value": [
+    "651": {
+        "ruby": [
             "ruby script",
             "open ruby"
         ]
     },
-    "860": {
-        "key": "japanese-language proficiency test",
-        "value": [
+    "652": {
+        "japanese-language proficiency test": [
             "jlpt n2",
             "jlpt n4"
         ]
     },
-    "862": {
-        "key": "esp32",
-        "value": [
+    "653": {
+        "esp32": [
             "esp 32",
             "esp32"
         ]
     },
-    "863": {
-        "key": "list of dell poweredge servers",
-        "value": [
+    "654": {
+        "list of dell poweredge servers": [
             "server dell",
             "dell server"
         ]
     },
-    "865": {
-        "key": "recurrent neural network",
-        "value": [
+    "655": {
+        "recurrent neural network": [
             "recurrent neural network",
             "rnn"
         ]
     },
-    "866": {
-        "key": "orange pi",
-        "value": [
+    "656": {
+        "orange pi": [
             "orangepi",
             "orange pi zero"
         ]
     },
-    "867": {
-        "key": "lucidchart",
-        "value": [
+    "657": {
+        "lucidchart": [
             "lucidchart",
             "lucid chart"
         ]
     },
-    "868": {
-        "key": "windows presentation foundation",
-        "value": [
+    "658": {
+        "windows presentation foundation": [
             "wpf.",
             "xây dựng ứng dụng winform",
             "c # wpf",
@@ -6879,37 +6216,32 @@
             "windows presentation foundation"
         ]
     },
-    "869": {
-        "key": "regression testing",
-        "value": [
+    "659": {
+        "regression testing": [
             "regression test",
             "testing regression"
         ]
     },
-    "871": {
-        "key": "test levels",
-        "value": [
+    "660": {
+        "test levels": [
             "test levels",
             "test level"
         ]
     },
-    "874": {
-        "key": "phát triển module",
-        "value": [
+    "661": {
+        "phát triển module": [
             "phát triển các module",
             "tích hợp module"
         ]
     },
-    "875": {
-        "key": "domain driven design",
-        "value": [
+    "662": {
+        "domain driven design": [
             "quản trị domain",
             "quản lý domain"
         ]
     },
-    "878": {
-        "key": "list of cisco products",
-        "value": [
+    "663": {
+        "list of cisco products": [
             "switch access cisco sg200",
             "switch cisco sg300 series",
             "switch core cisco 3850",
@@ -6917,16 +6249,14 @@
             "cisco catalyst 2960"
         ]
     },
-    "879": {
-        "key": "android-x86",
-        "value": [
+    "664": {
+        "android-x86": [
             "android architecture component 2018",
             "android architecture components"
         ]
     },
-    "885": {
-        "key": "hỗ trợ khách hàng",
-        "value": [
+    "665": {
+        "hỗ trợ khách hàng": [
             "phục vụ khách hàng",
             "triển khai đào tạo khách hàng",
             "hỗ trợ khách hàng xử lý",
@@ -6938,91 +6268,79 @@
             "giao tiếp khách hàng"
         ]
     },
-    "887": {
-        "key": "active server pages",
-        "value": [
+    "666": {
+        "active server pages": [
             "asp. net zero framework",
             "asp .net zero"
         ]
     },
-    "888": {
-        "key": "corel videostudio",
-        "value": [
+    "667": {
+        "corel videostudio": [
             "videostudio",
             "corel videostudio pro x7"
         ]
     },
-    "890": {
-        "key": "quản lý kho",
-        "value": [
+    "668": {
+        "quản lý kho": [
             "kiểm soát hàng tồn kho",
             "quản lý tồn kho",
             "quản lý kho"
         ]
     },
-    "891": {
-        "key": "penetration test",
-        "value": [
+    "669": {
+        "penetration test": [
             "pentest",
             "pentest web"
         ]
     },
-    "892": {
-        "key": "sophos",
-        "value": [
+    "670": {
+        "sophos": [
             "sophos",
             "antivirus sophos"
         ]
     },
-    "893": {
-        "key": "cisco asa",
-        "value": [
+    "671": {
+        "cisco asa": [
             "cisco asa",
             "asa cisco",
             "cisco asa 5500 series",
             "asa 5500 series"
         ]
     },
-    "894": {
-        "key": "cnn",
-        "value": [
+    "672": {
+        "cnn": [
             "cnn",
             "mạng cnn"
         ]
     },
-    "895": {
-        "key": "testcomplete",
-        "value": [
+    "673": {
+        "testcomplete": [
             "testcomplete",
             "test complete 12",
             "test complete"
         ]
     },
-    "897": {
-        "key": "sock",
-        "value": [
+    "674": {
+        "sock": [
             "sock *",
             "sock"
         ]
     },
-    "900": {
-        "key": "system administrator",
-        "value": [
+    "675": {
+        "system administrator": [
             "system administrator",
             "system admin"
         ]
     },
-    "905": {
-        "key": "config server",
-        "value": [
+    "676": {
+        "config server": [
             "config server",
             "config web server",
             "cấu hình hệ thống server"
         ]
     },
-    "908": {
-        "key": "switch",
-        "value": [
+    "677": {
+        "switch": [
             "core switch",
             "switch core",
             "switch",
@@ -7031,9 +6349,8 @@
             "switches"
         ]
     },
-    "910": {
-        "key": "swift (programming language)",
-        "value": [
+    "678": {
+        "swift (programming language)": [
             "swift 4.2",
             "swift 3",
             "swift ios",
@@ -7041,435 +6358,375 @@
             "switf 3,4"
         ]
     },
-    "915": {
-        "key": "smartfox",
-        "value": [
+    "679": {
+        "smartfox": [
             "smartfox server",
             "smartfox"
         ]
     },
-    "917": {
-        "key": "khắc phục sự cố",
-        "value": [
+    "680": {
+        "khắc phục sự cố": [
             "quản trị các thiết bị",
             "khắc phục sự cố các thiết bị",
             "khắc phục sự cố của máy",
             "xử lý các sự cố máy tính văn phòng"
         ]
     },
-    "918": {
-        "key": "cấu hình tổng đài",
-        "value": [
+    "681": {
+        "cấu hình tổng đài": [
             "cấu hình tổng đài analog",
             "vận hành hệ thống tổng đài"
         ]
     },
-    "922": {
-        "key": "quicktest professional",
-        "value": [
+    "682": {
+        "quicktest professional": [
             "qtp",
             "quicktest professional"
         ]
     },
-    "924": {
-        "key": "pr",
-        "value": [
+    "683": {
+        "pr": [
             "pr",
             "pr."
         ]
     },
-    "927": {
-        "key": "d-link",
-        "value": [
+    "684": {
+        "d-link": [
             "d-link",
             "dlink"
         ]
     },
-    "928": {
-        "key": "adobe acrobat",
-        "value": [
+    "685": {
+        "adobe acrobat": [
             "adobe acrobat",
             "acrobat pro"
         ]
     },
-    "929": {
-        "key": "visual basic for applications",
-        "value": [
+    "686": {
+        "visual basic for applications": [
             "visual basic for applications",
             "visual basic for application",
             "visual bassic"
         ]
     },
-    "930": {
-        "key": "sun java system portal server",
-        "value": [
+    "687": {
+        "sun java system portal server": [
             "liferay portal framework .",
             "portal liferay 7"
         ]
     },
-    "931": {
-        "key": "troubleshooting",
-        "value": [
+    "688": {
+        "troubleshooting": [
             "troubleshoot",
             "troubleshooting"
         ]
     },
-    "932": {
-        "key": ".gdn",
-        "value": [
+    "689": {
+        ".gdn": [
             "gdn",
             "google gdn"
         ]
     },
-    "933": {
-        "key": "ohs",
-        "value": [
+    "690": {
+        "ohs": [
             "oracle ohs",
             "ohs"
         ]
     },
-    "934": {
-        "key": "sugarcrm",
-        "value": [
+    "691": {
+        "sugarcrm": [
             "custom sugarcrm",
             "sugarcrm"
         ]
     },
-    "936": {
-        "key": "oracle developer suite",
-        "value": [
+    "692": {
+        "oracle developer suite": [
             "developer suite 10g",
             "developer suite"
         ]
     },
-    "939": {
-        "key": "jens quistgaard",
-        "value": [
+    "693": {
+        "jens quistgaard": [
             "pattern desgin",
             "desgin patterns"
         ]
     },
-    "941": {
-        "key": "f5 networks",
-        "value": [
+    "694": {
+        "f5 networks": [
             "f5 network",
             "big ip f5"
         ]
     },
-    "943": {
-        "key": "tối ưu performance",
-        "value": [
+    "695": {
+        "tối ưu performance": [
             "tối ưu performance",
             "tối ưu hóa performance"
         ]
     },
-    "944": {
-        "key": "arm",
-        "value": [
+    "696": {
+        "arm": [
             "arm.",
             "arm"
         ]
     },
-    "949": {
-        "key": "v live",
-        "value": [
+    "697": {
+        "v live": [
             "v - live",
             "vlive"
         ]
     },
-    "951": {
-        "key": "fortran",
-        "value": [
+    "698": {
+        "fortran": [
             "ngôn ngữ fortran 90",
             "fortran"
         ]
     },
-    "952": {
-        "key": "jhipster",
-        "value": [
+    "699": {
+        "jhipster": [
             "framework jhipster",
             "jhipster"
         ]
     },
-    "953": {
-        "key": "premiere",
-        "value": [
+    "700": {
+        "premiere": [
             "premiere",
             "primiere"
         ]
     },
-    "954": {
-        "key": "sharable content object reference model",
-        "value": [
+    "701": {
+        "sharable content object reference model": [
             "scorm",
             "sharable content object reference model"
         ]
     },
-    "960": {
-        "key": "sales order",
-        "value": [
+    "702": {
+        "sales order": [
             "sales orders",
             "sales order issue"
         ]
     },
-    "963": {
-        "key": "lync",
-        "value": [
+    "703": {
+        "lync": [
             "lync",
             "lync basic",
             "microsoft lync"
         ]
     },
-    "965": {
-        "key": "multilayer switch",
-        "value": [
+    "704": {
+        "multilayer switch": [
             "switch layer 3",
             "switch layer 2"
         ]
     },
-    "966": {
-        "key": "toxin-antitoxin system",
-        "value": [
+    "705": {
+        "toxin-antitoxin system": [
             "reponsive mobile",
             "reponsive web"
         ]
     },
-    "967": {
-        "key": "tp-link",
-        "value": [
+    "706": {
+        "tp-link": [
             "tp-link",
             "tp link",
             "tp - link"
         ]
     },
-    "968": {
-        "key": "particle system",
-        "value": [
+    "707": {
+        "particle system": [
             "particle system",
             "particle systems"
         ]
     },
-    "970": {
-        "key": "nodemcu",
-        "value": [
+    "708": {
+        "nodemcu": [
             "nodemcu",
             "node mcu esp32"
         ]
     },
-    "971": {
-        "key": "solid",
-        "value": [
+    "709": {
+        "solid": [
             "solid",
             "solid work"
         ]
     },
-    "972": {
-        "key": "xpages",
-        "value": [
+    "710": {
+        "xpages": [
             "xpage",
             "xpages"
         ]
     },
-    "973": {
-        "key": "ess",
-        "value": [
+    "711": {
+        "ess": [
             "ess.",
             "a ess"
         ]
     },
-    "975": {
-        "key": "ibm cognos analytics",
-        "value": [
+    "712": {
+        "ibm cognos analytics": [
             "cognos bi",
             "cognos framework",
             "ibm cognos analytic"
         ]
     },
-    "976": {
-        "key": "ibm aix",
-        "value": [
+    "713": {
+        "ibm aix": [
             "aix 6.1",
             "ibm aix"
         ]
     },
-    "978": {
-        "key": "optical character recognition",
-        "value": [
+    "714": {
+        "optical character recognition": [
             "ocr algorithm",
             "ocr deep learning"
         ]
     },
-    "981": {
-        "key": "pyqt",
-        "value": [
+    "715": {
+        "pyqt": [
             "pyqt",
             "pyqt5"
         ]
     },
-    "984": {
-        "key": "internet explorer",
-        "value": [
+    "716": {
+        "internet explorer": [
             "internet explorer",
             "ie7",
             "internet explorer 7.0"
         ]
     },
-    "985": {
-        "key": "meta element",
-        "value": [
+    "717": {
+        "meta element": [
             "meta description",
             "meta keywords"
         ]
     },
-    "987": {
-        "key": "amazon route 53",
-        "value": [
+    "718": {
+        "amazon route 53": [
             "amazon route",
             "aws route53"
         ]
     },
-    "992": {
-        "key": "embedded system",
-        "value": [
+    "719": {
+        "embedded system": [
             "c embedded system",
             "embedded system"
         ]
     },
-    "994": {
-        "key": "pro*c",
-        "value": [
+    "720": {
+        "pro*c": [
             "pro * c",
             "pro c"
         ]
     },
-    "995": {
-        "key": "red hat enterprise linux",
-        "value": [
+    "721": {
+        "red hat enterprise linux": [
             "linux rhel 4",
             "enterprise linux",
             "redhat linux",
             "rhl"
         ]
     },
-    "997": {
-        "key": "sap hana",
-        "value": [
+    "722": {
+        "sap hana": [
             "hana database",
             "sap hana"
         ]
     },
-    "998": {
-        "key": "accounting",
-        "value": [
+    "723": {
+        "accounting": [
             "fast accounting",
             "accounting",
             "pro accounting )"
         ]
     },
-    "1002": {
-        "key": "windows embedded compact",
-        "value": [
+    "724": {
+        "windows embedded compact": [
             "wince",
             "win ce."
         ]
     },
-    "1005": {
-        "key": "unreal engine",
-        "value": [
+    "725": {
+        "unreal engine": [
             "unreal development kit ( udk )",
             "unreal engine"
         ]
     },
-    "1009": {
-        "key": "keyword tool (software)",
-        "value": [
+    "726": {
+        "keyword tool (software)": [
             "keywordtool",
             "keywordtool .io"
         ]
     },
-    "1010": {
-        "key": "chatbot",
-        "value": [
+    "727": {
+        "chatbot": [
             "chatbot",
             "chat bot"
         ]
     },
-    "1012": {
-        "key": "ibm mq",
-        "value": [
+    "728": {
+        "ibm mq": [
             "ibm mq",
             "ibm mq."
         ]
     },
-    "1013": {
-        "key": "g.984",
-        "value": [
+    "729": {
+        "g.984": [
             "internet gpon",
             "gpon"
         ]
     },
-    "1015": {
-        "key": "marc standards",
-        "value": [
+    "730": {
+        "marc standards": [
             "marc21",
             "marc xml"
         ]
     },
-    "1018": {
-        "key": "hp storageworks",
-        "value": [
+    "731": {
+        "hp storageworks": [
             "hp san storage",
             "hpe san storage",
             "hpe msa"
         ]
     },
-    "1020": {
-        "key": "resource monitor",
-        "value": [
+    "732": {
+        "resource monitor": [
             "resource monitor",
             "storage resource monitor"
         ]
     },
-    "1021": {
-        "key": "puresystems",
-        "value": [
+    "733": {
+        "puresystems": [
             "ibm pureflex",
             "ibm flex system"
         ]
     },
-    "1022": {
-        "key": "hpe integrity servers",
-        "value": [
+    "734": {
+        "hpe integrity servers": [
             "hp integrity",
             "hpe server"
         ]
     },
-    "1023": {
-        "key": "oracle enterprise service bus",
-        "value": [
+    "735": {
+        "oracle enterprise service bus": [
             "oracle services bus",
             "oracle enterprise service bus",
             "oracle esb"
         ]
     },
-    "1024": {
-        "key": "brand",
-        "value": [
+    "736": {
+        "brand": [
             "branding marketing",
             "brands"
         ]
     },
-    "1025": {
-        "key": "pic microcontrollers",
-        "value": [
+    "737": {
+        "pic microcontrollers": [
             "pic16",
             "pic18",
             "dspic 30f"
         ]
     },
-    "1026": {
-        "key": "database management system",
-        "value": [
+    "738": {
+        "database management system": [
             "dbms",
             "dbms.",
             "database management system",
@@ -7478,9 +6735,8 @@
             "hệ quản trị csdl"
         ]
     },
-    "1027": {
-        "key": "quản trị server",
-        "value": [
+    "739": {
+        "quản trị server": [
             "quản trị server",
             "quản trị hệ thống server",
             "quản trị sever",
