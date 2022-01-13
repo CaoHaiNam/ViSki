@@ -1,6 +1,6 @@
 # ViSki dataset
 
-Data to train, validate and test synonym prediction model. Detail about model can be found in paper.
+Data to train, validate and test synonym prediction model.
 
 Follow the code below to load data:
 ```python
