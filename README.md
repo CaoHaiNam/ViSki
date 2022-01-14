@@ -1,4 +1,4 @@
-# Vietnamese-Ocupational-Skill-Dataset
+# viski dataset
 
 ## Overview
 We introduced the Vietnamese Occupational Skill Dataset, which consists of occupational skills and synonym set of skills. The synonym set is a dictionary, each element in the synonym set is a dictionary as well, with value is a list of synonymous skills, and key is standard skill of thems.
