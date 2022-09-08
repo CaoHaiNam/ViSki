@@ -5,3 +5,14 @@ We introduced the ViSki dataset, which consists of occupational skills and synon
 *  [occupational skill](https://github.com/CaoHaiNam/Vietnamese-Ocupational-Skill-Dataset/blob/main/raw_skill_terms.txt): contain 10245 skills manually acquired from numerous Vietnamese resumes and how many times they occur in these resumes.
 * [synonymset](https://github.com/CaoHaiNam/Vietnamese-Ocupational-Skill-Dataset/blob/main/synonymSet.json): consist of 740 synonym sets corresponding to 3787 skills.
 * [skill2neighbor](https://github.com/CaoHaiNam/Vietnamese-Occupational-Skill-Dataset/blob/main/skill2neighbor.json): provide information about neighbors of a specific skill and how many time they co-occur in resumes. 
+
+```
+@inproceedings{cao2022synonym,
+  title={Synonym Prediction for Vietnamese Occupational Skills},
+  author={Cao, Hai-Nam and Do, Duc-Thai and Tran, Viet-Trung and Cao, Tuan-Dung and Song, Young-In},
+  booktitle={International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems},
+  pages={351--362},
+  year={2022},
+  organization={Springer}
+}
+```
