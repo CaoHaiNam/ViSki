@@ -17,3 +17,14 @@ We introduced the ViSki dataset, which consists of occupational skills and synon
   organization={Springer}
 }
 ```
+
+```
+@inproceedings{tran2022practical,
+  title={A practical method for occupational skills detection in Vietnamese job listings},
+  author={Tran, Viet-Trung and Cao, Hai-Nam and Cao, Tuan-Dung},
+  booktitle={Asian Conference on Intelligent Information and Database Systems},
+  pages={571--581},
+  year={2022},
+  organization={Springer}
+}
+```
